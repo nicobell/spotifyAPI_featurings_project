@@ -1,0 +1,505 @@
+{
+  "profile": "images/Sfera EbbastaProfile.jpg",
+  "artistName": "Sfera Ebbasta",
+  "idFeats": [
+    {
+      "name": "Sfera Ebbasta",
+      "ids": [
+        "10CEiNq9vx9UH9mXQkG6H6",
+        "6XoS4VSPGPNNEamSuxgYeC",
+        "1YqeUzASrJqERUXj0IkyuP",
+        "04qM3Mvv39gglcZSW8winF",
+        "4HbNIaxF0PVw8R0qkoqPTl",
+        "7wq5OxX950Ftc52yVrWwjC",
+        "6wcA7bsasjOzMrOyMZC170",
+        "0gr2gzSr2jM9R6CecuINVM",
+        "2293PmNvzPuLp9N2iF0pfF",
+        "3EJhYywKBdno25AZaqy3St",
+        "7kck8Amf3NpSGASoFuKIcl",
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "0vpeVfZTtfnRYuY1heLDYt",
+        "6stctriNY7UC7KyHcG7ZBH",
+        "05mrU7mN3c1822bpY58UBC",
+        "45zJRuzK9e6AO527NOW7Fy",
+        "66UkKyxN5YbJl9z7YamQOR",
+        "3XY1sgtB4Gg4IDNKtUvY7A",
+        "31wSmTMwl9CIr1RQds2Tvy",
+        "4EYeOEkWYnswUVzI91rSRf",
+        "7wC76LWyNxaP3hjGzbWOcN",
+        "54hZVqlHlwT4E8RzgsZfje",
+        "4K8bl6KhhfKlMHvuw5uffl",
+        "3LHQYNBQxCJLn90ChLxkhl",
+        "0qzfRmsV5Ii555SlE1CHjD",
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "1HEGcG1QUJfyyPfq5EMF9b",
+        "31ZH3LoJKJYVWJIN4zhzGo",
+        "7J4P2IKh5pCBpSfGs5gaGy",
+        "6lkwUrwYJiMrZFXc9SC7o5",
+        "6ZMxDnAqUHaevTq3RmvIZk",
+        "2lLJ8J0QcHjIgdsmltejj4",
+        "2Msjt8weU9dMjpJx4CwmpJ",
+        "2sGiCbIv1k5Uo2VlZ7Ncjy"
+      ],
+      "appears": 34
+    },
+    {
+      "name": "Khea",
+      "ids": ["10CEiNq9vx9UH9mXQkG6H6"],
+      "appears": 1
+    },
+    {
+      "name": "Duki",
+      "ids": ["10CEiNq9vx9UH9mXQkG6H6"],
+      "appears": 1
+    },
+    {
+      "name": "Quavo",
+      "ids": [
+        "10CEiNq9vx9UH9mXQkG6H6",
+        "1YqeUzASrJqERUXj0IkyuP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Elettra Lamborghini",
+      "ids": [
+        "10CEiNq9vx9UH9mXQkG6H6",
+        "6stctriNY7UC7KyHcG7ZBH"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Rvssian",
+      "ids": ["6XoS4VSPGPNNEamSuxgYeC"],
+      "appears": 1
+    },
+    {
+      "name": "Miami Yacine",
+      "ids": ["04qM3Mvv39gglcZSW8winF"],
+      "appears": 1
+    },
+    {
+      "name": "Tinie Tempah",
+      "ids": ["4HbNIaxF0PVw8R0qkoqPTl"],
+      "appears": 1
+    },
+    {
+      "name": "DrefGold",
+      "ids": [
+        "7wq5OxX950Ftc52yVrWwjC",
+        "3XY1sgtB4Gg4IDNKtUvY7A",
+        "31wSmTMwl9CIr1RQds2Tvy",
+        "54hZVqlHlwT4E8RzgsZfje"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Rich The Kid",
+      "ids": [
+        "6wcA7bsasjOzMrOyMZC170",
+        "4EYeOEkWYnswUVzI91rSRf"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Lary Over",
+      "ids": ["0gr2gzSr2jM9R6CecuINVM"],
+      "appears": 1
+    },
+    {
+      "name": "SCH",
+      "ids": [
+        "2293PmNvzPuLp9N2iF0pfF",
+        "3EJhYywKBdno25AZaqy3St"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Tedua",
+      "ids": [
+        "7kck8Amf3NpSGASoFuKIcl",
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "1HEGcG1QUJfyyPfq5EMF9b"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Izi",
+      "ids": [
+        "7kck8Amf3NpSGASoFuKIcl",
+        "05mrU7mN3c1822bpY58UBC",
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "6ZMxDnAqUHaevTq3RmvIZk",
+        "2Msjt8weU9dMjpJx4CwmpJ"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Charlie Charles",
+      "ids": [
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "45zJRuzK9e6AO527NOW7Fy",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Ghali",
+      "ids": [
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Luche",
+      "ids": ["0vpeVfZTtfnRYuY1heLDYt"],
+      "appears": 1
+    },
+    {
+      "name": "Mahmood",
+      "ids": ["45zJRuzK9e6AO527NOW7Fy"],
+      "appears": 1
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": ["45zJRuzK9e6AO527NOW7Fy"],
+      "appears": 1
+    },
+    {
+      "name": "Rkomi",
+      "ids": [
+        "66UkKyxN5YbJl9z7YamQOR",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Capo Plaza",
+      "ids": [
+        "3XY1sgtB4Gg4IDNKtUvY7A",
+        "2sGiCbIv1k5Uo2VlZ7Ncjy"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": [
+        "31wSmTMwl9CIr1RQds2Tvy",
+        "3LHQYNBQxCJLn90ChLxkhl"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Marty Baller",
+      "ids": ["4EYeOEkWYnswUVzI91rSRf"],
+      "appears": 1
+    },
+    {
+      "name": "A$AP Ferg",
+      "ids": ["4EYeOEkWYnswUVzI91rSRf"],
+      "appears": 1
+    },
+    {
+      "name": "Jay Critch",
+      "ids": ["4EYeOEkWYnswUVzI91rSRf"],
+      "appears": 1
+    },
+    {
+      "name": "Salmo",
+      "ids": ["7wC76LWyNxaP3hjGzbWOcN"],
+      "appears": 1
+    },
+    {
+      "name": "Daves The Kid",
+      "ids": ["54hZVqlHlwT4E8RzgsZfje"],
+      "appears": 1
+    },
+    {
+      "name": "Reggie Mills",
+      "ids": ["4K8bl6KhhfKlMHvuw5uffl"],
+      "appears": 1
+    },
+    {
+      "name": "Famous Dex",
+      "ids": ["4K8bl6KhhfKlMHvuw5uffl"],
+      "appears": 1
+    },
+    {
+      "name": "Coyote Jo Bastard",
+      "ids": [
+        "0qzfRmsV5Ii555SlE1CHjD",
+        "31ZH3LoJKJYVWJIN4zhzGo"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Leto (PSO Thug)",
+      "ids": [
+        "0qzfRmsV5Ii555SlE1CHjD",
+        "31ZH3LoJKJYVWJIN4zhzGo"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Dark Polo Gang",
+      "ids": [
+        "7J4P2IKh5pCBpSfGs5gaGy",
+        "6lkwUrwYJiMrZFXc9SC7o5",
+        "2lLJ8J0QcHjIgdsmltejj4"
+      ],
+      "appears": 3
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Cupido (with Khea & Duki feat. Quavo & Elettra Lamborghini) - RMX",
+        "Pablo",
+        "Cupido (feat. Quavo)",
+        "Uber (feat. Miami Yacine)",
+        "Bancomat (feat. Tinie Tempah)",
+        "Sciroppo (feat. DrefGold)",
+        "20 Collane (feat. Rich The Kid)",
+        "Tran Tran (feat. Lary Over)",
+        "Balenciaga",
+        "Cartine Cartier",
+        "Mercedes Nero",
+        "Peace & Love",
+        "Stamm Fort (feat. Sfera Ebbasta)",
+        "Corazón Morado (feat. Sfera Ebbasta)",
+        "48H (feat. Sfera Ebbasta)",
+        "Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)",
+        "Mon Cheri (feat. Sfera Ebbasta)",
+        "Tesla (feat. Sfera Ebbasta & DrefGold)",
+        "Borsello (feat. Sfera Ebbasta & DrefGold)",
+        "Ice (feat. ASAP Ferg, Rich The Kid, Sfera Ebbasta & Jay Critch)",
+        "CABRIOLET (feat. Sfera Ebbasta)",
+        "Wave (feat. Sfera Ebbasta)",
+        "Ballin in Fendi (feat. Famous Dex & Sfera Ebbasta)",
+        "Lamborghini",
+        "DADDY",
+        "Bimbi",
+        "Lingerie",
+        "Daddy feat. Sfera Ebbasta & Leto (de PSO Thug)",
+        "Fiori del male (feat. Sfera Ebbasta)",
+        "Bang bang (feat. Sfera Ebbasta)",
+        "Tutto apposto",
+        "Cavallini (feat. Sfera Ebbasta)",
+        "Sobrio",
+        "Tutti i giorni"
+      ],
+      "name": "Sfera Ebbasta",
+      "appears": 34
+    },
+    {
+      "songs": ["Cupido (with Khea & Duki feat. Quavo & Elettra Lamborghini) - RMX"],
+      "name": "Khea",
+      "appears": 1
+    },
+    {
+      "songs": ["Cupido (with Khea & Duki feat. Quavo & Elettra Lamborghini) - RMX"],
+      "name": "Duki",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Cupido (with Khea & Duki feat. Quavo & Elettra Lamborghini) - RMX",
+        "Cupido (feat. Quavo)"
+      ],
+      "name": "Quavo",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Cupido (with Khea & Duki feat. Quavo & Elettra Lamborghini) - RMX",
+        "Corazón Morado (feat. Sfera Ebbasta)"
+      ],
+      "name": "Elettra Lamborghini",
+      "appears": 2
+    },
+    {
+      "songs": ["Pablo"],
+      "name": "Rvssian",
+      "appears": 1
+    },
+    {
+      "songs": ["Uber (feat. Miami Yacine)"],
+      "name": "Miami Yacine",
+      "appears": 1
+    },
+    {
+      "songs": ["Bancomat (feat. Tinie Tempah)"],
+      "name": "Tinie Tempah",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Sciroppo (feat. DrefGold)",
+        "Tesla (feat. Sfera Ebbasta & DrefGold)",
+        "Borsello (feat. Sfera Ebbasta & DrefGold)",
+        "Wave (feat. Sfera Ebbasta)"
+      ],
+      "name": "DrefGold",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "20 Collane (feat. Rich The Kid)",
+        "Ice (feat. ASAP Ferg, Rich The Kid, Sfera Ebbasta & Jay Critch)"
+      ],
+      "name": "Rich The Kid",
+      "appears": 2
+    },
+    {
+      "songs": ["Tran Tran (feat. Lary Over)"],
+      "name": "Lary Over",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Balenciaga",
+        "Cartine Cartier"
+      ],
+      "name": "SCH",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Mercedes Nero",
+        "Bimbi",
+        "Lingerie"
+      ],
+      "name": "Tedua",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Mercedes Nero",
+        "48H (feat. Sfera Ebbasta)",
+        "Bimbi",
+        "Tutto apposto",
+        "Sobrio"
+      ],
+      "name": "Izi",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "Peace & Love",
+        "Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)",
+        "Bimbi"
+      ],
+      "name": "Charlie Charles",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Peace & Love",
+        "Bimbi"
+      ],
+      "name": "Ghali",
+      "appears": 2
+    },
+    {
+      "songs": ["Stamm Fort (feat. Sfera Ebbasta)"],
+      "name": "Luche",
+      "appears": 1
+    },
+    {
+      "songs": ["Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)"],
+      "name": "Mahmood",
+      "appears": 1
+    },
+    {
+      "songs": ["Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)"],
+      "name": "Fabri Fibra",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Mon Cheri (feat. Sfera Ebbasta)",
+        "Bimbi"
+      ],
+      "name": "Rkomi",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Tesla (feat. Sfera Ebbasta & DrefGold)",
+        "Tutti i giorni"
+      ],
+      "name": "Capo Plaza",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Borsello (feat. Sfera Ebbasta & DrefGold)",
+        "Lamborghini"
+      ],
+      "name": "Gue Pequeno",
+      "appears": 2
+    },
+    {
+      "songs": ["Ice (feat. ASAP Ferg, Rich The Kid, Sfera Ebbasta & Jay Critch)"],
+      "name": "Marty Baller",
+      "appears": 1
+    },
+    {
+      "songs": ["Ice (feat. ASAP Ferg, Rich The Kid, Sfera Ebbasta & Jay Critch)"],
+      "name": "A$AP Ferg",
+      "appears": 1
+    },
+    {
+      "songs": ["Ice (feat. ASAP Ferg, Rich The Kid, Sfera Ebbasta & Jay Critch)"],
+      "name": "Jay Critch",
+      "appears": 1
+    },
+    {
+      "songs": ["CABRIOLET (feat. Sfera Ebbasta)"],
+      "name": "Salmo",
+      "appears": 1
+    },
+    {
+      "songs": ["Wave (feat. Sfera Ebbasta)"],
+      "name": "Daves The Kid",
+      "appears": 1
+    },
+    {
+      "songs": ["Ballin in Fendi (feat. Famous Dex & Sfera Ebbasta)"],
+      "name": "Reggie Mills",
+      "appears": 1
+    },
+    {
+      "songs": ["Ballin in Fendi (feat. Famous Dex & Sfera Ebbasta)"],
+      "name": "Famous Dex",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "DADDY",
+        "Daddy feat. Sfera Ebbasta & Leto (de PSO Thug)"
+      ],
+      "name": "Coyote Jo Bastard",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "DADDY",
+        "Daddy feat. Sfera Ebbasta & Leto (de PSO Thug)"
+      ],
+      "name": "Leto (PSO Thug)",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Fiori del male (feat. Sfera Ebbasta)",
+        "Bang bang (feat. Sfera Ebbasta)",
+        "Cavallini (feat. Sfera Ebbasta)"
+      ],
+      "name": "Dark Polo Gang",
+      "appears": 3
+    }
+  ],
+  "aura": 0
+}

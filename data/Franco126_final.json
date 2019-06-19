@@ -1,0 +1,373 @@
+{
+  "profile": "images/Franco126Profile.jpg",
+  "artistName": "Franco126",
+  "idFeats": [
+    {
+      "name": "Franco126",
+      "ids": [
+        "23hpOtox5sIuRqVBVVJxsO",
+        "3xGD5KhnizETt7KQwxtUAc",
+        "0ICFgqyvfwZlzWEcAD9USL",
+        "1re9XfBU8MSF0AEQg23peK",
+        "4HYkH6NHuX6TQlhGJAwVQn",
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "1D8P9vyUWhKtVEoC3gQ5Vb",
+        "2GjjQV6YmVd62x5qOCu1er",
+        "3TsXTqI8WsuZRmHQfMRfXN",
+        "3KyOPsf3l1HFjQhHRrWvhJ",
+        "7DmO4MsLBh6X1AWmkKR0bC",
+        "6v511W6qY9W8Fgnxe9h4MY",
+        "7KWB17iuJGCRVmZn9R6aFS",
+        "4Ft5l7VUI7rhN1E15SXkZ2",
+        "4YixrkhnimmKMC1JV3ppd0",
+        "0EOik5SaVD8GgB80pIhQ4K",
+        "2BjejQx0vDhjDY9oIjOJZw",
+        "4WWfgQw0psl2ULE9QGSS1J",
+        "5kf8d9DoYJbQmiaYjsPobn", 
+        "6ElWuGFrYbsf2mdHWUoGCk", 
+        "3kddbhkA59WZJT7GHFsLpe", 
+        "5y3u5jbGXKFvJiSPGw6nJk", 
+        "0m2X1qmqHEPy9lZ10HTn6z", 
+        "0r6Smrwab8PIoWiWuUcNt9", 
+        "7mns2dLQA2kDmDW2DyXSr0", 
+        "7D7PP87gyUMopAuYOIrdLi", 
+        "6HkJey4kJvPhFYnSOmAlKI", 
+        "6eJGIi0c2MNU3DR2QZ9nbM", 
+        "2Z9hIs3PKc9JMOgivpKLRA", 
+        "58oRbsH5IDJYjFe4e8RAij", 
+        "2fQdTT7WOqalizM3bWYfxf", 
+        "2RYtITt3ajbUT8KTeaV2c4",
+        "5DelwP5vBag1H1Nmlygcu8", 
+        "6w7QSzRdVp42o9jDsNDeVM", 
+        "6fHkpJ8lv3NjRjUtLPFHXq"
+      ],
+      "appears": 35
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": ["6fHkpJ8lv3NjRjUtLPFHXq"],
+      "appears": 1
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "ids":["6w7QSzRdVp42o9jDsNDeVM"],
+      "appears": 1
+    },
+    {
+      "name": "Coez",
+      "ids": ["5DelwP5vBag1H1Nmlygcu8"],
+      "appears": 1
+    },
+    {
+      "name": "Tommaso Paradiso",
+      "ids": ["23hpOtox5sIuRqVBVVJxsO"],
+      "appears": 1
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": ["3xGD5KhnizETt7KQwxtUAc"],
+      "appears": 1
+    },
+    {
+      "name": "Venerus",
+      "ids": ["3xGD5KhnizETt7KQwxtUAc"],
+      "appears": 1
+    },
+    {
+      "name": "Gemello",
+      "ids": ["0ICFgqyvfwZlzWEcAD9USL"],
+      "appears": 1
+    },
+    {
+      "name": "Gianni Bismark",
+      "ids": ["1re9XfBU8MSF0AEQg23peK"],
+      "appears": 1
+    },
+    {
+      "name": "Drone126",
+      "ids": [
+        "4HYkH6NHuX6TQlhGJAwVQn",
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "1D8P9vyUWhKtVEoC3gQ5Vb",
+        "2GjjQV6YmVd62x5qOCu1er",
+        "3TsXTqI8WsuZRmHQfMRfXN"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Ketama126",
+      "ids": [
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "2GjjQV6YmVd62x5qOCu1er",
+        "3KyOPsf3l1HFjQhHRrWvhJ",
+        "7DmO4MsLBh6X1AWmkKR0bC",
+        "7KWB17iuJGCRVmZn9R6aFS",
+        "4WWfgQw0psl2ULE9QGSS1J"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Pretty Solero",
+      "ids": [
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "3TsXTqI8WsuZRmHQfMRfXN",
+        "3KyOPsf3l1HFjQhHRrWvhJ"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Ugo Borghetti",
+      "ids": [
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "1D8P9vyUWhKtVEoC3gQ5Vb"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Asp126",
+      "ids": [
+        "2UZirqJVvlQ64nG8vKU3GO",
+        "2BjejQx0vDhjDY9oIjOJZw"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Zollo",
+      "ids": ["3KyOPsf3l1HFjQhHRrWvhJ"],
+      "appears": 1
+    },
+    {
+      "name": "Carl Brave",
+      "ids": [
+        "6v511W6qY9W8Fgnxe9h4MY",
+        "4Ft5l7VUI7rhN1E15SXkZ2",
+        "5kf8d9DoYJbQmiaYjsPobn", 
+        "6ElWuGFrYbsf2mdHWUoGCk", 
+        "3kddbhkA59WZJT7GHFsLpe", 
+        "5y3u5jbGXKFvJiSPGw6nJk", 
+        "0m2X1qmqHEPy9lZ10HTn6z", 
+        "0r6Smrwab8PIoWiWuUcNt9", 
+        "7mns2dLQA2kDmDW2DyXSr0", 
+        "7D7PP87gyUMopAuYOIrdLi", 
+        "6HkJey4kJvPhFYnSOmAlKI", 
+        "6eJGIi0c2MNU3DR2QZ9nbM", 
+        "2Z9hIs3PKc9JMOgivpKLRA", 
+        "58oRbsH5IDJYjFe4e8RAij", 
+        "2fQdTT7WOqalizM3bWYfxf", 
+        "2RYtITt3ajbUT8KTeaV2c4",
+        "5DelwP5vBag1H1Nmlygcu8", 
+        "6w7QSzRdVp42o9jDsNDeVM", 
+        "6fHkpJ8lv3NjRjUtLPFHXq"
+      ],
+      "appears": 19
+    },
+    {
+      "name": "Federica Abbate",
+      "ids": ["6v511W6qY9W8Fgnxe9h4MY"],
+      "appears": 1
+    },
+    {
+      "name": "Ill Tre",
+      "ids": ["4YixrkhnimmKMC1JV3ppd0"],
+      "appears": 1
+    },
+    {
+      "name": "Wankers",
+      "ids": [
+        "0EOik5SaVD8GgB80pIhQ4K",
+        "2BjejQx0vDhjDY9oIjOJZw"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Seany 126",
+      "ids": ["4WWfgQw0psl2ULE9QGSS1J"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Stanza Singola (feat. Tommaso Paradiso)",
+        "Senza Di Me (feat. Venerus & Franco126)",
+        "Airone",
+        "Università (feat. Franco126)",
+        "Lambrusco (feat. Franco126)",
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Spigoli (feat. Franco126 & Ugo Borghetti)",
+        "Buono a nulla (feat. Franco126 & Ketama126)",
+        "Mille scuse (feat. Franco126 & Pretty Solero)",
+        "Non é un gioco (feat. Ketama126, Franco126 & Zollo)",
+        "Misentomale",
+        "La Cuenta (feat. Franco 126 & Federica Abbate)",
+        "Triste",
+        "Santo Graal",
+        "Bee Gees",
+        "Joe Wanker feat. Franco126",
+        "Italian Traveler feat. Franco126, Asp126",
+        "Rione XIII",
+        "Solo Guai",
+        "Sempre In Due", 
+        "Polaroid", 
+        "Lucky Strike", 
+        "Enjoy", 
+        "Tararì Tararà", 
+        "Per Favore", 
+        "Noccioline", 
+        "Alla Tua", 
+        "Pellaria", 
+        "Medusa", 
+        "Cheregazzina", 
+        "Avocado", 
+        "Argentario",
+        "Barceloneta", 
+        "Interrail (feat. Carl Brave x Franco126)", 
+        "Borotalco (feat. Carl Brave x Franco 126)"
+      ],
+      "name": "Franco126",
+      "appears": 35
+    },
+    {
+      "name": "Noyz Narcos",
+      "songs": ["Borotalco (feat. Carl Brave x Franco 126)"],
+      "appears": 1
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "nasongsme":["Interrail (feat. Carl Brave x Franco126)"],
+      "appears": 1
+    },
+    {
+      "name": "Coez",
+      "songs": ["Barceloneta"],
+      "appears": 1
+    },
+    {
+      "songs": ["Stanza Singola (feat. Tommaso Paradiso)"],
+      "name": "Tommaso Paradiso",
+      "appears": 1
+    },
+    {
+      "songs": ["Senza Di Me (feat. Venerus & Franco126)"],
+      "name": "Gemitaiz",
+      "appears": 1
+    },
+    {
+      "songs": ["Senza Di Me (feat. Venerus & Franco126)"],
+      "name": "Venerus",
+      "appears": 1
+    },
+    {
+      "songs": ["Airone"],
+      "name": "Gemello",
+      "appears": 1
+    },
+    {
+      "songs": ["Università (feat. Franco126)"],
+      "name": "Gianni Bismark",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Lambrusco (feat. Franco126)",
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Spigoli (feat. Franco126 & Ugo Borghetti)",
+        "Buono a nulla (feat. Franco126 & Ketama126)",
+        "Mille scuse (feat. Franco126 & Pretty Solero)"
+      ],
+      "name": "Drone126",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Buono a nulla (feat. Franco126 & Ketama126)",
+        "Non é un gioco (feat. Ketama126, Franco126 & Zollo)",
+        "Misentomale",
+        "Triste",
+        "Rione XIII"
+      ],
+      "name": "Ketama126",
+      "appears": 6
+    },
+    {
+      "songs": [
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Mille scuse (feat. Franco126 & Pretty Solero)",
+        "Non é un gioco (feat. Ketama126, Franco126 & Zollo)"
+      ],
+      "name": "Pretty Solero",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Spigoli (feat. Franco126 & Ugo Borghetti)"
+      ],
+      "name": "Ugo Borghetti",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "CXXVI (feat. Ketama126, Pretty Solero, Ugo Borghetti, Asp126 & Franco126)",
+        "Italian Traveler feat. Franco126, Asp126"
+      ],
+      "name": "Asp126",
+      "appears": 2
+    },
+    {
+      "songs": ["Non é un gioco (feat. Ketama126, Franco126 & Zollo)"],
+      "name": "Zollo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La Cuenta (feat. Franco 126 & Federica Abbate)",
+        "Santo Graal",
+        "Solo Guai",
+        "Sempre In Due", 
+        "Polaroid", 
+        "Lucky Strike", 
+        "Enjoy", 
+        "Tararì Tararà", 
+        "Per Favore", 
+        "Noccioline", 
+        "Alla Tua", 
+        "Pellaria", 
+        "Medusa", 
+        "Cheregazzina", 
+        "Avocado", 
+        "Argentario", 
+        "Barceloneta", 
+        "Interrail (feat. Carl Brave x Franco126)", 
+        "Borotalco (feat. Carl Brave x Franco 126)"
+      ],
+      "name": "Carl Brave",
+      "appears": 19
+    },
+    {
+      "songs": ["La Cuenta (feat. Franco 126 & Federica Abbate)"],
+      "name": "Federica Abbate",
+      "appears": 1
+    },
+    {
+      "songs": ["Bee Gees"],
+      "name": "Ill Tre",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Joe Wanker feat. Franco126",
+        "Italian Traveler feat. Franco126, Asp126"
+      ],
+      "name": "Wankers",
+      "appears": 2
+    },
+    {
+      "songs": ["Rione XIII"],
+      "name": "Seany 126",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

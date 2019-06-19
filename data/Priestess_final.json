@@ -1,0 +1,123 @@
+{
+  "profile": "images/PriestessProfile.jpg",
+  "artistName": "Priestess",
+  "idFeats": [
+    {
+      "name": "Priestess",
+      "ids": [
+        "7bRfuLVO38R2LUTCDVkBvF",
+        "1YQ8KTWsy2lAW4Bwr00ZiP",
+        "2WYP6nbGg20AL8zkgvZxex",
+        "0Pi8hOfhyPYQOg8PL6tcT9",
+        "38VjOYUsuixSQzqv3oASPv",
+        "44cZqzCGuVsLFrwuwXN4PX",
+        "2M4p1aS71ZH76bMgQTU0LY",
+        "5wMBpJoF9omYhUDAfaWFNa",
+        "2zVgBwJGgeICt6BYuSyWv3",
+        "2IEELjhOodAAwwWIkI4SEV"
+      ],
+      "appears": 10
+    },
+    {
+      "name": "MadMan",
+      "ids": [
+        "7bRfuLVO38R2LUTCDVkBvF",
+        "2WYP6nbGg20AL8zkgvZxex",
+        "2M4p1aS71ZH76bMgQTU0LY",
+        "5wMBpJoF9omYhUDAfaWFNa",
+        "2zVgBwJGgeICt6BYuSyWv3",
+        "2IEELjhOodAAwwWIkI4SEV"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "1YQ8KTWsy2lAW4Bwr00ZiP",
+        "0Pi8hOfhyPYQOg8PL6tcT9",
+        "44cZqzCGuVsLFrwuwXN4PX"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Quentin40",
+      "ids": ["0Pi8hOfhyPYQOg8PL6tcT9"],
+      "appears": 1
+    },
+    {
+      "name": "Matteo",
+      "ids": ["38VjOYUsuixSQzqv3oASPv"],
+      "appears": 1
+    },
+    {
+      "name": "FP",
+      "ids": ["38VjOYUsuixSQzqv3oASPv"],
+      "appears": 1
+    },
+    {
+      "name": "A.S.M.",
+      "ids": ["38VjOYUsuixSQzqv3oASPv"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Chef (feat. Madman)",
+        "Verde (feat. Gemitaiz)",
+        "A/R (feat. Priestess)",
+        "Giuro Che (feat. Priestess & Quentin40)",
+        "Nile",
+        "Alaska (feat. Priestess)",
+        "Extraterrestri (feat. Priestess)",
+        "Devil May Cry",
+        "Non Esiste",
+        "Non Esiste - Sun Version"
+      ],
+      "name": "Priestess",
+      "appears": 10
+    },
+    {
+      "songs": [
+        "Chef (feat. Madman)",
+        "A/R (feat. Priestess)",
+        "Extraterrestri (feat. Priestess)",
+        "Devil May Cry",
+        "Non Esiste",
+        "Non Esiste - Sun Version"
+      ],
+      "name": "MadMan",
+      "appears": 6
+    },
+    {
+      "songs": [
+        "Verde (feat. Gemitaiz)",
+        "Giuro Che (feat. Priestess & Quentin40)",
+        "Alaska (feat. Priestess)"
+      ],
+      "name": "Gemitaiz",
+      "appears": 3
+    },
+    {
+      "songs": ["Giuro Che (feat. Priestess & Quentin40)"],
+      "name": "Quentin40",
+      "appears": 1
+    },
+    {
+      "songs": ["Nile"],
+      "name": "Matteo",
+      "appears": 1
+    },
+    {
+      "songs": ["Nile"],
+      "name": "FP",
+      "appears": 1
+    },
+    {
+      "songs": ["Nile"],
+      "name": "A.S.M.",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

@@ -1,0 +1,121 @@
+{
+  "profile": "images/MahmoodProfile.jpg",
+  "artistName": "Mahmood",
+  "idFeats": [
+    {
+      "name": "Mahmood",
+      "ids": [
+        "28K0EWlGlIbWmP4gntQGL9",
+        "7vpwh3UFL7IJqPwGsHpv3w",
+        "2aAUB61kjkxtntQ0CkmQyx",
+        "45zJRuzK9e6AO527NOW7Fy",
+        "11RPpWKKvfvec9N8cLmPsi",
+        "2NzgnWESJyLdh0Opgu6RXm",
+        "7gtz9cLzhe4pO2f0ry4i1M",
+        "44WPemrsF0NZzpZDacHCxg"
+      ],
+      "appears": 8
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": [
+        "28K0EWlGlIbWmP4gntQGL9",
+        "45zJRuzK9e6AO527NOW7Fy",
+        "44WPemrsF0NZzpZDacHCxg"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": [
+        "7vpwh3UFL7IJqPwGsHpv3w",
+        "2NzgnWESJyLdh0Opgu6RXm"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Isac Elliot",
+      "ids": ["2aAUB61kjkxtntQ0CkmQyx"],
+      "appears": 1
+    },
+    {
+      "name": "Charlie Charles",
+      "ids": ["45zJRuzK9e6AO527NOW7Fy"],
+      "appears": 1
+    },
+    {
+      "name": "Sfera Ebbasta",
+      "ids": ["45zJRuzK9e6AO527NOW7Fy"],
+      "appears": 1
+    },
+    {
+      "name": "M¥SS KETA",
+      "ids": ["11RPpWKKvfvec9N8cLmPsi"],
+      "appears": 1
+    },
+    {
+      "name": "Michele Bravi",
+      "ids": ["7gtz9cLzhe4pO2f0ry4i1M"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Anni 90 (feat. Fabri Fibra)",
+        "Soldi (feat. Guè Pequeno)",
+        "Soldi (feat. Isac Elliot)",
+        "Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)",
+        "FA PAURA PERCHÉ È VERO (feat. Mahmood)",
+        "Doppio Whisky (feat. Mahmood)",
+        "Presi Male",
+        "Luna"
+      ],
+      "name": "Mahmood",
+      "appears": 8
+    },
+    {
+      "songs": [
+        "Anni 90 (feat. Fabri Fibra)",
+        "Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)",
+        "Luna"
+      ],
+      "name": "Fabri Fibra",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Soldi (feat. Guè Pequeno)",
+        "Doppio Whisky (feat. Mahmood)"
+      ],
+      "name": "Gue Pequeno",
+      "appears": 2
+    },
+    {
+      "songs": ["Soldi (feat. Isac Elliot)"],
+      "name": "Isac Elliot",
+      "appears": 1
+    },
+    {
+      "songs": ["Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)"],
+      "name": "Charlie Charles",
+      "appears": 1
+    },
+    {
+      "songs": ["Calipso (with Dardust) (feat. Sfera Ebbasta, Mahmood & Fabri Fibra)"],
+      "name": "Sfera Ebbasta",
+      "appears": 1
+    },
+    {
+      "songs": ["FA PAURA PERCHÉ È VERO (feat. Mahmood)"],
+      "name": "M¥SS KETA",
+      "appears": 1
+    },
+    {
+      "songs": ["Presi Male"],
+      "name": "Michele Bravi",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

@@ -1,0 +1,1079 @@
+{
+  "profile": "images/ElisaProfile.jpg",
+  "artistName": "Elisa",
+  "idFeats": [
+    {
+      "name": "Elisa",
+      "ids": [
+        "0KBB3rqNCRUyb2j4Q3wg3Q",
+        "3PYYiqmhooCNCGiiPTM5zS",
+        "7l56nY7NMP1QDdWvRdJmmg",
+        "2VDBCa7zSiEUfRwkN7mRQt",
+        "39fgL6YEtLFU1Qlhwnp4ek",
+        "3VCeiPy0BFc1fWghAZKJr0",
+        "3SlgDUn8tyWUG9svlpY4vN",
+        "2KNQOeGp41ciIDQshYZZ1V",
+        "4gqL6fox7khiq0GkyFzJ74",
+        "6vJJ939KXE3gMUwhfMQKrm",
+        "1ejNf1qJeDPfbLFDEbK5vw",
+        "78nOKVs8uIrLqgguicIbWV",
+        "4UwAPLqonnG8kbNZ6C46nA",
+        "0yVOE7s168d4stuMULSa6E",
+        "6Q6lXfDh1AN7RvGbi3hHdy",
+        "1D1puR6z4yUqliTtur0LiI",
+        "421VhAdSL9eAK2x5euetN2",
+        "26DAbhgVoOIPBCfDxyP7xN",
+        "69zTELJOen2XvCJx1StAgP",
+        "52kMUyJe13Bfe89ZLKrG3c",
+        "7GYqKS2LYqtvCwtkZqYOjc",
+        "1F9yUMAgpBhuEtqvQrqXxc",
+        "6J7rKPQDYyv0eVQL3aTGpV",
+        "2BpBgGDyko7wzwIXSxjiUB",
+        "1is0jfKxPD5DnlkrhFs1AZ",
+        "0Q4v8N758nx98YxObfqkNC",
+        "3uxfAhk655AoGVIcXvqyjI",
+        "2K6swWyWH31hYEMwRshMPC",
+        "3R6hwXkOVs9KlvqvulN3ZR",
+        "53XK42G7K0FXw25wlCwn6C",
+        "2BAYVeYKCt671AL146N1NZ",
+        "3SOwNgkADQa0xdZE9hv1W9",
+        "42khOrNQOMprnNO0Rfb3kD",
+        "4sV9KIEPYeS16BiTSqn0DL",
+        "1xGZau65shf88gEZgd8tk2",
+        "3yLjCMkNxlEH1eL8asXIke",
+        "1HByCEpmxHHnG5h5cHhNBG",
+        "3xejcIHnqOy0A4oQbS59jQ",
+        "3XBLeEF52CE18g2uqVEK9h",
+        "1Ia9OPCICWy0ZH9dbtpLdN",
+        "7o4faYKXyg4oXb1FNKFpUH",
+        "0a2SGvmTb9tB64KPCQeHKb",
+        "7iM3K65sEAhgoS8dDU639J",
+        "4HX1WMW3PitLCyiocedlP1",
+        "16rQ1NC3psXVigD3UWorRO",
+        "7lwbygFGB60JWfl8AFRPnM",
+        "4segZGJDpr3GbzVpHrPu56",
+        "0a4E3FpPSZWxURTHRHTRHU",
+        "1qqdmMJWtfQk7UrTqG19kX",
+        "5WkeQAzqr5eG6HkVfXoixx",
+        "7hmQ8BQlhw0GKuIfACK1GP",
+        "1qcXNhMBJB3q2UaGLjRpKC",
+        "0GcE6s7w2DnYCpZJU5I4xo",
+        "0l9EeLy4ZjtsqrDKtrgyau",
+        "3zwZ6aMGvhpDQ8EMIjr6E0",
+        "5lRddfy5n9uuUFk7FFl0cH",
+        "0lJDyUi8CrxKTHfk4k2NK8",
+        "2RCHZaVtGBahCAxc8ldMKc",
+        "3G7rPNpAecub7Wq7mcbd8r",
+        "48O2jFLzLZ9C7JTIbcBgyh",
+        "2x2aoAJswqdQYkpJm6vkhM",
+        "5zrD01A6SPW7eAiTZMydHW",
+        "5xAhDvr99RQWXQTpVtgdfT",
+        "2493A7OGenXVtLT1hfels3",
+        "2MHKlTH9j8nRa7YQ9LgAUO",
+        "6i0fcYi9xLx5iJja2PfwFh",
+        "42yTIvt1hRuxR95cWuNSgu"
+      ],
+      "appears": 67
+    },
+    {
+      "name": "Francesco De Gregori",
+      "ids": ["0KBB3rqNCRUyb2j4Q3wg3Q"],
+      "appears": 1
+    },
+    {
+      "name": "Calcutta ",
+      "ids": ["3PYYiqmhooCNCGiiPTM5zS"],
+      "appears": 1
+    },
+    {
+      "name": "Carl Brave",
+      "ids": ["7l56nY7NMP1QDdWvRdJmmg"],
+      "appears": 1
+    },
+    {
+      "name": "Ligabue",
+      "ids": [
+        "2VDBCa7zSiEUfRwkN7mRQt",
+        "2BpBgGDyko7wzwIXSxjiUB"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Giuliano Sangiorgi",
+      "ids": [
+        "39fgL6YEtLFU1Qlhwnp4ek",
+        "3SlgDUn8tyWUG9svlpY4vN",
+        "26DAbhgVoOIPBCfDxyP7xN"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Jack Savoretti",
+      "ids": ["3VCeiPy0BFc1fWghAZKJr0"],
+      "appears": 1
+    },
+    {
+      "name": "Emma",
+      "ids": [
+        "3SlgDUn8tyWUG9svlpY4vN",
+        "0a2SGvmTb9tB64KPCQeHKb",
+        "4segZGJDpr3GbzVpHrPu56"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Tiziano Ferro",
+      "ids": ["2KNQOeGp41ciIDQshYZZ1V"],
+      "appears": 1
+    },
+    {
+      "name": "Andrea Guerra",
+      "ids": [
+        "4gqL6fox7khiq0GkyFzJ74",
+        "6vJJ939KXE3gMUwhfMQKrm",
+        "1ejNf1qJeDPfbLFDEbK5vw",
+        "78nOKVs8uIrLqgguicIbWV",
+        "4UwAPLqonnG8kbNZ6C46nA",
+        "0yVOE7s168d4stuMULSa6E",
+        "6Q6lXfDh1AN7RvGbi3hHdy"
+      ],
+      "appears": 7
+    },
+    {
+      "name": "Ermanno Giove",
+      "ids": ["6Q6lXfDh1AN7RvGbi3hHdy"],
+      "appears": 1
+    },
+    {
+      "name": "Giorgia",
+      "ids": [
+        "1D1puR6z4yUqliTtur0LiI",
+        "3R6hwXkOVs9KlvqvulN3ZR"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": [
+        "421VhAdSL9eAK2x5euetN2",
+        "0l9EeLy4ZjtsqrDKtrgyau"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Antony",
+      "ids": ["69zTELJOen2XvCJx1StAgP"],
+      "appears": 1
+    },
+    {
+      "name": "Radio Edit",
+      "ids": ["52kMUyJe13Bfe89ZLKrG3c"],
+      "appears": 1
+    },
+    {
+      "name": "Bonus Track",
+      "ids": [
+        "7GYqKS2LYqtvCwtkZqYOjc",
+        "1F9yUMAgpBhuEtqvQrqXxc",
+        "6J7rKPQDYyv0eVQL3aTGpV"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "BLOODKORP",
+      "ids": ["1is0jfKxPD5DnlkrhFs1AZ"],
+      "appears": 1
+    },
+    {
+      "name": "Kipili",
+      "ids": ["1is0jfKxPD5DnlkrhFs1AZ"],
+      "appears": 1
+    },
+    {
+      "name": "Lil Chayz",
+      "ids": ["1is0jfKxPD5DnlkrhFs1AZ"],
+      "appears": 1
+    },
+    {
+      "name": "Emwhy",
+      "ids": ["1is0jfKxPD5DnlkrhFs1AZ"],
+      "appears": 1
+    },
+    {
+      "name": "Rkomi",
+      "ids": ["0Q4v8N758nx98YxObfqkNC"],
+      "appears": 1
+    },
+    {
+      "name": "Davide Inserra",
+      "ids": ["3uxfAhk655AoGVIcXvqyjI"],
+      "appears": 1
+    },
+    {
+      "name": "Cristina D'Avena",
+      "ids": ["2K6swWyWH31hYEMwRshMPC"],
+      "appears": 1
+    },
+    {
+      "name": "Tiromancino",
+      "ids": ["53XK42G7K0FXw25wlCwn6C"],
+      "appears": 1
+    },
+    {
+      "name": "Mannarino",
+      "ids": ["53XK42G7K0FXw25wlCwn6C"],
+      "appears": 1
+    },
+    {
+      "name": "Niccolò Agliardi",
+      "ids": [
+        "2BAYVeYKCt671AL146N1NZ",
+        "2RCHZaVtGBahCAxc8ldMKc"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Oskari Olematon",
+      "ids": ["3SOwNgkADQa0xdZE9hv1W9"],
+      "appears": 1
+    },
+    {
+      "name": "Spaneo",
+      "ids": [
+        "42khOrNQOMprnNO0Rfb3kD",
+        "4sV9KIEPYeS16BiTSqn0DL",
+        "3yLjCMkNxlEH1eL8asXIke",
+        "1HByCEpmxHHnG5h5cHhNBG"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Sick Tamburo",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Jovanotti",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Tre Allegri Ragazzi Morti",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Manuel Agnelli",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Samuel",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Meg",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Lo Stato Sociale",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Pierpaolo Capovilla",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Prozac+",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Ermal Meta",
+      "ids": ["3xejcIHnqOy0A4oQbS59jQ"],
+      "appears": 1
+    },
+    {
+      "name": "Miglia",
+      "ids": ["3XBLeEF52CE18g2uqVEK9h"],
+      "appears": 1
+    },
+    {
+      "name": "T3rzo",
+      "ids": ["3XBLeEF52CE18g2uqVEK9h"],
+      "appears": 1
+    },
+    {
+      "name": "Alborosie",
+      "ids": ["1Ia9OPCICWy0ZH9dbtpLdN"],
+      "appears": 1
+    },
+    {
+      "name": "Loredana Bertè",
+      "ids": [
+        "7o4faYKXyg4oXb1FNKFpUH",
+        "0a2SGvmTb9tB64KPCQeHKb"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "A. Amoroso",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "A. Cooper",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "A. Lo Coco",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "B. Atzei",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "F. Mannoia",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "I.Grandi",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "N.zilli",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "Noemi",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "P. Turci",
+      "ids": ["0a2SGvmTb9tB64KPCQeHKb"],
+      "appears": 1
+    },
+    {
+      "name": "Artune",
+      "ids": ["7iM3K65sEAhgoS8dDU639J"],
+      "appears": 1
+    },
+    {
+      "name": "Big Fish",
+      "ids": ["4HX1WMW3PitLCyiocedlP1"],
+      "appears": 1
+    },
+    {
+      "name": "The Kolors",
+      "ids": ["16rQ1NC3psXVigD3UWorRO"],
+      "appears": 1
+    },
+    {
+      "name": "Fedez",
+      "ids": ["7lwbygFGB60JWfl8AFRPnM"],
+      "appears": 1
+    },
+    {
+      "name": "Carmen Consoli",
+      "ids": ["4segZGJDpr3GbzVpHrPu56"],
+      "appears": 1
+    },
+    {
+      "name": "Irene Grandi",
+      "ids": ["4segZGJDpr3GbzVpHrPu56"],
+      "appears": 1
+    },
+    {
+      "name": "Nada",
+      "ids": ["4segZGJDpr3GbzVpHrPu56"],
+      "appears": 1
+    },
+    {
+      "name": "Gianna Nannini",
+      "ids": ["4segZGJDpr3GbzVpHrPu56"],
+      "appears": 1
+    },
+    {
+      "name": "Ozark Henry",
+      "ids": [
+        "0a4E3FpPSZWxURTHRHTRHU",
+        "5WkeQAzqr5eG6HkVfXoixx",
+        "7hmQ8BQlhw0GKuIfACK1GP",
+        "1qcXNhMBJB3q2UaGLjRpKC"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Testa Calda",
+      "ids": ["1qqdmMJWtfQk7UrTqG19kX"],
+      "appears": 1
+    },
+    {
+      "name": "Rivaz",
+      "ids": ["5WkeQAzqr5eG6HkVfXoixx"],
+      "appears": 1
+    },
+    {
+      "name": "Dirty Vegas",
+      "ids": ["7hmQ8BQlhw0GKuIfACK1GP"],
+      "appears": 1
+    },
+    {
+      "name": "Sam Sparro",
+      "ids": ["1qcXNhMBJB3q2UaGLjRpKC"],
+      "appears": 1
+    },
+    {
+      "name": "Luca Carboni",
+      "ids": ["0GcE6s7w2DnYCpZJU5I4xo"],
+      "appears": 1
+    },
+    {
+      "name": "RICO J PUNO",
+      "ids": ["3zwZ6aMGvhpDQ8EMIjr6E0"],
+      "appears": 1
+    },
+    {
+      "name": "Syncroloop",
+      "ids": ["5lRddfy5n9uuUFk7FFl0cH"],
+      "appears": 1
+    },
+    {
+      "name": "Icoman",
+      "ids": ["5lRddfy5n9uuUFk7FFl0cH"],
+      "appears": 1
+    },
+    {
+      "name": "Fay",
+      "ids": ["5lRddfy5n9uuUFk7FFl0cH"],
+      "appears": 1
+    },
+    {
+      "name": "Deep Thoughts",
+      "ids": ["0lJDyUi8CrxKTHfk4k2NK8"],
+      "appears": 1
+    },
+    {
+      "name": "BRS",
+      "ids": ["0lJDyUi8CrxKTHfk4k2NK8"],
+      "appears": 1
+    },
+    {
+      "name": "TC",
+      "ids": ["0lJDyUi8CrxKTHfk4k2NK8"],
+      "appears": 1
+    },
+    {
+      "name": "Mowo",
+      "ids": [
+        "3G7rPNpAecub7Wq7mcbd8r",
+        "48O2jFLzLZ9C7JTIbcBgyh",
+        "2x2aoAJswqdQYkpJm6vkhM",
+        "5zrD01A6SPW7eAiTZMydHW",
+        "5xAhDvr99RQWXQTpVtgdfT"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Star Funk",
+      "ids": [
+        "3G7rPNpAecub7Wq7mcbd8r",
+        "48O2jFLzLZ9C7JTIbcBgyh",
+        "2x2aoAJswqdQYkpJm6vkhM",
+        "5zrD01A6SPW7eAiTZMydHW",
+        "5xAhDvr99RQWXQTpVtgdfT"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Gambafreaks Vs. Just Addiction",
+      "ids": ["2x2aoAJswqdQYkpJm6vkhM"],
+      "appears": 1
+    },
+    {
+      "name": "Mattias G",
+      "ids": ["5zrD01A6SPW7eAiTZMydHW"],
+      "appears": 1
+    },
+    {
+      "name": "Matte Botteghi",
+      "ids": ["5xAhDvr99RQWXQTpVtgdfT"],
+      "appears": 1
+    },
+    {
+      "name": "Negramaro",
+      "ids": ["2493A7OGenXVtLT1hfels3"],
+      "appears": 1
+    },
+    {
+      "name": "Negre'",
+      "ids": ["2MHKlTH9j8nRa7YQ9LgAUO"],
+      "appears": 1
+    },
+    {
+      "name": "Ivan",
+      "ids": ["2MHKlTH9j8nRa7YQ9LgAUO"],
+      "appears": 1
+    },
+    {
+      "name": "Corrado Rustici",
+      "ids": ["6i0fcYi9xLx5iJja2PfwFh"],
+      "appears": 1
+    },
+    {
+      "name": "Nova Nova",
+      "ids": ["42yTIvt1hRuxR95cWuNSgu"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Quelli Che Restano",
+        "Se Piovesse Il Tuo Nome - con Calcutta",
+        "Vivere Tutte Le Vite - con Carl Brave",
+        "Gli ostacoli del cuore",
+        "Ti vorrei sollevare",
+        "Waste Your Time on Me (feat. Jack Savoretti)",
+        "Sorrido già (feat. Emma and Giuliano Sangiorgi)",
+        "E scopro cos'è la felicità",
+        "Apologize",
+        "Someday - Feat. Elisa",
+        "Love Is Requited",
+        "Endless Night",
+        "Drifting",
+        "Think You're Free - Feat. Elisa",
+        "Just As One",
+        "Pour que l'amour me quitte - Feat. Giorgia",
+        "Anche tu, anche se (non trovi le parole) - Feat. Fabri Fibra",
+        "Ti vorrei sollevare - With Giuliano Sangiorgi",
+        "Forgiveness - Feat. Antony",
+        "Dancing - Radio Edit",
+        "Stay",
+        "Una poesia anche per te (Life Goes on)",
+        "Qualcosa che non c'è",
+        "Gli ostacoli del cuore - feat. Ligabue",
+        "Qqqq",
+        "Blu (feat. Elisa)",
+        "Don't You Be Afraid",
+        "Memole dolce Memole (feat. Elisa)",
+        "Gli ostacoli del cuore (feat. Elisa)",
+        "Amore impossibile (feat. Elisa & Mannarino)",
+        "Più musica meno testo",
+        "Saman Taivaan Alla",
+        "We Feel It Together - Radio Edit",
+        "We Feel It Together - Extended",
+        "La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)",
+        "Something Wrong - Radio Edit",
+        "Something Wrong - Extended",
+        "Piccola anima (feat. Elisa)",
+        "Petali",
+        "Fire in the Dark",
+        "E la luna bussò (feat. Elisa)",
+        "Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)",
+        "Elisa - Palazzo Madama: Da Poussin agli Impressionisti",
+        "Vain (Elisa)",
+        "Realize",
+        "Pop-hoolista (feat. Elisa)",
+        "La Signora Del Quinto Piano # 1522",
+        "We Are Incurable Romantics",
+        "Me ne frego",
+        "We Are Incurable Romantics - Rivaz Radio Edit",
+        "We Are Incurable Romantics - Dirty Vegas Edit",
+        "We Are Incurable Romantics - Sam Sparro Edit",
+        "Vieni a vivere con me",
+        "Dagli Sbagli Si Impara",
+        "Magkasuyo Buong Gabi",
+        "Rimani ancora (La stella più bella)",
+        "Slow Wine for me (feat. Elisa, BRS, TC)",
+        "Più musica meno testo (feat. Elisa)",
+        "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk",
+        "Basta cosi' - With Elisa",
+        "Vizi (feat. Ivan, Elisa)",
+        "Rage and Dust - Feat. Elisa",
+        "Bewildered"
+      ],
+      "name": "Elisa",
+      "appears": 67
+    },
+    {
+      "songs": ["Quelli Che Restano"],
+      "name": "Francesco De Gregori",
+      "appears": 1
+    },
+    {
+      "songs": ["Se Piovesse Il Tuo Nome - con Calcutta"],
+      "name": "Calcutta ",
+      "appears": 1
+    },
+    {
+      "songs": ["Vivere Tutte Le Vite - con Carl Brave"],
+      "name": "Carl Brave",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Gli ostacoli del cuore",
+        "Gli ostacoli del cuore - feat. Ligabue"
+      ],
+      "name": "Ligabue",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Ti vorrei sollevare",
+        "Sorrido già (feat. Emma and Giuliano Sangiorgi)",
+        "Ti vorrei sollevare - With Giuliano Sangiorgi"
+      ],
+      "name": "Giuliano Sangiorgi",
+      "appears": 3
+    },
+    {
+      "songs": ["Waste Your Time on Me (feat. Jack Savoretti)"],
+      "name": "Jack Savoretti",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Sorrido già (feat. Emma and Giuliano Sangiorgi)",
+        "Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)",
+        "La Signora Del Quinto Piano # 1522"
+      ],
+      "name": "Emma",
+      "appears": 3
+    },
+    {
+      "songs": ["E scopro cos'è la felicità"],
+      "name": "Tiziano Ferro",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Apologize",
+        "Someday - Feat. Elisa",
+        "Love Is Requited",
+        "Endless Night",
+        "Drifting",
+        "Think You're Free - Feat. Elisa",
+        "Just As One"
+      ],
+      "name": "Andrea Guerra",
+      "appears": 7
+    },
+    {
+      "songs": ["Just As One"],
+      "name": "Ermanno Giove",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Pour que l'amour me quitte - Feat. Giorgia",
+        "Gli ostacoli del cuore (feat. Elisa)"
+      ],
+      "name": "Giorgia",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Anche tu, anche se (non trovi le parole) - Feat. Fabri Fibra",
+        "Dagli Sbagli Si Impara"
+      ],
+      "name": "Fabri Fibra",
+      "appears": 2
+    },
+    {
+      "songs": ["Forgiveness - Feat. Antony"],
+      "name": "Antony",
+      "appears": 1
+    },
+    {
+      "songs": ["Dancing - Radio Edit"],
+      "name": "Radio Edit",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Stay",
+        "Una poesia anche per te (Life Goes on)",
+        "Qualcosa che non c'è"
+      ],
+      "name": "Bonus Track",
+      "appears": 3
+    },
+    {
+      "songs": ["Qqqq"],
+      "name": "BLOODKORP",
+      "appears": 1
+    },
+    {
+      "songs": ["Qqqq"],
+      "name": "Kipili",
+      "appears": 1
+    },
+    {
+      "songs": ["Qqqq"],
+      "name": "Lil Chayz",
+      "appears": 1
+    },
+    {
+      "songs": ["Qqqq"],
+      "name": "Emwhy",
+      "appears": 1
+    },
+    {
+      "songs": ["Blu (feat. Elisa)"],
+      "name": "Rkomi",
+      "appears": 1
+    },
+    {
+      "songs": ["Don't You Be Afraid"],
+      "name": "Davide Inserra",
+      "appears": 1
+    },
+    {
+      "songs": ["Memole dolce Memole (feat. Elisa)"],
+      "name": "Cristina D'Avena",
+      "appears": 1
+    },
+    {
+      "songs": ["Amore impossibile (feat. Elisa & Mannarino)"],
+      "name": "Tiromancino",
+      "appears": 1
+    },
+    {
+      "songs": ["Amore impossibile (feat. Elisa & Mannarino)"],
+      "name": "Mannarino",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Più musica meno testo",
+        "Più musica meno testo (feat. Elisa)"
+      ],
+      "name": "Niccolò Agliardi",
+      "appears": 2
+    },
+    {
+      "songs": ["Saman Taivaan Alla"],
+      "name": "Oskari Olematon",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "We Feel It Together - Radio Edit",
+        "We Feel It Together - Extended",
+        "Something Wrong - Radio Edit",
+        "Something Wrong - Extended"
+      ],
+      "name": "Spaneo",
+      "appears": 4
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Sick Tamburo",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Jovanotti",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Tre Allegri Ragazzi Morti",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Manuel Agnelli",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Samuel",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Meg",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Lo Stato Sociale",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Pierpaolo Capovilla",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Prozac+",
+      "appears": 1
+    },
+    {
+      "songs": ["Piccola anima (feat. Elisa)"],
+      "name": "Ermal Meta",
+      "appears": 1
+    },
+    {
+      "songs": ["Petali"],
+      "name": "Miglia",
+      "appears": 1
+    },
+    {
+      "songs": ["Petali"],
+      "name": "T3rzo",
+      "appears": 1
+    },
+    {
+      "songs": ["Fire in the Dark"],
+      "name": "Alborosie",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "E la luna bussò (feat. Elisa)",
+        "Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"
+      ],
+      "name": "Loredana Bertè",
+      "appears": 2
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "A. Amoroso",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "A. Cooper",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "A. Lo Coco",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "B. Atzei",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "F. Mannoia",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "I.Grandi",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "N.zilli",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "Noemi",
+      "appears": 1
+    },
+    {
+      "songs": ["Amici non ne ho (feat. A. Amoroso, B. Atzei, A. Cooper, Elisa, Emma, I. Grandi, A. Lo Coco, F. Mannoia, Noemi, P. Turci, N. Zilli)"],
+      "name": "P. Turci",
+      "appears": 1
+    },
+    {
+      "songs": ["Elisa - Palazzo Madama: Da Poussin agli Impressionisti"],
+      "name": "Artune",
+      "appears": 1
+    },
+    {
+      "songs": ["Vain (Elisa)"],
+      "name": "Big Fish",
+      "appears": 1
+    },
+    {
+      "songs": ["Realize"],
+      "name": "The Kolors",
+      "appears": 1
+    },
+    {
+      "songs": ["Pop-hoolista (feat. Elisa)"],
+      "name": "Fedez",
+      "appears": 1
+    },
+    {
+      "songs": ["La Signora Del Quinto Piano # 1522"],
+      "name": "Carmen Consoli",
+      "appears": 1
+    },
+    {
+      "songs": ["La Signora Del Quinto Piano # 1522"],
+      "name": "Irene Grandi",
+      "appears": 1
+    },
+    {
+      "songs": ["La Signora Del Quinto Piano # 1522"],
+      "name": "Nada",
+      "appears": 1
+    },
+    {
+      "songs": ["La Signora Del Quinto Piano # 1522"],
+      "name": "Gianna Nannini",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "We Are Incurable Romantics",
+        "We Are Incurable Romantics - Rivaz Radio Edit",
+        "We Are Incurable Romantics - Dirty Vegas Edit",
+        "We Are Incurable Romantics - Sam Sparro Edit"
+      ],
+      "name": "Ozark Henry",
+      "appears": 4
+    },
+    {
+      "songs": ["Me ne frego"],
+      "name": "Testa Calda",
+      "appears": 1
+    },
+    {
+      "songs": ["We Are Incurable Romantics - Rivaz Radio Edit"],
+      "name": "Rivaz",
+      "appears": 1
+    },
+    {
+      "songs": ["We Are Incurable Romantics - Dirty Vegas Edit"],
+      "name": "Dirty Vegas",
+      "appears": 1
+    },
+    {
+      "songs": ["We Are Incurable Romantics - Sam Sparro Edit"],
+      "name": "Sam Sparro",
+      "appears": 1
+    },
+    {
+      "songs": ["Vieni a vivere con me"],
+      "name": "Luca Carboni",
+      "appears": 1
+    },
+    {
+      "songs": ["Magkasuyo Buong Gabi"],
+      "name": "RICO J PUNO",
+      "appears": 1
+    },
+    {
+      "songs": ["Rimani ancora (La stella più bella)"],
+      "name": "Syncroloop",
+      "appears": 1
+    },
+    {
+      "songs": ["Rimani ancora (La stella più bella)"],
+      "name": "Icoman",
+      "appears": 1
+    },
+    {
+      "songs": ["Rimani ancora (La stella più bella)"],
+      "name": "Fay",
+      "appears": 1
+    },
+    {
+      "songs": ["Slow Wine for me (feat. Elisa, BRS, TC)"],
+      "name": "Deep Thoughts",
+      "appears": 1
+    },
+    {
+      "songs": ["Slow Wine for me (feat. Elisa, BRS, TC)"],
+      "name": "BRS",
+      "appears": 1
+    },
+    {
+      "songs": ["Slow Wine for me (feat. Elisa, BRS, TC)"],
+      "name": "TC",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"
+      ],
+      "name": "Mowo",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
+        "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"
+      ],
+      "name": "Star Funk",
+      "appears": 5
+    },
+    {
+      "songs": ["You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk"],
+      "name": "Gambafreaks Vs. Just Addiction",
+      "appears": 1
+    },
+    {
+      "songs": ["You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk"],
+      "name": "Mattias G",
+      "appears": 1
+    },
+    {
+      "songs": ["You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"],
+      "name": "Matte Botteghi",
+      "appears": 1
+    },
+    {
+      "songs": ["Basta cosi' - With Elisa"],
+      "name": "Negramaro",
+      "appears": 1
+    },
+    {
+      "songs": ["Vizi (feat. Ivan, Elisa)"],
+      "name": "Negre'",
+      "appears": 1
+    },
+    {
+      "songs": ["Vizi (feat. Ivan, Elisa)"],
+      "name": "Ivan",
+      "appears": 1
+    },
+    {
+      "songs": ["Rage and Dust - Feat. Elisa"],
+      "name": "Corrado Rustici",
+      "appears": 1
+    },
+    {
+      "songs": ["Bewildered"],
+      "name": "Nova Nova",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

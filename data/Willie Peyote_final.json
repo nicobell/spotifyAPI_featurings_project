@@ -1,0 +1,549 @@
+{
+  "profile": "images/Willie PeyoteProfile.jpg",
+  "artistName": "Willie Peyote",
+  "idFeats": [
+    {
+      "name": "Willie Peyote",
+      "ids": [
+        "00bPP5uJKoWddhq8j571TS",
+        "5uxG9B32GAXJOMzuPA7nxs",
+        "303AeLlHD3dQNELuYOYHl6",
+        "2kATsJ28JL36rFxsFJO2Iq",
+        "5QDZYmcuMiA9ZyH6vvxs3G",
+        "1sqKmqqqUG0qWBHUtLuBD6",
+        "72Ylz3vmYMeGOoWv0Q3jBc",
+        "4AlW71xYvlaEKQPzGOEt86",
+        "62NnX1jEjYxurM1ZtZ8Mau",
+        "30OZR6M6YAMxzmLxfuc3hl",
+        "1iRLCcfPP0CXEkJoQvw21M",
+        "2QHFBKTY3VlUntTONN7r4p",
+        "2HzDS65m6tVT2vFdqbDQGx",
+        "4fJCi5P6MzsrIgGGezArRo",
+        "5108zI1aQ0uKSEv86Sl051",
+        "30zkoD4ysHC2YWwuJ7Kzak",
+        "47r7kHZTSUWFRqSbT7AmYW",
+        "2OAhPPYtMhayT733EJNMdD",
+        "0Ghhlx5xUgd3Q9U2h82pYL",
+        "3Tbn0DzXyfVlsbtvuqssKf",
+        "34Bpjk3RSICmywmJF5mqqN",
+        "6oikZokhAxEteSNFh363rN",
+        "5kccRk5aDJw5Ae2wXpK52d",
+        "3mmydEeJa6deXWsmeJCQ1w",
+        "6r519WmgdWVmJxOjDCZKnz",
+        "3xwwStVLpUTejizpHGt7QW",
+        "7rADQSPzoHcc3GaGT1opoM",
+        "5JMNsfLbPI35tW0zbIfLcp",
+        "4fLRVRzLv2r1y8R3fS7OJP",
+        "6aqefOFDIjMjjgQzEgBIDZ",
+        "65Bq08EikssunDfhDyLTiy",
+        "28zAnfHFR9YxsFNnuvMy83",
+        "6Ii3QX9rBC9N2FR4KjU7Mo",
+        "6auUYxwgayFnpPjyo4Gu5Q",
+        "7lgEUOatjOabCUBaDUPGPa",
+        "1RGQd3KXOTcSPp30EbXqWo"
+      ],
+      "appears": 36
+    },
+    {
+      "name": "Dutch Nazari",
+      "ids": [
+        "00bPP5uJKoWddhq8j571TS",
+        "5uxG9B32GAXJOMzuPA7nxs",
+        "2QHFBKTY3VlUntTONN7r4p",
+        "7rADQSPzoHcc3GaGT1opoM",
+        "6aqefOFDIjMjjgQzEgBIDZ"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Giorgio Montanini",
+      "ids": ["303AeLlHD3dQNELuYOYHl6"],
+      "appears": 1
+    },
+    {
+      "name": "Jolly Mare",
+      "ids": ["2kATsJ28JL36rFxsFJO2Iq"],
+      "appears": 1
+    },
+    {
+      "name": "Roy Paci",
+      "ids": [
+        "5QDZYmcuMiA9ZyH6vvxs3G",
+        "47r7kHZTSUWFRqSbT7AmYW"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Tormento",
+      "ids": ["1sqKmqqqUG0qWBHUtLuBD6"],
+      "appears": 1
+    },
+    {
+      "name": "Ensi",
+      "ids": ["72Ylz3vmYMeGOoWv0Q3jBc"],
+      "appears": 1
+    },
+    {
+      "name": "Paolito",
+      "ids": [
+        "72Ylz3vmYMeGOoWv0Q3jBc",
+        "7lgEUOatjOabCUBaDUPGPa"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Godblesscomputers",
+      "ids": ["4AlW71xYvlaEKQPzGOEt86"],
+      "appears": 1
+    },
+    {
+      "name": "Hyst",
+      "ids": [
+        "62NnX1jEjYxurM1ZtZ8Mau",
+        "1RGQd3KXOTcSPp30EbXqWo"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Paolo",
+      "ids": ["62NnX1jEjYxurM1ZtZ8Mau"],
+      "appears": 1
+    },
+    {
+      "name": "Mauràs",
+      "ids": ["30OZR6M6YAMxzmLxfuc3hl"],
+      "appears": 1
+    },
+    {
+      "name": "Inoki Ness",
+      "ids": ["30OZR6M6YAMxzmLxfuc3hl"],
+      "appears": 1
+    },
+    {
+      "name": "The Bluebeaters",
+      "ids": ["1iRLCcfPP0CXEkJoQvw21M"],
+      "appears": 1
+    },
+    {
+      "name": "Murubutu",
+      "ids": ["2QHFBKTY3VlUntTONN7r4p"],
+      "appears": 1
+    },
+    {
+      "name": "AINÉ",
+      "ids": ["2HzDS65m6tVT2vFdqbDQGx"],
+      "appears": 1
+    },
+    {
+      "name": "Rew*",
+      "ids": ["4fJCi5P6MzsrIgGGezArRo"],
+      "appears": 1
+    },
+    {
+      "name": "Freshbeat",
+      "ids": ["4fJCi5P6MzsrIgGGezArRo"],
+      "appears": 1
+    },
+    {
+      "name": "Subsonica",
+      "ids": ["5108zI1aQ0uKSEv86Sl051"],
+      "appears": 1
+    },
+    {
+      "name": "Selton",
+      "ids": ["30zkoD4ysHC2YWwuJ7Kzak"],
+      "appears": 1
+    },
+    {
+      "name": "Roy Paci & Aretuska",
+      "ids": ["47r7kHZTSUWFRqSbT7AmYW"],
+      "appears": 1
+    },
+    {
+      "name": "KD-ONE",
+      "ids": ["2OAhPPYtMhayT733EJNMdD"],
+      "appears": 1
+    },
+    {
+      "name": "Kahbum",
+      "ids": ["0Ghhlx5xUgd3Q9U2h82pYL"],
+      "appears": 1
+    },
+    {
+      "name": "Zibba",
+      "ids": ["0Ghhlx5xUgd3Q9U2h82pYL"],
+      "appears": 1
+    },
+    {
+      "name": "Cuccioli Morti",
+      "ids": ["3Tbn0DzXyfVlsbtvuqssKf"],
+      "appears": 1
+    },
+    {
+      "name": "Era Serenase",
+      "ids": [
+        "3Tbn0DzXyfVlsbtvuqssKf",
+        "6oikZokhAxEteSNFh363rN"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Alp King",
+      "ids": ["34Bpjk3RSICmywmJF5mqqN"],
+      "appears": 1
+    },
+    {
+      "name": "Luvanor",
+      "ids": ["5kccRk5aDJw5Ae2wXpK52d"],
+      "appears": 1
+    },
+    {
+      "name": "Star Trick",
+      "ids": ["3mmydEeJa6deXWsmeJCQ1w"],
+      "appears": 1
+    },
+    {
+      "name": "Eugenio in via di gioia",
+      "ids": ["6r519WmgdWVmJxOjDCZKnz"],
+      "appears": 1
+    },
+    {
+      "name": "Ex-Otago",
+      "ids": ["3xwwStVLpUTejizpHGt7QW"],
+      "appears": 1
+    },
+    {
+      "name": "DJ Koma Mauràs",
+      "ids": ["5JMNsfLbPI35tW0zbIfLcp"],
+      "appears": 1
+    },
+    {
+      "name": "Lince",
+      "ids": ["4fLRVRzLv2r1y8R3fS7OJP"],
+      "appears": 1
+    },
+    {
+      "name": "Rakno",
+      "ids": ["4fLRVRzLv2r1y8R3fS7OJP"],
+      "appears": 1
+    },
+    {
+      "name": "Down The Rabbit Hole",
+      "ids": ["65Bq08EikssunDfhDyLTiy"],
+      "appears": 1
+    },
+    {
+      "name": "Johnny Roy",
+      "ids": ["28zAnfHFR9YxsFNnuvMy83"],
+      "appears": 1
+    },
+    {
+      "name": "Blo/B",
+      "ids": ["28zAnfHFR9YxsFNnuvMy83"],
+      "appears": 1
+    },
+    {
+      "name": "Shade",
+      "ids": ["6Ii3QX9rBC9N2FR4KjU7Mo"],
+      "appears": 1
+    },
+    {
+      "name": "Fred De Palma",
+      "ids": ["6Ii3QX9rBC9N2FR4KjU7Mo"],
+      "appears": 1
+    },
+    {
+      "name": "Rew",
+      "ids": ["6Ii3QX9rBC9N2FR4KjU7Mo"],
+      "appears": 1
+    },
+    {
+      "name": "Soulcè & Teddy Nuvolari",
+      "ids": ["6auUYxwgayFnpPjyo4Gu5Q"],
+      "appears": 1
+    },
+    {
+      "name": "Poor Man Style",
+      "ids": ["7lgEUOatjOabCUBaDUPGPa"],
+      "appears": 1
+    },
+    {
+      "name": "Musteeno",
+      "ids": ["1RGQd3KXOTcSPp30EbXqWo"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Le Chiavi In Borsa (feat. Dutch Nazari) - Live",
+        "C'hai ragione Tu (feat. Dutch Nazari)",
+        "7 Miliardi (feat. Giorgio Montanini)",
+        "Donna bisestile (feat. Jolly Mare)",
+        "Vendesi (feat. Roy Paci)",
+        "La scelta sbagliata (feat. Tormento)",
+        "Nessuno è il mio signore (feat. Ensi, Paolito)",
+        "Truman Show (feat. Godblesscomputers)",
+        "Dettagli (feat. Hyst, Paolo)",
+        "Capitalunedì",
+        "Ancora un giorno (feat. Willie Peyote)",
+        "Occhiali da luna",
+        "Parlo Piano (feat. Willie Peyote)",
+        "Respira",
+        "L'incubo (feat. Willie Peyote)",
+        "Che notte!",
+        "Salvagente (feat. Willie Peyote)",
+        "Suoni compressi",
+        "Tua madre",
+        "Dio Se Ci Sei Facci Funky Più Che Mai",
+        "Figli dei fiori",
+        "Piccoli drogati crescono",
+        "La prima di campionato",
+        "H.W.D. (feat. Willie Peyote)",
+        "Selezione naturale",
+        "La Nostra Pelle",
+        "Un fonico",
+        "Faccio un altro genere",
+        "Lo fotto tu fotti egli fotte",
+        "Fino a qui",
+        "Gotham City",
+        "Digital Revolution",
+        "Hit ledger (feat. Fred De Palma, Willie Peyote, Rew)",
+        "Perdo Mezz'ora (feat. Willie Peyote)",
+        "Champion Sound",
+        "Essere o non essere (feat. Musteeno, Willie Peyote)"
+      ],
+      "name": "Willie Peyote",
+      "appears": 36
+    },
+    {
+      "songs": [
+        "Le Chiavi In Borsa (feat. Dutch Nazari) - Live",
+        "C'hai ragione Tu (feat. Dutch Nazari)",
+        "Occhiali da luna",
+        "Un fonico",
+        "Fino a qui"
+      ],
+      "name": "Dutch Nazari",
+      "appears": 5
+    },
+    {
+      "songs": ["7 Miliardi (feat. Giorgio Montanini)"],
+      "name": "Giorgio Montanini",
+      "appears": 1
+    },
+    {
+      "songs": ["Donna bisestile (feat. Jolly Mare)"],
+      "name": "Jolly Mare",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Vendesi (feat. Roy Paci)",
+        "Salvagente (feat. Willie Peyote)"
+      ],
+      "name": "Roy Paci",
+      "appears": 2
+    },
+    {
+      "songs": ["La scelta sbagliata (feat. Tormento)"],
+      "name": "Tormento",
+      "appears": 1
+    },
+    {
+      "songs": ["Nessuno è il mio signore (feat. Ensi, Paolito)"],
+      "name": "Ensi",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Nessuno è il mio signore (feat. Ensi, Paolito)",
+        "Champion Sound"
+      ],
+      "name": "Paolito",
+      "appears": 2
+    },
+    {
+      "songs": ["Truman Show (feat. Godblesscomputers)"],
+      "name": "Godblesscomputers",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Dettagli (feat. Hyst, Paolo)",
+        "Essere o non essere (feat. Musteeno, Willie Peyote)"
+      ],
+      "name": "Hyst",
+      "appears": 2
+    },
+    {
+      "songs": ["Dettagli (feat. Hyst, Paolo)"],
+      "name": "Paolo",
+      "appears": 1
+    },
+    {
+      "songs": ["Capitalunedì"],
+      "name": "Mauràs",
+      "appears": 1
+    },
+    {
+      "songs": ["Capitalunedì"],
+      "name": "Inoki Ness",
+      "appears": 1
+    },
+    {
+      "songs": ["Ancora un giorno (feat. Willie Peyote)"],
+      "name": "The Bluebeaters",
+      "appears": 1
+    },
+    {
+      "songs": ["Occhiali da luna"],
+      "name": "Murubutu",
+      "appears": 1
+    },
+    {
+      "songs": ["Parlo Piano (feat. Willie Peyote)"],
+      "name": "AINÉ",
+      "appears": 1
+    },
+    {
+      "songs": ["Respira"],
+      "name": "Rew*",
+      "appears": 1
+    },
+    {
+      "songs": ["Respira"],
+      "name": "Freshbeat",
+      "appears": 1
+    },
+    {
+      "songs": ["L'incubo (feat. Willie Peyote)"],
+      "name": "Subsonica",
+      "appears": 1
+    },
+    {
+      "songs": ["Che notte!"],
+      "name": "Selton",
+      "appears": 1
+    },
+    {
+      "songs": ["Salvagente (feat. Willie Peyote)"],
+      "name": "Roy Paci & Aretuska",
+      "appears": 1
+    },
+    {
+      "songs": ["Suoni compressi"],
+      "name": "KD-ONE",
+      "appears": 1
+    },
+    {
+      "songs": ["Tua madre"],
+      "name": "Kahbum",
+      "appears": 1
+    },
+    {
+      "songs": ["Tua madre"],
+      "name": "Zibba",
+      "appears": 1
+    },
+    {
+      "songs": ["Dio Se Ci Sei Facci Funky Più Che Mai"],
+      "name": "Cuccioli Morti",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Dio Se Ci Sei Facci Funky Più Che Mai",
+        "Piccoli drogati crescono"
+      ],
+      "name": "Era Serenase",
+      "appears": 2
+    },
+    {
+      "songs": ["Figli dei fiori"],
+      "name": "Alp King",
+      "appears": 1
+    },
+    {
+      "songs": ["La prima di campionato"],
+      "name": "Luvanor",
+      "appears": 1
+    },
+    {
+      "songs": ["H.W.D. (feat. Willie Peyote)"],
+      "name": "Star Trick",
+      "appears": 1
+    },
+    {
+      "songs": ["Selezione naturale"],
+      "name": "Eugenio in via di gioia",
+      "appears": 1
+    },
+    {
+      "songs": ["La Nostra Pelle"],
+      "name": "Ex-Otago",
+      "appears": 1
+    },
+    {
+      "songs": ["Faccio un altro genere"],
+      "name": "DJ Koma Mauràs",
+      "appears": 1
+    },
+    {
+      "songs": ["Lo fotto tu fotti egli fotte"],
+      "name": "Lince",
+      "appears": 1
+    },
+    {
+      "songs": ["Lo fotto tu fotti egli fotte"],
+      "name": "Rakno",
+      "appears": 1
+    },
+    {
+      "songs": ["Gotham City"],
+      "name": "Down The Rabbit Hole",
+      "appears": 1
+    },
+    {
+      "songs": ["Digital Revolution"],
+      "name": "Johnny Roy",
+      "appears": 1
+    },
+    {
+      "songs": ["Digital Revolution"],
+      "name": "Blo/B",
+      "appears": 1
+    },
+    {
+      "songs": ["Hit ledger (feat. Fred De Palma, Willie Peyote, Rew)"],
+      "name": "Shade",
+      "appears": 1
+    },
+    {
+      "songs": ["Hit ledger (feat. Fred De Palma, Willie Peyote, Rew)"],
+      "name": "Fred De Palma",
+      "appears": 1
+    },
+    {
+      "songs": ["Hit ledger (feat. Fred De Palma, Willie Peyote, Rew)"],
+      "name": "Rew",
+      "appears": 1
+    },
+    {
+      "songs": ["Perdo Mezz'ora (feat. Willie Peyote)"],
+      "name": "Soulcè & Teddy Nuvolari",
+      "appears": 1
+    },
+    {
+      "songs": ["Champion Sound"],
+      "name": "Poor Man Style",
+      "appears": 1
+    },
+    {
+      "songs": ["Essere o non essere (feat. Musteeno, Willie Peyote)"],
+      "name": "Musteeno",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

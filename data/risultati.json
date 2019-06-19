@@ -1,0 +1,623 @@
+{"artists": {
+  "next": "https://api.spotify.com/v1/search?query=Nitro&type=artist&offset=20&limit=20",
+  "total": 181,
+  "offset": 0,
+  "previous": null,
+  "limit": 20,
+  "href": "https://api.spotify.com/v1/search?query=Nitro&type=artist&offset=0&limit=20",
+  "items": [
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/38b8e5edf09971a7d06bf6117ec602ca34b94317",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/1bba0004780e7624cc1cbc4eef8454efa3a7df18",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/cdcf0edd469d5276e09807922b61415715c20a0a",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 52123,
+        "href": null
+      },
+      "genres": [
+        "catstep",
+        "complextro",
+        "edm",
+        "electro house",
+        "tracestep"
+      ],
+      "popularity": 52,
+      "name": "Nitro Fun",
+      "href": "https://api.spotify.com/v1/artists/4XU5f8nGiPMr6eetud6epC",
+      "id": "4XU5f8nGiPMr6eetud6epC",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"},
+      "uri": "spotify:artist:4XU5f8nGiPMr6eetud6epC"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/d745a0994398a6479bb8d7940493682dc98d57cd",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/28eb6d870ec3f71a6fff5db1008a7f15c5a1aa27",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/a4639db42aaaffdc47389eaca7c0d748563b6880",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 1887,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 39,
+      "name": "Nick Nitro",
+      "href": "https://api.spotify.com/v1/artists/6m2jVlh2H1muI95k4LcN3L",
+      "id": "6m2jVlh2H1muI95k4LcN3L",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6m2jVlh2H1muI95k4LcN3L"},
+      "uri": "spotify:artist:6m2jVlh2H1muI95k4LcN3L"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/19b4d3b9c9047787e730e7d82a6795395fb5a68c",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/0d46eaa5805717ec155017082ec512ee06f51787",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/83096f91c8f50be742e8f06fd678bf43defd9663",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 380876,
+        "href": null
+      },
+      "genres": ["italian hip hop"],
+      "popularity": 69,
+      "name": "Nitro",
+      "href": "https://api.spotify.com/v1/artists/6jQZzWW3JlEtcRDSzFVKSP",
+      "id": "6jQZzWW3JlEtcRDSzFVKSP",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"},
+      "uri": "spotify:artist:6jQZzWW3JlEtcRDSzFVKSP"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/6bd406c536a2b64ddee1b6aa8f58d23da40c154e",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/49c2729732dbead663b5f343afe150eba8e0272f",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/4bcdcc03a928ad00c37c7e4fcf1b6e6dae6304d7",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 26230,
+        "href": null
+      },
+      "genres": ["rap chileno"],
+      "popularity": 46,
+      "name": "Nitro MC",
+      "href": "https://api.spotify.com/v1/artists/6fIgIbebL9YH2ZdRxur04y",
+      "id": "6fIgIbebL9YH2ZdRxur04y",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6fIgIbebL9YH2ZdRxur04y"},
+      "uri": "spotify:artist:6fIgIbebL9YH2ZdRxur04y"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/92016bac78bc5b8c31d6a64a03bf68bce0c4bb34",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/a01dd2c1b7c6d1400a6b66c5bb7778f6bc7c77f8",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/06e8410cec8d76de8aa4831220e857b418b07660",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 2498,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 25,
+      "name": "Nitro",
+      "href": "https://api.spotify.com/v1/artists/1TAoToVD5ZWFGxZE0Alzly",
+      "id": "1TAoToVD5ZWFGxZE0Alzly",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/1TAoToVD5ZWFGxZE0Alzly"},
+      "uri": "spotify:artist:1TAoToVD5ZWFGxZE0Alzly"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/b4141ce9318710a4033362a0147c551bf4378b21",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/8f4df395a9e5a562c81fc3a68b06cb3d51e78884",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/382d3a23e5eff2e3ea82eb9791c5ab156d9a73ef",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 1420,
+        "href": null
+      },
+      "genres": ["aggrotech"],
+      "popularity": 21,
+      "name": "Nitro/Noise",
+      "href": "https://api.spotify.com/v1/artists/2V06VnSrizzr7xqjdXAm8P",
+      "id": "2V06VnSrizzr7xqjdXAm8P",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/2V06VnSrizzr7xqjdXAm8P"},
+      "uri": "spotify:artist:2V06VnSrizzr7xqjdXAm8P"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/e8e2309606a5cf3c38e431c520db0dd4a31ec848",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/abc60655d030d6f2ad48cad7f89c253be1433fcc",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/53d1b315bbe71557a7b01397c5ab558793c0f5c6",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 10,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 10,
+      "name": "Nitro Nix",
+      "href": "https://api.spotify.com/v1/artists/2SBC9Pate02wFSfDWPv1tS",
+      "id": "2SBC9Pate02wFSfDWPv1tS",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/2SBC9Pate02wFSfDWPv1tS"},
+      "uri": "spotify:artist:2SBC9Pate02wFSfDWPv1tS"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/cb0816cf2c874e40a8b2036d08fc4031317d2f34",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/b43d2e16f64adb8cfe4fba984f720fe8eabf4ad1",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/9e6a1b703e20436dc312f90296e6283d790de788",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 253,
+        "href": null
+      },
+      "genres": [
+        "chicago house",
+        "hip house"
+      ],
+      "popularity": 19,
+      "name": "Nitro Deluxe",
+      "href": "https://api.spotify.com/v1/artists/6KcNmchIyvo5TqzjfJtwYR",
+      "id": "6KcNmchIyvo5TqzjfJtwYR",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR"},
+      "uri": "spotify:artist:6KcNmchIyvo5TqzjfJtwYR"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/85199a1c403871b063a06cac6e49ca6b1edc68d8",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/bb5d8d7c0be9ff946ae45f8594f6846d716711fa",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/e63b8f1d97fb85276d81bf25d16acffe209bcd00",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 4,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 9,
+      "name": "Nitro-Geez",
+      "href": "https://api.spotify.com/v1/artists/7tgSeAfmhRNbQefXNBIX0X",
+      "id": "7tgSeAfmhRNbQefXNBIX0X",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/7tgSeAfmhRNbQefXNBIX0X"},
+      "uri": "spotify:artist:7tgSeAfmhRNbQefXNBIX0X"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/e58ba13cd37b02272fd07138c17be615c342f323",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/9c05308ad7e68d15a818242d40c09fb5844a4618",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/a935a9c58d2f5c123cdde5b54658d06ffc4b774d",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 107,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 28,
+      "name": "Nitro",
+      "href": "https://api.spotify.com/v1/artists/0iKeQcBb8HjvzSsatjeR3t",
+      "id": "0iKeQcBb8HjvzSsatjeR3t",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/0iKeQcBb8HjvzSsatjeR3t"},
+      "uri": "spotify:artist:0iKeQcBb8HjvzSsatjeR3t"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/ca64330e256d53a997279fbdb06a50e6553c418d",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/7f4f94bbf81b2ae5aae14ecfa6e7efd84e949ef1",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/31ad3ec63bf656ece7bd1905bf2126c6fd202388",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 349,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 27,
+      "name": "Nitro Goyri",
+      "href": "https://api.spotify.com/v1/artists/6GepbWxBVP643J6R0rb9tE",
+      "id": "6GepbWxBVP643J6R0rb9tE",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6GepbWxBVP643J6R0rb9tE"},
+      "uri": "spotify:artist:6GepbWxBVP643J6R0rb9tE"
+    },
+    {
+      "images": [],
+      "followers": {
+        "total": 45,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 23,
+      "name": "Nitro",
+      "href": "https://api.spotify.com/v1/artists/1Rs4ljrS3rKc2IloAqwS8u",
+      "id": "1Rs4ljrS3rKc2IloAqwS8u",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/1Rs4ljrS3rKc2IloAqwS8u"},
+      "uri": "spotify:artist:1Rs4ljrS3rKc2IloAqwS8u"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/82716776ec708cfc396762567812b0ec394d5470",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/e1fd5d3d26366b0abdd45c39b137b58105714cba",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/de099f11d8da169ef401cbb6801c95184675d61e",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 41,
+        "href": null
+      },
+      "genres": ["blues-rock guitar"],
+      "popularity": 11,
+      "name": "Johnny Nitro",
+      "href": "https://api.spotify.com/v1/artists/7gbZXdp5E7YnE2JuzBa1Y1",
+      "id": "7gbZXdp5E7YnE2JuzBa1Y1",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/7gbZXdp5E7YnE2JuzBa1Y1"},
+      "uri": "spotify:artist:7gbZXdp5E7YnE2JuzBa1Y1"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/0820593e34227c83103a3adb8cd4a536f448070c",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/959b94a78ad6c76358f7e039b654244c0a20b118",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/d4f48fccb26addfab080fd5bcd87354b3d568f6c",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 6106,
+        "href": null
+      },
+      "genres": ["j-rap"],
+      "popularity": 32,
+      "name": "Nitro Microphone Underground",
+      "href": "https://api.spotify.com/v1/artists/2Zc6sm77bsQ92QvXQ73iP9",
+      "id": "2Zc6sm77bsQ92QvXQ73iP9",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/2Zc6sm77bsQ92QvXQ73iP9"},
+      "uri": "spotify:artist:2Zc6sm77bsQ92QvXQ73iP9"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/c2a74edcdd425224ca02296e893958e15b70d255",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/e5589feebeb53ddb365fcaa5492afd778b039b2f",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/116c22a0b9b2c263040e09612e11f03fe34a9745",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 263,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 23,
+      "name": "Nitro",
+      "href": "https://api.spotify.com/v1/artists/2rP7T8ic9OwogbPT8XXH7Q",
+      "id": "2rP7T8ic9OwogbPT8XXH7Q",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/2rP7T8ic9OwogbPT8XXH7Q"},
+      "uri": "spotify:artist:2rP7T8ic9OwogbPT8XXH7Q"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/4e655e43818e2a61994c266ed41216e9544bcb96",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/322e9687021ab86a5dbdd737cfb1c62c53f34bc0",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/f45a993f6972f5da1cc0b81d3c5ec59d408b7fba",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 52,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 4,
+      "name": "Mr. Nitro",
+      "href": "https://api.spotify.com/v1/artists/0VLgHmq5EU7RUwj9N1YcaG",
+      "id": "0VLgHmq5EU7RUwj9N1YcaG",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/0VLgHmq5EU7RUwj9N1YcaG"},
+      "uri": "spotify:artist:0VLgHmq5EU7RUwj9N1YcaG"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/76f5f0e1ef5078678262604f7c954f883829a801",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/6278c92ff9af2c8919375d22306a392857f445ea",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/23aa21d99f6e1fc7c570c0a8bd22172f0362176c",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 28,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 7,
+      "name": "King Nitro",
+      "href": "https://api.spotify.com/v1/artists/2ICliNH3sMRyLK0v5Dcc1t",
+      "id": "2ICliNH3sMRyLK0v5Dcc1t",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/2ICliNH3sMRyLK0v5Dcc1t"},
+      "uri": "spotify:artist:2ICliNH3sMRyLK0v5Dcc1t"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/b8d87e6408bfa01ea28838423769571633dd6d3e",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/b9466aee4b21c746d47c828b4573d2742d51ee02",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/3881a2eb7167357ba8a889b1464a6a80350e94c9",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 639,
+        "href": null
+      },
+      "genres": ["brazilian hip hop"],
+      "popularity": 28,
+      "name": "Nitro Di",
+      "href": "https://api.spotify.com/v1/artists/4WKIMkuZv5Ab2jlWU9Drrh",
+      "id": "4WKIMkuZv5Ab2jlWU9Drrh",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh"},
+      "uri": "spotify:artist:4WKIMkuZv5Ab2jlWU9Drrh"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/8166f3f60e015b1df79c687d9a2c1c7efc5875cd",
+          "height": 640
+        },
+        {
+          "width": 320,
+          "url": "https://i.scdn.co/image/036876ef0de8700e6f12f7143280c94b46a52c9b",
+          "height": 320
+        },
+        {
+          "width": 160,
+          "url": "https://i.scdn.co/image/7be585ec6db32a5a6edb5fc873787b0145057f5a",
+          "height": 160
+        }
+      ],
+      "followers": {
+        "total": 848,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 4,
+      "name": "Nitro Son",
+      "href": "https://api.spotify.com/v1/artists/5CWNey01DwIN7TIaAjkvlD",
+      "id": "5CWNey01DwIN7TIaAjkvlD",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/5CWNey01DwIN7TIaAjkvlD"},
+      "uri": "spotify:artist:5CWNey01DwIN7TIaAjkvlD"
+    },
+    {
+      "images": [
+        {
+          "width": 640,
+          "url": "https://i.scdn.co/image/807d9110a36f72a94645a664fe7c04194d99f598",
+          "height": 640
+        },
+        {
+          "width": 300,
+          "url": "https://i.scdn.co/image/e13e203dc0e54eaccb8047e02f8e9a1f937a837b",
+          "height": 300
+        },
+        {
+          "width": 64,
+          "url": "https://i.scdn.co/image/3843b8381730e3b456f70e822a6d5eb74dc86c41",
+          "height": 64
+        }
+      ],
+      "followers": {
+        "total": 198,
+        "href": null
+      },
+      "genres": [],
+      "popularity": 10,
+      "name": "DJ Nitro",
+      "href": "https://api.spotify.com/v1/artists/6uYLAvumbdEgbWslvkW0SQ",
+      "id": "6uYLAvumbdEgbWslvkW0SQ",
+      "type": "artist",
+      "external_urls": {"spotify": "https://open.spotify.com/artist/6uYLAvumbdEgbWslvkW0SQ"},
+      "uri": "spotify:artist:6uYLAvumbdEgbWslvkW0SQ"
+    }
+  ]
+}}

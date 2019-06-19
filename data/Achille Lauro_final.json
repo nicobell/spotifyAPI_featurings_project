@@ -1,0 +1,933 @@
+{
+  "profile": "images/Achille LauroProfile.jpg",
+  "artistName": "Achille Lauro",
+  "idFeats": [
+    {
+      "name": "Achille Lauro",
+      "ids": [
+        "0xXt39nrPLKPdLma3Ce1Vk",
+        "0TOxoAmGiECMQBKMtY9Gx6",
+        "2wXLAFYIclP6NfmmugFAuL",
+        "50RKh8Relx6iWEZLtgtNJ6",
+        "5fpddhtBYcQsRu2d4vJf1Q",
+        "1PmAJ4km896EzKyPLDOTtS",
+        "728DBCO2w0weO0gGVwGUex",
+        "3dddy63aCHTWE9e5x4EvkP",
+        "2Gh5VQk2dGHeqRStTrHVqn",
+        "3NVdppqmZJWxW0ucg2FRB6",
+        "0n3PZpDwiiKdKbnL7zwHTW",
+        "4UqezPB3zRA5Ff7zCmw13R",
+        "2m2ECkrlNWGtahYmRd9JE1",
+        "0LyNmQ3xMMCWY0lgrFJFSh",
+        "12EIZf8SXdPRJLrAPFLpup",
+        "0PpB4YTfszDRmQxLirA4pM",
+        "0c5ds29zykQRvb56FdpnBy",
+        "2Ad2hiUgwLSd1eMTHcKUOq",
+        "3jWfGOOUffq51fWGQdPV68",
+        "5tqRw9RcMY83foaC1tIstl",
+        "2vtvFVqOxB0Xk1IuGncDEu",
+        "2hYqDFUtXcUMRUEgD63RIA",
+        "4xIBzIevdcqUHqbLM1sZdn",
+        "6aNLBojYJMSxZWEah7csD9",
+        "1OsbPhIjRG5htnCBHVeFMG",
+        "3sfKOBqyb36bk2efSE19L8",
+        "42Ku0ovkMjzUpGkEn28pDd",
+        "6h6bonEm8iAhVffUV8ElFq",
+        "1tdelvpA3J6FnyhZkakS4C",
+        "5iVFL7qYh1sgP4WP7ZPN4F",
+        "01CeERB8ik4i5sKrvLECIc",
+        "1RKF6wse7JBKqmCrvZbYyu",
+        "2meeJ01g89ZegILK9xaDSO",
+        "6rcKoiK0t0xVm94MkdBDl0",
+        "75dsvIpsSwympxsQCMTZmr",
+        "6R9HJc4ppVoWJ2HOiSDG9N",
+        "1xncS9QvBvnIUGaSrjb3dc",
+        "0CHAAuryUJDzzpKmsyT9eP",
+        "6jc9xHk6bAqeeAwXGSy65r",
+        "4q7uBwo5AIumOsxRCuNJmg",
+        "6v3u4SrgC0f5hYe2j40VTv",
+        "1vYowliOl6DDYNTpqw9U8X",
+        "2uA6W7cTzN2yosgL3NSJLH",
+        "62pKXsRHgqhtGaqTQeDOga",
+        "1o7GRCg18JTNnIhzmuHf9d",
+        "77ll8NGnRMd9uzHEZB7nvD",
+        "6XFpAyQPjlH5S6TVHO1Euu",
+        "3YgxYmqnb4gPHhWCa6Ecup",
+        "284njwRzYQy4q1O0v0woqw",
+        "4iVnSAoojPkkBRxxfv8bzk",
+        "20ZdMxjEfIYK8twt3yKwje",
+        "0luaWBBRPYOIlxFZKZ8gVp",
+        "0IDmT4TeadwragL7LBASb7",
+        "5oCWny3d6QR5gqMf0EFFTJ",
+        "5qfIKhePQ7q6kq0x60zqrF",
+        "7doHhAd2MdlDzf7j2jh6d2",
+        "7nOzZwWEF3Vefv7fSvcotC",
+        "3yWwzF18313urt86tLEkNv",
+        "1baWLcMDFaODceRfGXa4Il",
+        "2SLQSDeD9B7QdTivsjCU92",
+        "7qK2Gmm0xvpEeXJ6Na6tQd",
+        "2OJfNnhhLAtQzIEiQoLtOO",
+        "0i1ylWfyfu3ysDB4BNDwWA",
+        "3sjCjb46f0XLzHtSGS2XEu",
+        "0KLtAhFRJI85z9MOGP5IBQ",
+        "3VnHnFEN4yN62cBeWRqw3A",
+        "1EZlP9e0tYGNShcSMS6yxD",
+        "4kchHIZmSbGxdLXI973yMz",
+        "1MGXWglFoINJdrcp2W0U0w",
+        "6mkMtAErnMpuCuEF1H9nZP",
+        "47PyJJAMyC6ha0Z11Ie6CE",
+        "4esM4JWwpDmuElFTZc4O8R",
+        "3JW0C2aZPV3ZJxLnHQX49s",
+        "5VfJp5QZ3KHOCA6YnDqz4K",
+        "1yDfLO9xSZUWrRpiuLqBSL",
+        "134lrPgd8pl5zQHM7AzClR",
+        "2OhS3ERJvncLk03L4FVpZO",
+        "3N2o65SO5A3G3W3GAvbETx",
+        "2IUl4JYYhIyF6kp4mvLTmR",
+        "2sTyc9odHgB0va2e8RZ9oV",
+        "6LJT6sytJ4yFXkqd0s8eWe",
+        "3ObDlihkT0wEClM60loTlW",
+        "43BLOqzjwxuj11ZjQ38ziy",
+        "15uwmdCDX92pFsUdhmJ9Zt",
+        "7DiAY9evRpkUpImzmnaACY",
+        "542jJTUXAZDIWkk8uycZkF"
+      ],
+      "appears": 86
+    },
+    {
+      "name": "Boss Doms",
+      "ids": [
+        "0xXt39nrPLKPdLma3Ce1Vk",
+        "0TOxoAmGiECMQBKMtY9Gx6",
+        "2wXLAFYIclP6NfmmugFAuL",
+        "50RKh8Relx6iWEZLtgtNJ6",
+        "5fpddhtBYcQsRu2d4vJf1Q",
+        "1PmAJ4km896EzKyPLDOTtS",
+        "728DBCO2w0weO0gGVwGUex",
+        "3dddy63aCHTWE9e5x4EvkP",
+        "2Gh5VQk2dGHeqRStTrHVqn",
+        "3NVdppqmZJWxW0ucg2FRB6",
+        "0n3PZpDwiiKdKbnL7zwHTW",
+        "4UqezPB3zRA5Ff7zCmw13R",
+        "2m2ECkrlNWGtahYmRd9JE1",
+        "0LyNmQ3xMMCWY0lgrFJFSh",
+        "12EIZf8SXdPRJLrAPFLpup",
+        "0PpB4YTfszDRmQxLirA4pM",
+        "0c5ds29zykQRvb56FdpnBy",
+        "2Ad2hiUgwLSd1eMTHcKUOq",
+        "3jWfGOOUffq51fWGQdPV68",
+        "5tqRw9RcMY83foaC1tIstl",
+        "2vtvFVqOxB0Xk1IuGncDEu",
+        "2hYqDFUtXcUMRUEgD63RIA",
+        "4xIBzIevdcqUHqbLM1sZdn",
+        "6aNLBojYJMSxZWEah7csD9",
+        "1OsbPhIjRG5htnCBHVeFMG",
+        "3sfKOBqyb36bk2efSE19L8",
+        "42Ku0ovkMjzUpGkEn28pDd",
+        "6h6bonEm8iAhVffUV8ElFq",
+        "1tdelvpA3J6FnyhZkakS4C",
+        "5iVFL7qYh1sgP4WP7ZPN4F",
+        "01CeERB8ik4i5sKrvLECIc",
+        "1RKF6wse7JBKqmCrvZbYyu",
+        "2meeJ01g89ZegILK9xaDSO",
+        "75dsvIpsSwympxsQCMTZmr",
+        "6R9HJc4ppVoWJ2HOiSDG9N",
+        "1xncS9QvBvnIUGaSrjb3dc",
+        "0CHAAuryUJDzzpKmsyT9eP",
+        "6jc9xHk6bAqeeAwXGSy65r",
+        "4q7uBwo5AIumOsxRCuNJmg",
+        "6v3u4SrgC0f5hYe2j40VTv",
+        "5oCWny3d6QR5gqMf0EFFTJ",
+        "2OJfNnhhLAtQzIEiQoLtOO",
+        "47PyJJAMyC6ha0Z11Ie6CE",
+        "4esM4JWwpDmuElFTZc4O8R"
+      ],
+      "appears": 44
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "ids": [
+        "0xXt39nrPLKPdLma3Ce1Vk",
+        "2wXLAFYIclP6NfmmugFAuL",
+        "5fpddhtBYcQsRu2d4vJf1Q",
+        "0PpB4YTfszDRmQxLirA4pM",
+        "7nOzZwWEF3Vefv7fSvcotC"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Gow Tribe",
+      "ids": [
+        "0TOxoAmGiECMQBKMtY9Gx6",
+        "50RKh8Relx6iWEZLtgtNJ6",
+        "0LyNmQ3xMMCWY0lgrFJFSh",
+        "5tqRw9RcMY83foaC1tIstl",
+        "5iVFL7qYh1sgP4WP7ZPN4F",
+        "3yWwzF18313urt86tLEkNv",
+        "1baWLcMDFaODceRfGXa4Il",
+        "2SLQSDeD9B7QdTivsjCU92",
+        "7qK2Gmm0xvpEeXJ6Na6tQd",
+        "2OJfNnhhLAtQzIEiQoLtOO",
+        "3sjCjb46f0XLzHtSGS2XEu",
+        "0KLtAhFRJI85z9MOGP5IBQ"
+      ],
+      "appears": 12
+    },
+    {
+      "name": "Coez",
+      "ids": [
+        "2wXLAFYIclP6NfmmugFAuL",
+        "75dsvIpsSwympxsQCMTZmr",
+        "3YgxYmqnb4gPHhWCa6Ecup",
+        "5qfIKhePQ7q6kq0x60zqrF"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "DJ Pitch",
+      "ids": ["50RKh8Relx6iWEZLtgtNJ6"],
+      "appears": 1
+    },
+    {
+      "name": "Simon P",
+      "ids": [
+        "1PmAJ4km896EzKyPLDOTtS",
+        "77ll8NGnRMd9uzHEZB7nvD",
+        "7qK2Gmm0xvpEeXJ6Na6tQd",
+        "0i1ylWfyfu3ysDB4BNDwWA",
+        "1EZlP9e0tYGNShcSMS6yxD"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Cosmo",
+      "ids": ["3NVdppqmZJWxW0ucg2FRB6"],
+      "appears": 1
+    },
+    {
+      "name": "Vins",
+      "ids": [
+        "4UqezPB3zRA5Ff7zCmw13R",
+        "0c5ds29zykQRvb56FdpnBy"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "0PpB4YTfszDRmQxLirA4pM",
+        "6aNLBojYJMSxZWEah7csD9",
+        "2uA6W7cTzN2yosgL3NSJLH",
+        "4iVnSAoojPkkBRxxfv8bzk",
+        "1MGXWglFoINJdrcp2W0U0w"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Rocco Hunt",
+      "ids": ["2vtvFVqOxB0Xk1IuGncDEu"],
+      "appears": 1
+    },
+    {
+      "name": "Clementino",
+      "ids": ["2vtvFVqOxB0Xk1IuGncDEu"],
+      "appears": 1
+    },
+    {
+      "name": "Fred De Palma",
+      "ids": [
+        "01CeERB8ik4i5sKrvLECIc",
+        "3JW0C2aZPV3ZJxLnHQX49s",
+        "6LJT6sytJ4yFXkqd0s8eWe",
+        "43BLOqzjwxuj11ZjQ38ziy"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Dogslife",
+      "ids": [
+        "6rcKoiK0t0xVm94MkdBDl0",
+        "7qK2Gmm0xvpEeXJ6Na6tQd",
+        "2OJfNnhhLAtQzIEiQoLtOO"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "DJ Pitch8",
+      "ids": ["1vYowliOl6DDYNTpqw9U8X"],
+      "appears": 1
+    },
+    {
+      "name": "Marracash",
+      "ids": [
+        "62pKXsRHgqhtGaqTQeDOga",
+        "6XFpAyQPjlH5S6TVHO1Euu",
+        "5VfJp5QZ3KHOCA6YnDqz4K",
+        "43BLOqzjwxuj11ZjQ38ziy"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Caputo",
+      "ids": ["1o7GRCg18JTNnIhzmuHf9d"],
+      "appears": 1
+    },
+    {
+      "name": "Ackeejuice Rockers",
+      "ids": ["6XFpAyQPjlH5S6TVHO1Euu"],
+      "appears": 1
+    },
+    {
+      "name": "Nigga Dium",
+      "ids": ["284njwRzYQy4q1O0v0woqw"],
+      "appears": 1
+    },
+    {
+      "name": "Read",
+      "ids": ["20ZdMxjEfIYK8twt3yKwje"],
+      "appears": 1
+    },
+    {
+      "name": "E. Caputo",
+      "ids": ["20ZdMxjEfIYK8twt3yKwje"],
+      "appears": 1
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": [
+        "0luaWBBRPYOIlxFZKZ8gVp",
+        "6mkMtAErnMpuCuEF1H9nZP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Sonia Margot",
+      "ids": ["0IDmT4TeadwragL7LBASb7"],
+      "appears": 1
+    },
+    {
+      "name": "Anna Tatangelo",
+      "ids": ["5oCWny3d6QR5gqMf0EFFTJ"],
+      "appears": 1
+    },
+    {
+      "name": "Rasty Kilo",
+      "ids": [
+        "7doHhAd2MdlDzf7j2jh6d2",
+        "2sTyc9odHgB0va2e8RZ9oV"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "No Face R.Y.C.H.",
+      "ids": [
+        "3yWwzF18313urt86tLEkNv",
+        "1baWLcMDFaODceRfGXa4Il",
+        "2SLQSDeD9B7QdTivsjCU92",
+        "7qK2Gmm0xvpEeXJ6Na6tQd",
+        "2OJfNnhhLAtQzIEiQoLtOO",
+        "0i1ylWfyfu3ysDB4BNDwWA",
+        "3sjCjb46f0XLzHtSGS2XEu",
+        "0KLtAhFRJI85z9MOGP5IBQ"
+      ],
+      "appears": 8
+    },
+    {
+      "name": "Uzi Lvke",
+      "ids": ["7qK2Gmm0xvpEeXJ6Na6tQd"],
+      "appears": 1
+    },
+    {
+      "name": "Yanky",
+      "ids": ["2OJfNnhhLAtQzIEiQoLtOO"],
+      "appears": 1
+    },
+    {
+      "name": "Kiddy",
+      "ids": ["2OJfNnhhLAtQzIEiQoLtOO"],
+      "appears": 1
+    },
+    {
+      "name": "Don Joe",
+      "ids": ["2OJfNnhhLAtQzIEiQoLtOO"],
+      "appears": 1
+    },
+    {
+      "name": "Sedato Blend",
+      "ids": [
+        "0i1ylWfyfu3ysDB4BNDwWA",
+        "1EZlP9e0tYGNShcSMS6yxD"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Valè",
+      "ids": ["0i1ylWfyfu3ysDB4BNDwWA"],
+      "appears": 1
+    },
+    {
+      "name": "OG Eastbull",
+      "ids": [
+        "3VnHnFEN4yN62cBeWRqw3A",
+        "47PyJJAMyC6ha0Z11Ie6CE"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Rischio",
+      "ids": ["4kchHIZmSbGxdLXI973yMz"],
+      "appears": 1
+    },
+    {
+      "name": "Emis Killa",
+      "ids": ["4esM4JWwpDmuElFTZc4O8R"],
+      "appears": 1
+    },
+    {
+      "name": "Mr.Cioni",
+      "ids": ["1yDfLO9xSZUWrRpiuLqBSL"],
+      "appears": 1
+    },
+    {
+      "name": "Saint",
+      "ids": ["134lrPgd8pl5zQHM7AzClR"],
+      "appears": 1
+    },
+    {
+      "name": "Night Skinny",
+      "ids": [
+        "2OhS3ERJvncLk03L4FVpZO",
+        "3N2o65SO5A3G3W3GAvbETx",
+        "15uwmdCDX92pFsUdhmJ9Zt"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Luche",
+      "ids": [
+        "2OhS3ERJvncLk03L4FVpZO",
+        "2IUl4JYYhIyF6kp4mvLTmR",
+        "43BLOqzjwxuj11ZjQ38ziy"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Johnny Marsiglia",
+      "ids": ["2OhS3ERJvncLk03L4FVpZO"],
+      "appears": 1
+    },
+    {
+      "name": "Pat Cosmo",
+      "ids": ["2OhS3ERJvncLk03L4FVpZO"],
+      "appears": 1
+    },
+    {
+      "name": "Deleterio",
+      "ids": [
+        "3ObDlihkT0wEClM60loTlW",
+        "43BLOqzjwxuj11ZjQ38ziy"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Shablo",
+      "ids": ["43BLOqzjwxuj11ZjQ38ziy"],
+      "appears": 1
+    },
+    {
+      "name": "Corrado",
+      "ids": ["43BLOqzjwxuj11ZjQ38ziy"],
+      "appears": 1
+    },
+    {
+      "name": "Attila",
+      "ids": ["43BLOqzjwxuj11ZjQ38ziy"],
+      "appears": 1
+    },
+    {
+      "name": "Tayone",
+      "ids": ["43BLOqzjwxuj11ZjQ38ziy"],
+      "appears": 1
+    },
+    {
+      "name": "Bra",
+      "ids": ["7DiAY9evRpkUpImzmnaACY"],
+      "appears": 1
+    },
+    {
+      "name": "Martina May",
+      "ids": ["7DiAY9evRpkUpImzmnaACY"],
+      "appears": 1
+    },
+    {
+      "name": "3D",
+      "ids": ["542jJTUXAZDIWkk8uycZkF"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Rolls Royce (feat. Boss Doms & Frenetik&Orang3)",
+        "Cadillac (feat. Boss Doms & Gow Tribe)",
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "Zucchero (feat. Boss Doms, DJ Pitch & Gow Tribe)",
+        "1969 (feat. Boss Doms & Frenetik&Orang3)",
+        "Roma (feat. Boss Doms)",
+        "Sexy Ugly (feat. Boss Doms)",
+        "Delinquente (feat. Boss Doms)",
+        "Scusa (feat. Boss Doms)",
+        "Angelo Blu (feat. Cosmo)",
+        "BVLGARI",
+        "Mamacita (feat. Vins)",
+        "Amore mi",
+        "Roba francese (feat. Gow Tribe)",
+        "Burro e marmellata",
+        "Purple Rain (feat. Gemitaiz & Frenetik&Orang3)",
+        "Dolores (feat. Vins)",
+        "El Ninho",
+        "Non sei come me",
+        "Midnight Carnival",
+        "Ammo' (feat. Rocco Hunt & Clementino)",
+        "Penelope",
+        "Teatro & cinema",
+        "Ulalala",
+        "Ragazzi madre - Prequel",
+        "Ragazzi madre",
+        "Latte in polvere",
+        "Maharaja",
+        "Amico del quore",
+        "Profumo da donna",
+        "Amore & grammi",
+        "CCL - Prequel",
+        "CCL",
+        "Barabba II",
+        "Ascensore per l'inferno",
+        "Occhiali da donna",
+        "Wow",
+        "Cenerentola",
+        "Miami Beach",
+        "A casa di Sandro",
+        "In paradiso",
+        "Young King",
+        "Ghetto Dance",
+        "Ora lo so",
+        "Playground Love",
+        "Bed & Breakfast",
+        "Real Royal Street Rap",
+        "Scelgo le stelle",
+        "Las Vegas",
+        "Nessuno",
+        "Drink lungo",
+        "Insalatiera",
+        "Rich Forever",
+        "Ragazza di periferia",
+        "Ascensore per l'Inferno - Radio Edit",
+        "Bianco Natale",
+        "Maledetto lunedì (feat. Achille Lauro)",
+        "CAPITOLO I - Drugstore Cowboy (feat. Achille Lauro)",
+        "Trap",
+        "CAPITOLO II - Bruce Robertson (feat. Achille Lauro)",
+        "Battiato (feat. Gow Tribe & Dogslife)",
+        "La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)",
+        "Lager (feat. Valè)",
+        "CAPITOLO III- Addio alle armi (feat. Achille Lauro)",
+        "CAPITOLO IV - Tommaso (feat. Achille Lauro)",
+        "Ballo del blocco",
+        "Lager (feat. Achille Lauro)",
+        "09/15",
+        "Keanu Reeves (feat. Achille Lauro)",
+        "R.I.P. (feat. Achille Lauro)",
+        "Ballo del blocco feat. Achille Lauro (prod. Boss Doms)",
+        "Linda (Reloaded)",
+        "5.30 (feat. Achille Lauro)",
+        "Don",
+        "H.a.T.E.R. (feat. Achille Lauro)",
+        "Bed & Breakfast (feat. Achille Lauro)",
+        "La verità",
+        "Penso di me",
+        "Ghetto Memories",
+        "Marmi neri",
+        "Notte da cafoni",
+        "Forse C'è",
+        "Genesi",
+        "Benedetti stronzi",
+        "Scarpe coi tacchi 3 - La Fine",
+        "Grimey"
+      ],
+      "name": "Achille Lauro",
+      "appears": 86
+    },
+    {
+      "songs": [
+        "Rolls Royce (feat. Boss Doms & Frenetik&Orang3)",
+        "Cadillac (feat. Boss Doms & Gow Tribe)",
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "Zucchero (feat. Boss Doms, DJ Pitch & Gow Tribe)",
+        "1969 (feat. Boss Doms & Frenetik&Orang3)",
+        "Roma (feat. Boss Doms)",
+        "Sexy Ugly (feat. Boss Doms)",
+        "Delinquente (feat. Boss Doms)",
+        "Scusa (feat. Boss Doms)",
+        "Angelo Blu (feat. Cosmo)",
+        "BVLGARI",
+        "Mamacita (feat. Vins)",
+        "Amore mi",
+        "Roba francese (feat. Gow Tribe)",
+        "Burro e marmellata",
+        "Purple Rain (feat. Gemitaiz & Frenetik&Orang3)",
+        "Dolores (feat. Vins)",
+        "El Ninho",
+        "Non sei come me",
+        "Midnight Carnival",
+        "Ammo' (feat. Rocco Hunt & Clementino)",
+        "Penelope",
+        "Teatro & cinema",
+        "Ulalala",
+        "Ragazzi madre - Prequel",
+        "Ragazzi madre",
+        "Latte in polvere",
+        "Maharaja",
+        "Amico del quore",
+        "Profumo da donna",
+        "Amore & grammi",
+        "CCL - Prequel",
+        "CCL",
+        "Ascensore per l'inferno",
+        "Occhiali da donna",
+        "Wow",
+        "Cenerentola",
+        "Miami Beach",
+        "A casa di Sandro",
+        "In paradiso",
+        "Ragazza di periferia",
+        "La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)",
+        "Ballo del blocco feat. Achille Lauro (prod. Boss Doms)",
+        "Linda (Reloaded)"
+      ],
+      "name": "Boss Doms",
+      "appears": 44
+    },
+    {
+      "songs": [
+        "Rolls Royce (feat. Boss Doms & Frenetik&Orang3)",
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "1969 (feat. Boss Doms & Frenetik&Orang3)",
+        "Purple Rain (feat. Gemitaiz & Frenetik&Orang3)",
+        "Maledetto lunedì (feat. Achille Lauro)"
+      ],
+      "name": "Frenetik&Orang3",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "Cadillac (feat. Boss Doms & Gow Tribe)",
+        "Zucchero (feat. Boss Doms, DJ Pitch & Gow Tribe)",
+        "Roba francese (feat. Gow Tribe)",
+        "Midnight Carnival",
+        "Profumo da donna",
+        "CAPITOLO I - Drugstore Cowboy (feat. Achille Lauro)",
+        "Trap",
+        "CAPITOLO II - Bruce Robertson (feat. Achille Lauro)",
+        "Battiato (feat. Gow Tribe & Dogslife)",
+        "La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)",
+        "CAPITOLO III- Addio alle armi (feat. Achille Lauro)",
+        "CAPITOLO IV - Tommaso (feat. Achille Lauro)"
+      ],
+      "name": "Gow Tribe",
+      "appears": 12
+    },
+    {
+      "songs": [
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "Ascensore per l'inferno",
+        "Scelgo le stelle",
+        "Ascensore per l'Inferno - Radio Edit"
+      ],
+      "name": "Coez",
+      "appears": 4
+    },
+    {
+      "songs": ["Zucchero (feat. Boss Doms, DJ Pitch & Gow Tribe)"],
+      "name": "DJ Pitch",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Roma (feat. Boss Doms)",
+        "Bed & Breakfast",
+        "Battiato (feat. Gow Tribe & Dogslife)",
+        "Lager (feat. Valè)",
+        "Lager (feat. Achille Lauro)"
+      ],
+      "name": "Simon P",
+      "appears": 5
+    },
+    {
+      "songs": ["Angelo Blu (feat. Cosmo)"],
+      "name": "Cosmo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Mamacita (feat. Vins)",
+        "Dolores (feat. Vins)"
+      ],
+      "name": "Vins",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Purple Rain (feat. Gemitaiz & Frenetik&Orang3)",
+        "Ulalala",
+        "Ghetto Dance",
+        "Nessuno",
+        "Keanu Reeves (feat. Achille Lauro)"
+      ],
+      "name": "Gemitaiz",
+      "appears": 5
+    },
+    {
+      "songs": ["Ammo' (feat. Rocco Hunt & Clementino)"],
+      "name": "Rocco Hunt",
+      "appears": 1
+    },
+    {
+      "songs": ["Ammo' (feat. Rocco Hunt & Clementino)"],
+      "name": "Clementino",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Amore & grammi",
+        "5.30 (feat. Achille Lauro)",
+        "Notte da cafoni",
+        "Genesi"
+      ],
+      "name": "Fred De Palma",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Barabba II",
+        "Battiato (feat. Gow Tribe & Dogslife)",
+        "La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)"
+      ],
+      "name": "Dogslife",
+      "appears": 3
+    },
+    {
+      "songs": ["Young King"],
+      "name": "DJ Pitch8",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ora lo so",
+        "Real Royal Street Rap",
+        "Don",
+        "Genesi"
+      ],
+      "name": "Marracash",
+      "appears": 4
+    },
+    {
+      "songs": ["Playground Love"],
+      "name": "Caputo",
+      "appears": 1
+    },
+    {
+      "songs": ["Real Royal Street Rap"],
+      "name": "Ackeejuice Rockers",
+      "appears": 1
+    },
+    {
+      "songs": ["Las Vegas"],
+      "name": "Nigga Dium",
+      "appears": 1
+    },
+    {
+      "songs": ["Drink lungo"],
+      "name": "Read",
+      "appears": 1
+    },
+    {
+      "songs": ["Drink lungo"],
+      "name": "E. Caputo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Insalatiera",
+        "R.I.P. (feat. Achille Lauro)"
+      ],
+      "name": "Noyz Narcos",
+      "appears": 2
+    },
+    {
+      "songs": ["Rich Forever"],
+      "name": "Sonia Margot",
+      "appears": 1
+    },
+    {
+      "songs": ["Ragazza di periferia"],
+      "name": "Anna Tatangelo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Bianco Natale",
+        "Marmi neri"
+      ],
+      "name": "Rasty Kilo",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "CAPITOLO I - Drugstore Cowboy (feat. Achille Lauro)",
+        "Trap",
+        "CAPITOLO II - Bruce Robertson (feat. Achille Lauro)",
+        "Battiato (feat. Gow Tribe & Dogslife)",
+        "La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)",
+        "Lager (feat. Valè)",
+        "CAPITOLO III- Addio alle armi (feat. Achille Lauro)",
+        "CAPITOLO IV - Tommaso (feat. Achille Lauro)"
+      ],
+      "name": "No Face R.Y.C.H.",
+      "appears": 8
+    },
+    {
+      "songs": ["Battiato (feat. Gow Tribe & Dogslife)"],
+      "name": "Uzi Lvke",
+      "appears": 1
+    },
+    {
+      "songs": ["La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)"],
+      "name": "Yanky",
+      "appears": 1
+    },
+    {
+      "songs": ["La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)"],
+      "name": "Kiddy",
+      "appears": 1
+    },
+    {
+      "songs": ["La banda dello Zoo (feat. Boss Doms, Don Joe, Gow Tribe & Dogslife)"],
+      "name": "Don Joe",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Lager (feat. Valè)",
+        "Lager (feat. Achille Lauro)"
+      ],
+      "name": "Sedato Blend",
+      "appears": 2
+    },
+    {
+      "songs": ["Lager (feat. Valè)"],
+      "name": "Valè",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ballo del blocco",
+        "Ballo del blocco feat. Achille Lauro (prod. Boss Doms)"
+      ],
+      "name": "OG Eastbull",
+      "appears": 2
+    },
+    {
+      "songs": ["09/15"],
+      "name": "Rischio",
+      "appears": 1
+    },
+    {
+      "songs": ["Linda (Reloaded)"],
+      "name": "Emis Killa",
+      "appears": 1
+    },
+    {
+      "songs": ["H.a.T.E.R. (feat. Achille Lauro)"],
+      "name": "Mr.Cioni",
+      "appears": 1
+    },
+    {
+      "songs": ["Bed & Breakfast (feat. Achille Lauro)"],
+      "name": "Saint",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La verità",
+        "Penso di me",
+        "Benedetti stronzi"
+      ],
+      "name": "Night Skinny",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "La verità",
+        "Ghetto Memories",
+        "Genesi"
+      ],
+      "name": "Luche",
+      "appears": 3
+    },
+    {
+      "songs": ["La verità"],
+      "name": "Johnny Marsiglia",
+      "appears": 1
+    },
+    {
+      "songs": ["La verità"],
+      "name": "Pat Cosmo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Forse C'è",
+        "Genesi"
+      ],
+      "name": "Deleterio",
+      "appears": 2
+    },
+    {
+      "songs": ["Genesi"],
+      "name": "Shablo",
+      "appears": 1
+    },
+    {
+      "songs": ["Genesi"],
+      "name": "Corrado",
+      "appears": 1
+    },
+    {
+      "songs": ["Genesi"],
+      "name": "Attila",
+      "appears": 1
+    },
+    {
+      "songs": ["Genesi"],
+      "name": "Tayone",
+      "appears": 1
+    },
+    {
+      "songs": ["Scarpe coi tacchi 3 - La Fine"],
+      "name": "Bra",
+      "appears": 1
+    },
+    {
+      "songs": ["Scarpe coi tacchi 3 - La Fine"],
+      "name": "Martina May",
+      "appears": 1
+    },
+    {
+      "songs": ["Grimey"],
+      "name": "3D",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

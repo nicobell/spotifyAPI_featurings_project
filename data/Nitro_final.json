@@ -1,0 +1,703 @@
+{
+  "profile": "images/NitroProfile.jpg",
+  "artistName": "Nitro",
+  "idFeats": [
+    {
+      "name": "Nitro",
+      "ids": [
+        "0uTMLcUMjLJRzdxPCS7JmA",
+        "1a7p2ia3PGoDCMY4LCk5xi",
+        "50sl5AHcjlXLUBUPD18Dle",
+        "22J3THKe7sVVPV31HcXNVd",
+        "1x6s86OwWgdToTWnhizM86",
+        "677MuygVKJ6FXiTK77AGy2",
+        "6D0kAGCr50s81WCKa5USFe",
+        "45ia0fDHJUq62Eza4smTvP",
+        "6aCEP2P99HEOQcjA9Ts15X",
+        "6HasHRGSaadHpULlvGKRIy",
+        "3klPT9xuDIK49iuH1hDHkt",
+        "7smuQedVmXWLCfor8mrA1t",
+        "0PeLjkHFc90ROcnoLRwA3Z",
+        "6LuNMNDzxFBLwfiyEBnSsx",
+        "6JJ4bMAVPsjfDdh0WvKkFG",
+        "3d84CMc1hgR7RxPTUgSjSc",
+        "4nvsA575k8HrEjdQ78Ymvi",
+        "7xvExgnrMXDx25iIEOpbXA",
+        "74tzp4vb0ca8JSSTAdcr1I",
+        "77F0NNChJGfDBp3fTCWaDc",
+        "0sG1JzE2Tnu39NgItxTMgQ",
+        "2lrwrae424IfClZuPe4O4g",
+        "7t1sjZXbjTJJk1Mda71ppU",
+        "4hwwDxMDxwNbCyUJuI5sLa",
+        "0zfTyERIQHbtF5ywMHgSvV",
+        "0U8LhAqzdmNh5PWpn0MyxO",
+        "3YnXZStNaCkj1qT2kS96iw",
+        "6aq8kUWOU67hnT9iPsQSOY",
+        "7G2qvoEP9XqQUuAlPjUkBa",
+        "3SfUmHqAlzbTGxaFtlbXRI",
+        "4neRbVUtymiGGS8rhhofvB",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "6Lh2jOI8h2RQY9K6hdlWNG",
+        "5kPNnWWXNfTnC3sbOYgFgU",
+        "4XVX5pJVyw30YMHfOBa21L",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "6HFlavQK9GGiNcFu1UXGBu",
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "61MVEfPkn9lURshJfgOpWp",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "08abeK9mJwj6yKJum2VpaF",
+        "6weRCIC3XPNfYxrZnAMGIH",
+        "3nIoWJulA29AQ7DtkUkNrF",
+        "2VibAGkXKzz7tENyyF1ooR"
+      ],
+      "appears": 46
+    },
+    {
+      "name": "Salmo",
+      "ids": [
+        "0uTMLcUMjLJRzdxPCS7JmA",
+        "77F0NNChJGfDBp3fTCWaDc",
+        "2lrwrae424IfClZuPe4O4g",
+        "0zfTyERIQHbtF5ywMHgSvV",
+        "3SfUmHqAlzbTGxaFtlbXRI",
+        "4XVX5pJVyw30YMHfOBa21L",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "2VibAGkXKzz7tENyyF1ooR"
+      ],
+      "appears": 12
+    },
+    {
+      "name": "MadMan",
+      "ids": [
+        "1a7p2ia3PGoDCMY4LCk5xi",
+        "6aCEP2P99HEOQcjA9Ts15X",
+        "5kPNnWWXNfTnC3sbOYgFgU",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "3nIoWJulA29AQ7DtkUkNrF"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Dani Faiv",
+      "ids": ["50sl5AHcjlXLUBUPD18Dle"],
+      "appears": 1
+    },
+    {
+      "name": "Lazza",
+      "ids": [
+        "22J3THKe7sVVPV31HcXNVd",
+        "2lrwrae424IfClZuPe4O4g"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Dj MS",
+      "ids": [
+        "1x6s86OwWgdToTWnhizM86",
+        "6D0kAGCr50s81WCKa5USFe",
+        "3klPT9xuDIK49iuH1hDHkt",
+        "0PeLjkHFc90ROcnoLRwA3Z"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": [
+        "677MuygVKJ6FXiTK77AGy2",
+        "7smuQedVmXWLCfor8mrA1t",
+        "3SfUmHqAlzbTGxaFtlbXRI",
+        "6HFlavQK9GGiNcFu1UXGBu"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Devotion",
+      "ids": [
+        "45ia0fDHJUq62Eza4smTvP",
+        "6LuNMNDzxFBLwfiyEBnSsx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Skits Vicious",
+      "ids": [
+        "45ia0fDHJUq62Eza4smTvP",
+        "6LuNMNDzxFBLwfiyEBnSsx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "André",
+      "ids": [
+        "45ia0fDHJUq62Eza4smTvP",
+        "6LuNMNDzxFBLwfiyEBnSsx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jake La Furia",
+      "ids": ["6aCEP2P99HEOQcjA9Ts15X"],
+      "appears": 1
+    },
+    {
+      "name": "Jack The Smoker",
+      "ids": [
+        "6HasHRGSaadHpULlvGKRIy",
+        "0U8LhAqzdmNh5PWpn0MyxO",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Izi",
+      "ids": ["6HasHRGSaadHpULlvGKRIy"],
+      "appears": 1
+    },
+    {
+      "name": "Belzebass",
+      "ids": ["6JJ4bMAVPsjfDdh0WvKkFG"],
+      "appears": 1
+    },
+    {
+      "name": "Big Fish",
+      "ids": ["3d84CMc1hgR7RxPTUgSjSc"],
+      "appears": 1
+    },
+    {
+      "name": "Nerone",
+      "ids": [
+        "3d84CMc1hgR7RxPTUgSjSc",
+        "0sG1JzE2Tnu39NgItxTMgQ",
+        "4neRbVUtymiGGS8rhhofvB"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Tormento",
+      "ids": ["3d84CMc1hgR7RxPTUgSjSc"],
+      "appears": 1
+    },
+    {
+      "name": "Ernia",
+      "ids": ["4nvsA575k8HrEjdQ78Ymvi"],
+      "appears": 1
+    },
+    {
+      "name": "Warez",
+      "ids": ["7xvExgnrMXDx25iIEOpbXA"],
+      "appears": 1
+    },
+    {
+      "name": "tha Supreme",
+      "ids": ["7xvExgnrMXDx25iIEOpbXA"],
+      "appears": 1
+    },
+    {
+      "name": "Shade",
+      "ids": ["74tzp4vb0ca8JSSTAdcr1I"],
+      "appears": 1
+    },
+    {
+      "name": "Low Kidd",
+      "ids": ["2lrwrae424IfClZuPe4O4g"],
+      "appears": 1
+    },
+    {
+      "name": "Bassi Maestro",
+      "ids": [
+        "7t1sjZXbjTJJk1Mda71ppU",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "CDB",
+      "ids": ["7t1sjZXbjTJJk1Mda71ppU"],
+      "appears": 1
+    },
+    {
+      "name": "Vegas Jones",
+      "ids": ["4hwwDxMDxwNbCyUJuI5sLa"],
+      "appears": 1
+    },
+    {
+      "name": "Axos",
+      "ids": ["0zfTyERIQHbtF5ywMHgSvV"],
+      "appears": 1
+    },
+    {
+      "name": "En?gma",
+      "ids": [
+        "3YnXZStNaCkj1qT2kS96iw",
+        "6aq8kUWOU67hnT9iPsQSOY",
+        "7G2qvoEP9XqQUuAlPjUkBa",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "61MVEfPkn9lURshJfgOpWp",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "08abeK9mJwj6yKJum2VpaF"
+      ],
+      "appears": 7
+    },
+    {
+      "name": "Hell Raton",
+      "ids": [
+        "3YnXZStNaCkj1qT2kS96iw",
+        "6aq8kUWOU67hnT9iPsQSOY",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "08abeK9mJwj6yKJum2VpaF"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Clementino",
+      "ids": [
+        "3YnXZStNaCkj1qT2kS96iw",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "4o7olxYueLIX4Kzy4tfg4a"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Raige",
+      "ids": ["3YnXZStNaCkj1qT2kS96iw"],
+      "appears": 1
+    },
+    {
+      "name": "DJ Shocca",
+      "ids": ["7G2qvoEP9XqQUuAlPjUkBa"],
+      "appears": 1
+    },
+    {
+      "name": "Biggie Paul",
+      "ids": ["4neRbVUtymiGGS8rhhofvB"],
+      "appears": 1
+    },
+    {
+      "name": "Night Skinny",
+      "ids": [
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "6Lh2jOI8h2RQY9K6hdlWNG"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "5kPNnWWXNfTnC3sbOYgFgU",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Rocco Hunt",
+      "ids": [
+        "5kPNnWWXNfTnC3sbOYgFgU",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Stick Vicious",
+      "ids": ["2OAu9t9AZq4n4NtYfodnP8"],
+      "appears": 1
+    },
+    {
+      "name": "Stereoliez",
+      "ids": [
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Ceri",
+      "ids": ["0meZp4zCpsTnDaE4d7hek6"],
+      "appears": 1
+    },
+    {
+      "name": "Rasty Kilo",
+      "ids": ["2Dy8UvEAQSzHUivMvPR7hx"],
+      "appears": 1
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": ["2Dy8UvEAQSzHUivMvPR7hx"],
+      "appears": 1
+    },
+    {
+      "name": "Deleterio",
+      "ids": ["6weRCIC3XPNfYxrZnAMGIH"],
+      "appears": 1
+    },
+    {
+      "name": "Fritz Da Cat",
+      "ids": ["3nIoWJulA29AQ7DtkUkNrF"],
+      "appears": 1
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": ["3nIoWJulA29AQ7DtkUkNrF"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Chairaggione",
+        "Ok Corral",
+        "N.V.M.L.",
+        "Passepartout",
+        "Dead Body (feat. DJ MS)",
+        "Ong Bak (feat. Fabri Fibra)",
+        "Stronzo (feat. DJ MS)",
+        "Twinbeasts (feat. Devotion, Skits Vicious & André)",
+        "Glock Party (feat. Madman & Jake La Furia)",
+        "VLLBLVCK (feat. Jack the Smoker & Izi)",
+        "Dead Body",
+        "Ong Bak",
+        "Stronzo",
+        "Twinbeasts",
+        "Mr. Anderson",
+        "Fuck'd Up (feat. Tormento)",
+        "Certi Giorni (feat. Nitro)",
+        "Casa Free? (feat. Nitro & tha Supreme)",
+        "Le cose peggiori (feat. Nitro)",
+        "DISPOVERY CHANNEL (feat. Nitro)",
+        "Non so più chi sei",
+        "MOB (feat. Salmo & Nitro)",
+        "Prendi tutto (feat. Nitro, CdB)",
+        "Trankilo",
+        "Title? (feat. Nitro & Axos)",
+        "F*ck Fame (feat. Nitro)",
+        "Ready for War (feat. Raige)",
+        "Ganja Boat",
+        "Ego Trap",
+        "Dexter",
+        "Lasciami solo",
+        "La testa gira",
+        "Wes Craven - Bonus Track",
+        "The Show",
+        "Da Hardcore Wilder",
+        "Crudité",
+        "Doggy Style",
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Au Revoir",
+        "Purple Haze",
+        "Battle Royale",
+        "Jumperz",
+        "Una Settimana D'Addio",
+        "Never",
+        "Space Invaders (feat. Nitro)"
+      ],
+      "name": "Nitro",
+      "appears": 46
+    },
+    {
+      "songs": [
+        "Chairaggione",
+        "DISPOVERY CHANNEL (feat. Nitro)",
+        "MOB (feat. Salmo & Nitro)",
+        "Title? (feat. Nitro & Axos)",
+        "Dexter",
+        "Da Hardcore Wilder",
+        "Crudité",
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Purple Haze",
+        "Battle Royale",
+        "Space Invaders (feat. Nitro)"
+      ],
+      "name": "Salmo",
+      "appears": 12
+    },
+    {
+      "songs": [
+        "Ok Corral",
+        "Glock Party (feat. Madman & Jake La Furia)",
+        "The Show",
+        "Battle Royale",
+        "Never"
+      ],
+      "name": "MadMan",
+      "appears": 5
+    },
+    {
+      "songs": ["N.V.M.L."],
+      "name": "Dani Faiv",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Passepartout",
+        "MOB (feat. Salmo & Nitro)"
+      ],
+      "name": "Lazza",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Dead Body (feat. DJ MS)",
+        "Stronzo (feat. DJ MS)",
+        "Dead Body",
+        "Stronzo"
+      ],
+      "name": "Dj MS",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Ong Bak (feat. Fabri Fibra)",
+        "Ong Bak",
+        "Dexter",
+        "Doggy Style"
+      ],
+      "name": "Fabri Fibra",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Twinbeasts (feat. Devotion, Skits Vicious & André)",
+        "Twinbeasts"
+      ],
+      "name": "Devotion",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Twinbeasts (feat. Devotion, Skits Vicious & André)",
+        "Twinbeasts"
+      ],
+      "name": "Skits Vicious",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Twinbeasts (feat. Devotion, Skits Vicious & André)",
+        "Twinbeasts"
+      ],
+      "name": "André",
+      "appears": 2
+    },
+    {
+      "songs": ["Glock Party (feat. Madman & Jake La Furia)"],
+      "name": "Jake La Furia",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "VLLBLVCK (feat. Jack the Smoker & Izi)",
+        "F*ck Fame (feat. Nitro)",
+        "La testa gira",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Purple Haze",
+        "Battle Royale"
+      ],
+      "name": "Jack The Smoker",
+      "appears": 6
+    },
+    {
+      "songs": ["VLLBLVCK (feat. Jack the Smoker & Izi)"],
+      "name": "Izi",
+      "appears": 1
+    },
+    {
+      "songs": ["Mr. Anderson"],
+      "name": "Belzebass",
+      "appears": 1
+    },
+    {
+      "songs": ["Fuck'd Up (feat. Tormento)"],
+      "name": "Big Fish",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Fuck'd Up (feat. Tormento)",
+        "Non so più chi sei",
+        "Lasciami solo"
+      ],
+      "name": "Nerone",
+      "appears": 3
+    },
+    {
+      "songs": ["Fuck'd Up (feat. Tormento)"],
+      "name": "Tormento",
+      "appears": 1
+    },
+    {
+      "songs": ["Certi Giorni (feat. Nitro)"],
+      "name": "Ernia",
+      "appears": 1
+    },
+    {
+      "songs": ["Casa Free? (feat. Nitro & tha Supreme)"],
+      "name": "Warez",
+      "appears": 1
+    },
+    {
+      "songs": ["Casa Free? (feat. Nitro & tha Supreme)"],
+      "name": "tha Supreme",
+      "appears": 1
+    },
+    {
+      "songs": ["Le cose peggiori (feat. Nitro)"],
+      "name": "Shade",
+      "appears": 1
+    },
+    {
+      "songs": ["MOB (feat. Salmo & Nitro)"],
+      "name": "Low Kidd",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Prendi tutto (feat. Nitro, CdB)",
+        "Battle Royale"
+      ],
+      "name": "Bassi Maestro",
+      "appears": 2
+    },
+    {
+      "songs": ["Prendi tutto (feat. Nitro, CdB)"],
+      "name": "CDB",
+      "appears": 1
+    },
+    {
+      "songs": ["Trankilo"],
+      "name": "Vegas Jones",
+      "appears": 1
+    },
+    {
+      "songs": ["Title? (feat. Nitro & Axos)"],
+      "name": "Axos",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ready for War (feat. Raige)",
+        "Ganja Boat",
+        "Ego Trap",
+        "Crudité",
+        "Au Revoir",
+        "Battle Royale",
+        "Jumperz"
+      ],
+      "name": "En?gma",
+      "appears": 7
+    },
+    {
+      "songs": [
+        "Ready for War (feat. Raige)",
+        "Ganja Boat",
+        "Battle Royale",
+        "Jumperz"
+      ],
+      "name": "Hell Raton",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Ready for War (feat. Raige)",
+        "La testa gira",
+        "Purple Haze"
+      ],
+      "name": "Clementino",
+      "appears": 3
+    },
+    {
+      "songs": ["Ready for War (feat. Raige)"],
+      "name": "Raige",
+      "appears": 1
+    },
+    {
+      "songs": ["Ego Trap"],
+      "name": "DJ Shocca",
+      "appears": 1
+    },
+    {
+      "songs": ["Lasciami solo"],
+      "name": "Biggie Paul",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La testa gira",
+        "Wes Craven - Bonus Track"
+      ],
+      "name": "Night Skinny",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "La testa gira",
+        "The Show",
+        "Battle Royale"
+      ],
+      "name": "Gemitaiz",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "The Show",
+        "Battle Royale"
+      ],
+      "name": "Rocco Hunt",
+      "appears": 2
+    },
+    {
+      "songs": ["Stanley Kubrick (feat. Stereoliez)"],
+      "name": "Stick Vicious",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)"
+      ],
+      "name": "Stereoliez",
+      "appears": 2
+    },
+    {
+      "songs": ["Non sopporto (feat. Stereoliez & Ceri)"],
+      "name": "Ceri",
+      "appears": 1
+    },
+    {
+      "songs": ["Battle Royale"],
+      "name": "Rasty Kilo",
+      "appears": 1
+    },
+    {
+      "songs": ["Battle Royale"],
+      "name": "Noyz Narcos",
+      "appears": 1
+    },
+    {
+      "songs": ["Una Settimana D'Addio"],
+      "name": "Deleterio",
+      "appears": 1
+    },
+    {
+      "songs": ["Never"],
+      "name": "Fritz Da Cat",
+      "appears": 1
+    },
+    {
+      "songs": ["Never"],
+      "name": "Gue Pequeno",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

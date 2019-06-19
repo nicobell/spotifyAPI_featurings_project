@@ -1,0 +1,123 @@
+{
+  "profile": "images/Calcutta Profile.jpg",
+  "artistName": "Calcutta ",
+  "idFeats": [
+    {
+      "name": "Calcutta ",
+      "ids": [
+        "2M3FQ9yIlpZJuq9qcD16O6",
+        "3I34WEKJqhqdlUVhyah4GK",
+        "2eGCc9zvaUKzd3oKwQNwXW",
+        "3PYYiqmhooCNCGiiPTM5zS",
+        "0swoHiwTazywpoqiKDUtGQ",
+        "6TDCpUEnzJGudWZzdMEcs1"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Mai Mai Mai",
+      "ids": ["2M3FQ9yIlpZJuq9qcD16O6"],
+      "appears": 1
+    },
+    {
+      "name": "Giorgio Poi",
+      "ids": ["3I34WEKJqhqdlUVhyah4GK"],
+      "appears": 1
+    },
+    {
+      "name": "Takagi",
+      "ids": ["2eGCc9zvaUKzd3oKwQNwXW"],
+      "appears": 1
+    },
+    {
+      "name": "Ketra",
+      "ids": ["2eGCc9zvaUKzd3oKwQNwXW"],
+      "appears": 1
+    },
+    {
+      "name": "Elisa",
+      "ids": ["3PYYiqmhooCNCGiiPTM5zS"],
+      "appears": 1
+    },
+    {
+      "name": "Takagi & Ketra",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Tommaso Paradiso",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Jovanotti",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Tiromancino",
+      "ids": ["6TDCpUEnzJGudWZzdMEcs1"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Dal verme",
+        "La Musica Italiana",
+        "Oroscopo",
+        "Se Piovesse Il Tuo Nome - con Calcutta",
+        "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+        "Strade (feat. Calcutta)"
+      ],
+      "name": "Calcutta ",
+      "appears": 6
+    },
+    {
+      "songs": ["Dal verme"],
+      "name": "Mai Mai Mai",
+      "appears": 1
+    },
+    {
+      "songs": ["La Musica Italiana"],
+      "name": "Giorgio Poi",
+      "appears": 1
+    },
+    {
+      "songs": ["Oroscopo"],
+      "name": "Takagi",
+      "appears": 1
+    },
+    {
+      "songs": ["Oroscopo"],
+      "name": "Ketra",
+      "appears": 1
+    },
+    {
+      "songs": ["Se Piovesse Il Tuo Nome - con Calcutta"],
+      "name": "Elisa",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Takagi & Ketra",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Tommaso Paradiso",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Jovanotti",
+      "appears": 1
+    },
+    {
+      "songs": ["Strade (feat. Calcutta)"],
+      "name": "Tiromancino",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

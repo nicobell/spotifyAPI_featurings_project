@@ -1,0 +1,955 @@
+{
+  "profile": "images/SalmoProfile.jpg",
+  "artistName": "Salmo",
+  "idFeats": [
+    {
+      "name": "Salmo",
+      "ids": [
+        "2rgOAX5Cj3pk8JFnaPwJbd",
+        "77F0NNChJGfDBp3fTCWaDc",
+        "7wC76LWyNxaP3hjGzbWOcN",
+        "4spkZ6gRKh827yp6JI6TN1",
+        "2fkVZYFv9hOejIsLzZy8ad",
+        "5gAn53AobW1fP2TSN0k52c",
+        "0zfTyERIQHbtF5ywMHgSvV",
+        "1xCo7f3NiU44PU0RfSFqOq",
+        "4AIbvYQOWi5LoPukO03YI7",
+        "30jHB9ntxIMbudXWRtRAHl",
+        "6JcvKfbC0SaklwHTo4wy8F",
+        "41k4JhsOLGDEh1lCZ6fD3l",
+        "15ysExZzTNLHRSbWOLoI17",
+        "2VibAGkXKzz7tENyyF1ooR",
+        "49qQmrAuK7uV94rzfSOQEl",
+        "5XJNBMQ68w6CzWI8gOqHzi",
+        "14KDcOfhvQ3axvBZN0sG9e",
+        "6qW6XHOnKCIHycv1Fse6lH",
+        "6VNUV9fR5D7atZDv3gTDkv",
+        "4MSYiAtvOsrqbYMFXd6lOy",
+        "5mtzyuFbsqMcX6S813yOnb",
+        "6vxCyAkHqs2CWzBAUzUoY2",
+        "5DjoIzhlIM1Vo40CdZNWim",
+        "355BSaUuIuULHScsyDPLd1",
+        "6y2mNRycD8qT3UP7468JQB",
+        "6Irws6sVOY3tEeUztrjaiY",
+        "6uyH1HbcjQVXpRZNLa71wI",
+        "5oDcVcEemJhMMOqEVw2G1a",
+        "0cGhGmFr4FzzNthuXumwzm",
+        "4Uc3MzXrneljorfQ0n8czf",
+        "4cmPlzGbGNeUEg4Hflljvp",
+        "7pGR33X8qLWDUzVcNpOveT",
+        "0uTMLcUMjLJRzdxPCS7JmA",
+        "7zfmu6GIyvkfDzp3X1Gj3R",
+        "2lrwrae424IfClZuPe4O4g",
+        "5cPBsi9NwLzmd1lIC5buoA",
+        "1IoZhemloICRkyFRKSAPj6",
+        "0iho32QSctoYTqmuZ8Dql8",
+        "1fTY9rChSmUT4XyZT8LWFz",
+        "0WqV5GdMdsp72XYKWw2QuH",
+        "1pQw5xbRYWgMzn2Xy0M9vT",
+        "65tW8YTCNtqFv2RPq7gP2Y",
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "2grg1DurcEjO8DuYVYF6rb",
+        "3SfUmHqAlzbTGxaFtlbXRI",
+        "7g5orNSP8zFUQbaiARj6mM",
+        "4XVX5pJVyw30YMHfOBa21L",
+        "3bN5O5WRbA9yEvBzAudLgC",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "3G79CWNJopl4dQCbZcQshm",
+        "7ijvafwhj04rY7WnxaXbag",
+        "64ggBcLaOFiVbVv0YOFZvR",
+        "1a0yjAa8RfFOlujaSKuO7O",
+        "2gejRJJFRldhYpxk56a1OL",
+        "3TNWOqeW6Cnc3HjA8Lihxo",
+        "3CgC2HnTLDpi0nPTqsIRk6",
+        "4yubxseyIb2lcd1fhv0jjD",
+        "02RqtP0fB5SYyct2woM4Bw",
+        "63andsCTKdDjZaOfWrMyB8"
+      ],
+      "appears": 63
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": [
+        "2rgOAX5Cj3pk8JFnaPwJbd",
+        "3SfUmHqAlzbTGxaFtlbXRI"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Nitro",
+      "ids": [
+        "77F0NNChJGfDBp3fTCWaDc",
+        "0zfTyERIQHbtF5ywMHgSvV",
+        "2VibAGkXKzz7tENyyF1ooR",
+        "0uTMLcUMjLJRzdxPCS7JmA",
+        "2lrwrae424IfClZuPe4O4g",
+        "3SfUmHqAlzbTGxaFtlbXRI",
+        "4XVX5pJVyw30YMHfOBa21L",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 12
+    },
+    {
+      "name": "Sfera Ebbasta",
+      "ids": ["7wC76LWyNxaP3hjGzbWOcN"],
+      "appears": 1
+    },
+    {
+      "name": "Coez",
+      "ids": [
+        "4spkZ6gRKh827yp6JI6TN1",
+        "0WqV5GdMdsp72XYKWw2QuH",
+        "3bN5O5WRbA9yEvBzAudLgC"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "NSTASIA",
+      "ids": ["2fkVZYFv9hOejIsLzZy8ad"],
+      "appears": 1
+    },
+    {
+      "name": "Rose Villain",
+      "ids": [
+        "5gAn53AobW1fP2TSN0k52c",
+        "4Uc3MzXrneljorfQ0n8czf"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Axos",
+      "ids": [
+        "0zfTyERIQHbtF5ywMHgSvV",
+        "5cPBsi9NwLzmd1lIC5buoA"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Victor Kwality",
+      "ids": [
+        "1xCo7f3NiU44PU0RfSFqOq",
+        "4AIbvYQOWi5LoPukO03YI7"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Travis Barker",
+      "ids": [
+        "1xCo7f3NiU44PU0RfSFqOq",
+        "4AIbvYQOWi5LoPukO03YI7",
+        "30jHB9ntxIMbudXWRtRAHl"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "SBCR",
+      "ids": ["6JcvKfbC0SaklwHTo4wy8F"],
+      "appears": 1
+    },
+    {
+      "name": "Sysma",
+      "ids": ["41k4JhsOLGDEh1lCZ6fD3l"],
+      "appears": 1
+    },
+    {
+      "name": "Unother",
+      "ids": ["41k4JhsOLGDEh1lCZ6fD3l"],
+      "appears": 1
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": [
+        "15ysExZzTNLHRSbWOLoI17",
+        "7pGR33X8qLWDUzVcNpOveT",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "3G79CWNJopl4dQCbZcQshm"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "49qQmrAuK7uV94rzfSOQEl",
+        "7zfmu6GIyvkfDzp3X1Gj3R",
+        "1IoZhemloICRkyFRKSAPj6",
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "MadMan",
+      "ids": [
+        "49qQmrAuK7uV94rzfSOQEl",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "The Navigator",
+      "ids": ["5XJNBMQ68w6CzWI8gOqHzi"],
+      "appears": 1
+    },
+    {
+      "name": "Mezzosangue",
+      "ids": ["14KDcOfhvQ3axvBZN0sG9e"],
+      "appears": 1
+    },
+    {
+      "name": "Hell Raton",
+      "ids": [
+        "6qW6XHOnKCIHycv1Fse6lH",
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "En?gma",
+      "ids": [
+        "6qW6XHOnKCIHycv1Fse6lH",
+        "5DjoIzhlIM1Vo40CdZNWim",
+        "1pQw5xbRYWgMzn2Xy0M9vT",
+        "65tW8YTCNtqFv2RPq7gP2Y",
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "63Mf6feqdwHnqdVSqNx9AV",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 7
+    },
+    {
+      "name": "Dj Slait",
+      "ids": [
+        "6qW6XHOnKCIHycv1Fse6lH",
+        "4MSYiAtvOsrqbYMFXd6lOy",
+        "5DjoIzhlIM1Vo40CdZNWim",
+        "6Irws6sVOY3tEeUztrjaiY",
+        "64ggBcLaOFiVbVv0YOFZvR",
+        "4yubxseyIb2lcd1fhv0jjD"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Dope D.O.D.",
+      "ids": ["6VNUV9fR5D7atZDv3gTDkv"],
+      "appears": 1
+    },
+    {
+      "name": "Primo",
+      "ids": [
+        "5mtzyuFbsqMcX6S813yOnb",
+        "7ijvafwhj04rY7WnxaXbag",
+        "4yubxseyIb2lcd1fhv0jjD"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Ensi",
+      "ids": [
+        "5mtzyuFbsqMcX6S813yOnb",
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "7g5orNSP8zFUQbaiARj6mM",
+        "3G79CWNJopl4dQCbZcQshm"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "DJ 2P",
+      "ids": ["5mtzyuFbsqMcX6S813yOnb"],
+      "appears": 1
+    },
+    {
+      "name": "Fritz Da Cat",
+      "ids": [
+        "6vxCyAkHqs2CWzBAUzUoY2",
+        "2gejRJJFRldhYpxk56a1OL"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Dj Valium",
+      "ids": ["355BSaUuIuULHScsyDPLd1"],
+      "appears": 1
+    },
+    {
+      "name": "Belzebass",
+      "ids": ["6y2mNRycD8qT3UP7468JQB"],
+      "appears": 1
+    },
+    {
+      "name": "Enigma",
+      "ids": [
+        "6uyH1HbcjQVXpRZNLa71wI",
+        "0cGhGmFr4FzzNthuXumwzm",
+        "64ggBcLaOFiVbVv0YOFZvR",
+        "4yubxseyIb2lcd1fhv0jjD"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "El Raton",
+      "ids": ["5oDcVcEemJhMMOqEVw2G1a"],
+      "appears": 1
+    },
+    {
+      "name": "Linea 77",
+      "ids": ["4cmPlzGbGNeUEg4Hflljvp"],
+      "appears": 1
+    },
+    {
+      "name": "Slait",
+      "ids": ["4cmPlzGbGNeUEg4Hflljvp"],
+      "appears": 1
+    },
+    {
+      "name": "Nerone",
+      "ids": ["7zfmu6GIyvkfDzp3X1Gj3R"],
+      "appears": 1
+    },
+    {
+      "name": "Lazza",
+      "ids": ["2lrwrae424IfClZuPe4O4g"],
+      "appears": 1
+    },
+    {
+      "name": "Low Kidd",
+      "ids": ["2lrwrae424IfClZuPe4O4g"],
+      "appears": 1
+    },
+    {
+      "name": "Jack The Smoker",
+      "ids": [
+        "0iho32QSctoYTqmuZ8Dql8",
+        "1pQw5xbRYWgMzn2Xy0M9vT",
+        "3bN5O5WRbA9yEvBzAudLgC",
+        "0meZp4zCpsTnDaE4d7hek6",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "2Dy8UvEAQSzHUivMvPR7hx"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "Clementino",
+      "ids": [
+        "1fTY9rChSmUT4XyZT8LWFz",
+        "65tW8YTCNtqFv2RPq7gP2Y",
+        "4o7olxYueLIX4Kzy4tfg4a"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Marracash",
+      "ids": [
+        "0WqV5GdMdsp72XYKWw2QuH",
+        "02RqtP0fB5SYyct2woM4Bw",
+        "63andsCTKdDjZaOfWrMyB8"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Bassi Maestro",
+      "ids": [
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "3CgC2HnTLDpi0nPTqsIRk6"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Rocco Hunt",
+      "ids": [
+        "4FIzSKOQ54f5HklzEZh5Sd",
+        "2Dy8UvEAQSzHUivMvPR7hx",
+        "2gejRJJFRldhYpxk56a1OL"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Noyz Narcos & Fritz Da Cat",
+      "ids": ["2grg1DurcEjO8DuYVYF6rb"],
+      "appears": 1
+    },
+    {
+      "name": "Night Skinny",
+      "ids": ["7g5orNSP8zFUQbaiARj6mM"],
+      "appears": 1
+    },
+    {
+      "name": "Lord Bean",
+      "ids": ["7g5orNSP8zFUQbaiARj6mM"],
+      "appears": 1
+    },
+    {
+      "name": "Dj Double S",
+      "ids": ["7g5orNSP8zFUQbaiARj6mM"],
+      "appears": 1
+    },
+    {
+      "name": "Mondo Marcio",
+      "ids": ["3bN5O5WRbA9yEvBzAudLgC"],
+      "appears": 1
+    },
+    {
+      "name": "Stick Vicious",
+      "ids": ["2OAu9t9AZq4n4NtYfodnP8"],
+      "appears": 1
+    },
+    {
+      "name": "Stereoliez",
+      "ids": [
+        "2OAu9t9AZq4n4NtYfodnP8",
+        "0meZp4zCpsTnDaE4d7hek6"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Ceri",
+      "ids": ["0meZp4zCpsTnDaE4d7hek6"],
+      "appears": 1
+    },
+    {
+      "name": "Rasty Kilo",
+      "ids": ["2Dy8UvEAQSzHUivMvPR7hx"],
+      "appears": 1
+    },
+    {
+      "name": "Tormento",
+      "ids": ["7ijvafwhj04rY7WnxaXbag"],
+      "appears": 1
+    },
+    {
+      "name": "Raige",
+      "ids": ["64ggBcLaOFiVbVv0YOFZvR"],
+      "appears": 1
+    },
+    {
+      "name": "Emis Killa",
+      "ids": ["1a0yjAa8RfFOlujaSKuO7O"],
+      "appears": 1
+    },
+    {
+      "name": "Jake La Furia",
+      "ids": ["3TNWOqeW6Cnc3HjA8Lihxo"],
+      "appears": 1
+    },
+    {
+      "name": "Zuli",
+      "ids": ["3TNWOqeW6Cnc3HjA8Lihxo"],
+      "appears": 1
+    },
+    {
+      "name": "'n Drew",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    },
+    {
+      "name": "Crazy",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    },
+    {
+      "name": "Dasly",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    },
+    {
+      "name": "Inkastro",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    },
+    {
+      "name": "Mad'Ness",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    },
+    {
+      "name": "Santiago",
+      "ids": ["4yubxseyIb2lcd1fhv0jjD"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "STAI ZITTO (feat. Fabri Fibra)",
+        "DISPOVERY CHANNEL (feat. Nitro)",
+        "CABRIOLET (feat. Sfera Ebbasta)",
+        "SPARARE ALLA LUNA (feat. Coez)",
+        "IL CIELO NELLA STANZA (feat. NSTASIA)",
+        "Don Medellín (feat. Rose Villain)",
+        "Title? (feat. Nitro & Axos)",
+        "Il messia (feat. Victor Kwality & Travis Barker)",
+        "Il messia",
+        "Bentley vs Cadillac",
+        "Peyote",
+        "La prima volta - Unother Version",
+        "Rob Zombie (feat. Noyz Narcos)",
+        "Space Invaders (feat. Nitro)",
+        "Killer Game (feat. Gemitaiz & Madman)",
+        "Ordinaria follia (feat. Navigator)",
+        "Sadico (feat. Mezzosangue)",
+        "The Island (feat. Hell Raton, En?gma & DJ Slait)",
+        "Blood Shake (feat. Dope D.O.D.)",
+        "Hellcome!",
+        "Narcoleptic Verses Pt.1",
+        "Demons To Diamonds",
+        "Senza",
+        "Narcoleptic Verses Pt.2",
+        "Death USB",
+        "Morte in diretta",
+        "Back On Track",
+        "Los Ojos del Diablo",
+        "Munchies",
+        "Don Medellín",
+        "AK77 (feat. Salmo & Slait)",
+        "Mic Check (feat. Salmo)",
+        "Chairaggione",
+        "Papparapa'",
+        "MOB (feat. Salmo & Nitro)",
+        "I Saw God on the Road Trip",
+        "K-Hole",
+        "Sogni d'odio (feat. Salmo)",
+        "Top Player",
+        "A Volte Esagero",
+        "Terminal",
+        "Machete State of Mind",
+        "King's Supreme",
+        "Dal Tramonto All'Alba",
+        "Dexter",
+        "Hostis drama",
+        "Da Hardcore Wilder",
+        "Non esco mai",
+        "Crudité",
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Purple Haze",
+        "Battle Royale",
+        "Stratocaster (feat. Noyz Narcos & Salmo)",
+        "Carico (feat. Salmo)",
+        "Turbo",
+        "Vietnam flow (feat. Salmo)",
+        "La Mia Ispirazione",
+        "Vivo O Morto",
+        "Hai sbagliato artista (feat. Salmo)",
+        "Pronti a tutto / Apocalypshit - The Posse Cut",
+        "Nè Cura Nè Luogo",
+        "Marrageddon"
+      ],
+      "name": "Salmo",
+      "appears": 63
+    },
+    {
+      "songs": [
+        "STAI ZITTO (feat. Fabri Fibra)",
+        "Dexter"
+      ],
+      "name": "Fabri Fibra",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "DISPOVERY CHANNEL (feat. Nitro)",
+        "Title? (feat. Nitro & Axos)",
+        "Space Invaders (feat. Nitro)",
+        "Chairaggione",
+        "MOB (feat. Salmo & Nitro)",
+        "Dexter",
+        "Da Hardcore Wilder",
+        "Crudité",
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Purple Haze",
+        "Battle Royale"
+      ],
+      "name": "Nitro",
+      "appears": 12
+    },
+    {
+      "songs": ["CABRIOLET (feat. Sfera Ebbasta)"],
+      "name": "Sfera Ebbasta",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "SPARARE ALLA LUNA (feat. Coez)",
+        "A Volte Esagero",
+        "Non esco mai"
+      ],
+      "name": "Coez",
+      "appears": 3
+    },
+    {
+      "songs": ["IL CIELO NELLA STANZA (feat. NSTASIA)"],
+      "name": "NSTASIA",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Don Medellín (feat. Rose Villain)",
+        "Don Medellín"
+      ],
+      "name": "Rose Villain",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Title? (feat. Nitro & Axos)",
+        "I Saw God on the Road Trip"
+      ],
+      "name": "Axos",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Il messia (feat. Victor Kwality & Travis Barker)",
+        "Il messia"
+      ],
+      "name": "Victor Kwality",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Il messia (feat. Victor Kwality & Travis Barker)",
+        "Il messia",
+        "Bentley vs Cadillac"
+      ],
+      "name": "Travis Barker",
+      "appears": 3
+    },
+    {
+      "songs": ["Peyote"],
+      "name": "SBCR",
+      "appears": 1
+    },
+    {
+      "songs": ["La prima volta - Unother Version"],
+      "name": "Sysma",
+      "appears": 1
+    },
+    {
+      "songs": ["La prima volta - Unother Version"],
+      "name": "Unother",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Rob Zombie (feat. Noyz Narcos)",
+        "Mic Check (feat. Salmo)",
+        "Battle Royale",
+        "Stratocaster (feat. Noyz Narcos & Salmo)"
+      ],
+      "name": "Noyz Narcos",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Killer Game (feat. Gemitaiz & Madman)",
+        "Papparapa'",
+        "K-Hole",
+        "King's Supreme",
+        "Battle Royale"
+      ],
+      "name": "Gemitaiz",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "Killer Game (feat. Gemitaiz & Madman)",
+        "Battle Royale"
+      ],
+      "name": "MadMan",
+      "appears": 2
+    },
+    {
+      "songs": ["Ordinaria follia (feat. Navigator)"],
+      "name": "The Navigator",
+      "appears": 1
+    },
+    {
+      "songs": ["Sadico (feat. Mezzosangue)"],
+      "name": "Mezzosangue",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "The Island (feat. Hell Raton, En?gma & DJ Slait)",
+        "King's Supreme",
+        "Battle Royale"
+      ],
+      "name": "Hell Raton",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "The Island (feat. Hell Raton, En?gma & DJ Slait)",
+        "Senza",
+        "Terminal",
+        "Machete State of Mind",
+        "King's Supreme",
+        "Crudité",
+        "Battle Royale"
+      ],
+      "name": "En?gma",
+      "appears": 7
+    },
+    {
+      "songs": [
+        "The Island (feat. Hell Raton, En?gma & DJ Slait)",
+        "Hellcome!",
+        "Senza",
+        "Morte in diretta",
+        "Turbo",
+        "Pronti a tutto / Apocalypshit - The Posse Cut"
+      ],
+      "name": "Dj Slait",
+      "appears": 6
+    },
+    {
+      "songs": ["Blood Shake (feat. Dope D.O.D.)"],
+      "name": "Dope D.O.D.",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Narcoleptic Verses Pt.1",
+        "Carico (feat. Salmo)",
+        "Pronti a tutto / Apocalypshit - The Posse Cut"
+      ],
+      "name": "Primo",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Narcoleptic Verses Pt.1",
+        "King's Supreme",
+        "Hostis drama",
+        "Stratocaster (feat. Noyz Narcos & Salmo)"
+      ],
+      "name": "Ensi",
+      "appears": 4
+    },
+    {
+      "songs": ["Narcoleptic Verses Pt.1"],
+      "name": "DJ 2P",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Demons To Diamonds",
+        "La Mia Ispirazione"
+      ],
+      "name": "Fritz Da Cat",
+      "appears": 2
+    },
+    {
+      "songs": ["Narcoleptic Verses Pt.2"],
+      "name": "Dj Valium",
+      "appears": 1
+    },
+    {
+      "songs": ["Death USB"],
+      "name": "Belzebass",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Back On Track",
+        "Munchies",
+        "Turbo",
+        "Pronti a tutto / Apocalypshit - The Posse Cut"
+      ],
+      "name": "Enigma",
+      "appears": 4
+    },
+    {
+      "songs": ["Los Ojos del Diablo"],
+      "name": "El Raton",
+      "appears": 1
+    },
+    {
+      "songs": ["AK77 (feat. Salmo & Slait)"],
+      "name": "Linea 77",
+      "appears": 1
+    },
+    {
+      "songs": ["AK77 (feat. Salmo & Slait)"],
+      "name": "Slait",
+      "appears": 1
+    },
+    {
+      "songs": ["Papparapa'"],
+      "name": "Nerone",
+      "appears": 1
+    },
+    {
+      "songs": ["MOB (feat. Salmo & Nitro)"],
+      "name": "Lazza",
+      "appears": 1
+    },
+    {
+      "songs": ["MOB (feat. Salmo & Nitro)"],
+      "name": "Low Kidd",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Sogni d'odio (feat. Salmo)",
+        "Terminal",
+        "Non esco mai",
+        "Non sopporto (feat. Stereoliez & Ceri)",
+        "Purple Haze",
+        "Battle Royale"
+      ],
+      "name": "Jack The Smoker",
+      "appears": 6
+    },
+    {
+      "songs": [
+        "Top Player",
+        "Machete State of Mind",
+        "Purple Haze"
+      ],
+      "name": "Clementino",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "A Volte Esagero",
+        "Nè Cura Nè Luogo",
+        "Marrageddon"
+      ],
+      "name": "Marracash",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "King's Supreme",
+        "Battle Royale",
+        "Hai sbagliato artista (feat. Salmo)"
+      ],
+      "name": "Bassi Maestro",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "King's Supreme",
+        "Battle Royale",
+        "La Mia Ispirazione"
+      ],
+      "name": "Rocco Hunt",
+      "appears": 3
+    },
+    {
+      "songs": ["Dal Tramonto All'Alba"],
+      "name": "Noyz Narcos & Fritz Da Cat",
+      "appears": 1
+    },
+    {
+      "songs": ["Hostis drama"],
+      "name": "Night Skinny",
+      "appears": 1
+    },
+    {
+      "songs": ["Hostis drama"],
+      "name": "Lord Bean",
+      "appears": 1
+    },
+    {
+      "songs": ["Hostis drama"],
+      "name": "Dj Double S",
+      "appears": 1
+    },
+    {
+      "songs": ["Non esco mai"],
+      "name": "Mondo Marcio",
+      "appears": 1
+    },
+    {
+      "songs": ["Stanley Kubrick (feat. Stereoliez)"],
+      "name": "Stick Vicious",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Stanley Kubrick (feat. Stereoliez)",
+        "Non sopporto (feat. Stereoliez & Ceri)"
+      ],
+      "name": "Stereoliez",
+      "appears": 2
+    },
+    {
+      "songs": ["Non sopporto (feat. Stereoliez & Ceri)"],
+      "name": "Ceri",
+      "appears": 1
+    },
+    {
+      "songs": ["Battle Royale"],
+      "name": "Rasty Kilo",
+      "appears": 1
+    },
+    {
+      "songs": ["Carico (feat. Salmo)"],
+      "name": "Tormento",
+      "appears": 1
+    },
+    {
+      "songs": ["Turbo"],
+      "name": "Raige",
+      "appears": 1
+    },
+    {
+      "songs": ["Vietnam flow (feat. Salmo)"],
+      "name": "Emis Killa",
+      "appears": 1
+    },
+    {
+      "songs": ["Vivo O Morto"],
+      "name": "Jake La Furia",
+      "appears": 1
+    },
+    {
+      "songs": ["Vivo O Morto"],
+      "name": "Zuli",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "'n Drew",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "Crazy",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "Dasly",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "Inkastro",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "Mad'Ness",
+      "appears": 1
+    },
+    {
+      "songs": ["Pronti a tutto / Apocalypshit - The Posse Cut"],
+      "name": "Santiago",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

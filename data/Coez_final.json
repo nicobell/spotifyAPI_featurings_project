@@ -1,0 +1,597 @@
+{
+  "profile": "images/CoezProfile.jpg",
+  "artistName": "Coez",
+  "idFeats": [
+    {
+      "name": "Coez",
+      "ids": [
+        "7bwLvVHpxOuOtg50aicp7c",
+        "75dsvIpsSwympxsQCMTZmr",
+        "3NgpON25NdYTOS4w8LVJTi",
+        "4nvfu7TOV9D1xIPaiN2F4a",
+        "4vVsdSD5jwTotE5lMkrC8i",
+        "2Q7shjIV6gP2VHqosVlDMd",
+        "5DelwP5vBag1H1Nmlygcu8",
+        "3GajQYxCIJSygFreSPDhMx",
+        "2wXLAFYIclP6NfmmugFAuL",
+        "1hLuavqY2dkoOmgMOxD47P",
+        "4spkZ6gRKh827yp6JI6TN1",
+        "51kAIhfkRBjzdKDQeVqxHT",
+        "0IfTkYdVPl4R72T8vLKxrp",
+        "6bItLRYluXP1XP3MtlsGR4",
+        "0oN2SeYGbHIlGKvKfzrpLR",
+        "1Lq5ApqhIWUXzlryFX2K6J",
+        "0vnj14R32mrC6hHcSD5ANT",
+        "6DGl9TtxYTpMFrmZa1mwEz",
+        "2qPLHVvmDtH4bfDJYE7PbK",
+        "7xsnPgblD5D2L1ozGpkRD7",
+        "1BwV1AuCzF9SW1C5fPTzOU",
+        "4IAIe2ehYOp4TaCbSARv7t",
+        "0WqV5GdMdsp72XYKWw2QuH",
+        "5qfIKhePQ7q6kq0x60zqrF",
+        "5LMw1XCB3cGJx6TRHaXaEr",
+        "3YgxYmqnb4gPHhWCa6Ecup",
+        "3bN5O5WRbA9yEvBzAudLgC",
+        "1jA0gxVATJituaoIAPgt5B",
+        "2Fn8rz8L3mhOIK4P4puebE",
+        "5yDNXXhHijNWh75k5udqcj",
+        "5zQQvypqjcSb0ul1ncqSns",
+        "4qbeQEmxBKVkmDvuWm7xcx",
+        "5uDyfB2SPeNGoP3UtcYxjd",
+        "5QIRBSqO4tHdlmL0lOoYqq",
+        "24DQVStZgV2sjIy56NuWmd",
+        "4sBoX30at6PzZNGSGY1cin",
+        "1gsxREaPi4uaTL4OWYKaak",
+        "5UjlsxSVj5wIrgWk20d6e7",
+        "4L3iQPsLnNn6anGcGV2H3V",
+        "4HEDd8FxRsIPUMiVmbhACc",
+        "74rLJAuf5StVGiwqL5UPDe",
+        "2tfE60fbixm6m6GWN2dPA3",
+        "0JEh6Sbo5KWE7Lq4dDRigF",
+        "3argoIKnoiDFGW4sxTqThn",
+        "62Nf5JMXvh8yGjkPYTTMO0"
+      ],
+      "appears": 44
+    },
+    {
+      "name": "Gemello",
+      "ids": [
+        "7bwLvVHpxOuOtg50aicp7c",
+        "4vVsdSD5jwTotE5lMkrC8i",
+        "1BwV1AuCzF9SW1C5fPTzOU",
+        "4qbeQEmxBKVkmDvuWm7xcx"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "3NgpON25NdYTOS4w8LVJTi",
+        "0IfTkYdVPl4R72T8vLKxrp",
+        "6bItLRYluXP1XP3MtlsGR4",
+        "1Lq5ApqhIWUXzlryFX2K6J",
+        "5zQQvypqjcSb0ul1ncqSns"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Lucci",
+      "ids": [
+        "4nvfu7TOV9D1xIPaiN2F4a",
+        "3GajQYxCIJSygFreSPDhMx",
+        "1hLuavqY2dkoOmgMOxD47P",
+        "6bItLRYluXP1XP3MtlsGR4",
+        "1jA0gxVATJituaoIAPgt5B",
+        "2Fn8rz8L3mhOIK4P4puebE",
+        "5yDNXXhHijNWh75k5udqcj",
+        "4L3iQPsLnNn6anGcGV2H3V",
+        "4HEDd8FxRsIPUMiVmbhACc",
+        "74rLJAuf5StVGiwqL5UPDe",
+        "2tfE60fbixm6m6GWN2dPA3",
+        "0JEh6Sbo5KWE7Lq4dDRigF",
+        "3argoIKnoiDFGW4sxTqThn",
+        "62Nf5JMXvh8yGjkPYTTMO0"
+      ],
+      "appears": 14
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "ids": [
+        "2Q7shjIV6gP2VHqosVlDMd",
+        "2wXLAFYIclP6NfmmugFAuL"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Franco126",
+      "ids": ["5DelwP5vBag1H1Nmlygcu8"],
+      "appears": 1
+    },
+    {
+      "name": "Achille Lauro",
+      "ids": [
+        "2wXLAFYIclP6NfmmugFAuL",
+        "75dsvIpsSwympxsQCMTZmr",
+        "3YgxYmqnb4gPHhWCa6Ecup",
+        "5qfIKhePQ7q6kq0x60zqrF"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Boss Doms",
+      "ids": ["2wXLAFYIclP6NfmmugFAuL"],
+      "appears": 1
+    },
+    {
+      "name": "Brokenspeakers",
+      "ids": [
+        "1hLuavqY2dkoOmgMOxD47P",
+        "6bItLRYluXP1XP3MtlsGR4",
+        "4L3iQPsLnNn6anGcGV2H3V",
+        "4HEDd8FxRsIPUMiVmbhACc",
+        "74rLJAuf5StVGiwqL5UPDe",
+        "2tfE60fbixm6m6GWN2dPA3",
+        "0JEh6Sbo5KWE7Lq4dDRigF",
+        "3argoIKnoiDFGW4sxTqThn",
+        "62Nf5JMXvh8yGjkPYTTMO0"
+      ],
+      "appears": 9
+    },
+    {
+      "name": "Primo Brown",
+      "ids": ["1hLuavqY2dkoOmgMOxD47P"],
+      "appears": 1
+    },
+    {
+      "name": "Salmo",
+      "ids": [
+        "4spkZ6gRKh827yp6JI6TN1",
+        "0WqV5GdMdsp72XYKWw2QuH",
+        "3bN5O5WRbA9yEvBzAudLgC"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Cor Veleno",
+      "ids": [
+        "51kAIhfkRBjzdKDQeVqxHT",
+        "0IfTkYdVPl4R72T8vLKxrp"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Canesecco",
+      "ids": ["6bItLRYluXP1XP3MtlsGR4"],
+      "appears": 1
+    },
+    {
+      "name": "Carl Brave",
+      "ids": ["0oN2SeYGbHIlGKvKfzrpLR", "5DelwP5vBag1H1Nmlygcu8"],
+      "appears": 2
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": ["0vnj14R32mrC6hHcSD5ANT"],
+      "appears": 1
+    },
+    {
+      "name": "MadMan",
+      "ids": [
+        "6DGl9TtxYTpMFrmZa1mwEz",
+        "5zQQvypqjcSb0ul1ncqSns"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "STEREOTAPES",
+      "ids": ["2qPLHVvmDtH4bfDJYE7PbK"],
+      "appears": 1
+    },
+    {
+      "name": "Er Costa",
+      "ids": ["7xsnPgblD5D2L1ozGpkRD7"],
+      "appears": 1
+    },
+    {
+      "name": "Sine",
+      "ids": ["1BwV1AuCzF9SW1C5fPTzOU"],
+      "appears": 1
+    },
+    {
+      "name": "Emis Killa",
+      "ids": [
+        "4IAIe2ehYOp4TaCbSARv7t",
+        "5LMw1XCB3cGJx6TRHaXaEr"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Marracash",
+      "ids": ["0WqV5GdMdsp72XYKWw2QuH"],
+      "appears": 1
+    },
+    {
+      "name": "Tormento",
+      "ids": [
+        "5LMw1XCB3cGJx6TRHaXaEr",
+        "5uDyfB2SPeNGoP3UtcYxjd"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jack The Smoker",
+      "ids": ["3bN5O5WRbA9yEvBzAudLgC"],
+      "appears": 1
+    },
+    {
+      "name": "Mondo Marcio",
+      "ids": ["3bN5O5WRbA9yEvBzAudLgC"],
+      "appears": 1
+    },
+    {
+      "name": "Danno",
+      "ids": ["2Fn8rz8L3mhOIK4P4puebE"],
+      "appears": 1
+    },
+    {
+      "name": "Paura",
+      "ids": ["2Fn8rz8L3mhOIK4P4puebE"],
+      "appears": 1
+    },
+    {
+      "name": "E Green",
+      "ids": ["2Fn8rz8L3mhOIK4P4puebE"],
+      "appears": 1
+    },
+    {
+      "name": "Primo",
+      "ids": ["5uDyfB2SPeNGoP3UtcYxjd"],
+      "appears": 1
+    },
+    {
+      "name": "Fratelli Quintale",
+      "ids": [
+        "5QIRBSqO4tHdlmL0lOoYqq",
+        "4sBoX30at6PzZNGSGY1cin"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Killa Cali",
+      "ids": ["24DQVStZgV2sjIy56NuWmd"],
+      "appears": 1
+    },
+    {
+      "name": "Ceri",
+      "ids": ["4sBoX30at6PzZNGSGY1cin"],
+      "appears": 1
+    },
+    {
+      "name": "3D",
+      "ids": ["1gsxREaPi4uaTL4OWYKaak"],
+      "appears": 1
+    },
+    {
+      "name": "Don Diegoh",
+      "ids": ["5UjlsxSVj5wIrgWk20d6e7"],
+      "appears": 1
+    },
+    {
+      "name": "Mastro Fabbro",
+      "ids": ["5UjlsxSVj5wIrgWk20d6e7"],
+      "appears": 1
+    },
+    {
+      "name": "Dj Craim",
+      "ids": ["4L3iQPsLnNn6anGcGV2H3V"],
+      "appears": 1
+    },
+    {
+      "name": "Ro.Ma.",
+      "ids": ["4HEDd8FxRsIPUMiVmbhACc"],
+      "appears": 1
+    },
+    {
+      "name": "Colle Der Fomento",
+      "ids": ["3argoIKnoiDFGW4sxTqThn"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Taciturnal",
+        "Occhiali scuri",
+        "Un sorso d'Ipa",
+        "Testa uragano (feat. Gemello) - From the Rooftop",
+        "Migliore di me",
+        "Barceloneta",
+        "Ancora Giorni Freddi (feat. Coez) - Suburra 2 Version",
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "Merda Fino Al Collo (feat. Coez, Lucci, Primo Brown)",
+        "SPARARE ALLA LUNA (feat. Coez)",
+        "Conta su di me (feat. Coez)",
+        "Una rima una jam (feat. Coez,Gemitaiz)",
+        "A Me No (feat. Coez, Lucci, Gemitaiz, Canesecco)",
+        "Parco Gondar (feat. Coez)",
+        "Davide (feat. Coez)",
+        "Sputapalline (feat. Coez)",
+        "Centro (feat. Coez)",
+        "La musica non c'è",
+        "Mai dire mai",
+        "Stanza 106",
+        "All'alba delle 6:00 (feat. Coez)",
+        "A Volte Esagero",
+        "Ascensore per l'Inferno - Radio Edit",
+        "Ascensore per l'Inferno",
+        "Stai al gioco",
+        "Scelgo le stelle",
+        "Non esco mai",
+        "Ancora Giorni Freddi (feat. Coez)",
+        "Cingolati (feat. Danno, Coez, Paura & E Green)",
+        "Resta Con Me (feat. Coez)",
+        "Instagrammo",
+        "Testa uragano",
+        "Boomerang (feat. Coez)",
+        "Questo letto",
+        "Senza Sorriso (feat. Coez)",
+        "Cuore di ghiaccio",
+        "Nel drink",
+        "Come Vuoi Che Stia",
+        "Intro (feat. Coez, Lucci, Dj Craim)",
+        "Anthem (feat. Coez, Lucci, Roma)",
+        "È Tranqua (feat. Coez, Lucci)",
+        "La Mia Natura (feat. Coez, Lucci)",
+        "Da Vicino (feat. Coez, Lucci)",
+        "Sempre Uguale (feat. Coez, Lucci, Colle Der Fomento)",
+        "Il Motto (feat. Coez, Lucci)"
+      ],
+      "name": "Coez",
+      "appears": 44
+    },
+    {
+      "songs": [
+        "Taciturnal",
+        "Testa uragano (feat. Gemello) - From the Rooftop",
+        "Stanza 106",
+        "Testa uragano"
+      ],
+      "name": "Gemello",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Occhiali scuri",
+        "Una rima una jam (feat. Coez,Gemitaiz)",
+        "A Me No (feat. Coez, Lucci, Gemitaiz, Canesecco)",
+        "Davide (feat. Coez)",
+        "Instagrammo"
+      ],
+      "name": "Gemitaiz",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "Un sorso d'Ipa",
+        "Ancora Giorni Freddi (feat. Coez) - Suburra 2 Version",
+        "Merda Fino Al Collo (feat. Coez, Lucci, Primo Brown)",
+        "A Me No (feat. Coez, Lucci, Gemitaiz, Canesecco)",
+        "Ancora Giorni Freddi (feat. Coez)",
+        "Cingolati (feat. Danno, Coez, Paura & E Green)",
+        "Resta Con Me (feat. Coez)",
+        "Intro (feat. Coez, Lucci, Dj Craim)",
+        "Anthem (feat. Coez, Lucci, Roma)",
+        "È Tranqua (feat. Coez, Lucci)",
+        "La Mia Natura (feat. Coez, Lucci)",
+        "Da Vicino (feat. Coez, Lucci)",
+        "Sempre Uguale (feat. Coez, Lucci, Colle Der Fomento)",
+        "Il Motto (feat. Coez, Lucci)"
+      ],
+      "name": "Lucci",
+      "appears": 14
+    },
+    {
+      "songs": [
+        "Migliore di me",
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)"
+      ],
+      "name": "Frenetik&Orang3",
+      "appears": 2
+    },
+    {
+      "songs": ["Barceloneta"],
+      "name": "Franco126",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Je t'aime (feat. Boss Doms & Frenetik&Orang3)",
+        "Ascensore per l'inferno",
+        "Scelgo le stelle",
+        "Ascensore per l'Inferno - Radio Edit"
+      ],
+      "name": "Achille Lauro",
+      "appears": 4
+    },
+    {
+      "songs": ["Je t'aime (feat. Boss Doms & Frenetik&Orang3)"],
+      "name": "Boss Doms",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Merda Fino Al Collo (feat. Coez, Lucci, Primo Brown)",
+        "A Me No (feat. Coez, Lucci, Gemitaiz, Canesecco)",
+        "Intro (feat. Coez, Lucci, Dj Craim)",
+        "Anthem (feat. Coez, Lucci, Roma)",
+        "È Tranqua (feat. Coez, Lucci)",
+        "La Mia Natura (feat. Coez, Lucci)",
+        "Da Vicino (feat. Coez, Lucci)",
+        "Sempre Uguale (feat. Coez, Lucci, Colle Der Fomento)",
+        "Il Motto (feat. Coez, Lucci)"
+      ],
+      "name": "Brokenspeakers",
+      "appears": 9
+    },
+    {
+      "songs": ["Merda Fino Al Collo (feat. Coez, Lucci, Primo Brown)"],
+      "name": "Primo Brown",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "SPARARE ALLA LUNA (feat. Coez)",
+        "A Volte Esagero",
+        "Non esco mai"
+      ],
+      "name": "Salmo",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Conta su di me (feat. Coez)",
+        "Una rima una jam (feat. Coez,Gemitaiz)"
+      ],
+      "name": "Cor Veleno",
+      "appears": 2
+    },
+    {
+      "songs": ["A Me No (feat. Coez, Lucci, Gemitaiz, Canesecco)"],
+      "name": "Canesecco",
+      "appears": 1
+    },
+    {
+      "songs": ["Parco Gondar (feat. Coez)", "Barceloneta"],
+      "name": "Carl Brave",
+      "appears": 2
+    },
+    {
+      "songs": ["Sputapalline (feat. Coez)"],
+      "name": "Noyz Narcos",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Centro (feat. Coez)",
+        "Instagrammo"
+      ],
+      "name": "MadMan",
+      "appears": 2
+    },
+    {
+      "songs": ["La musica non c'è"],
+      "name": "STEREOTAPES",
+      "appears": 1
+    },
+    {
+      "songs": ["Mai dire mai"],
+      "name": "Er Costa",
+      "appears": 1
+    },
+    {
+      "songs": ["Stanza 106"],
+      "name": "Sine",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "All'alba delle 6:00 (feat. Coez)",
+        "Stai al gioco"
+      ],
+      "name": "Emis Killa",
+      "appears": 2
+    },
+    {
+      "songs": ["A Volte Esagero"],
+      "name": "Marracash",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Stai al gioco",
+        "Boomerang (feat. Coez)"
+      ],
+      "name": "Tormento",
+      "appears": 2
+    },
+    {
+      "songs": ["Non esco mai"],
+      "name": "Jack The Smoker",
+      "appears": 1
+    },
+    {
+      "songs": ["Non esco mai"],
+      "name": "Mondo Marcio",
+      "appears": 1
+    },
+    {
+      "songs": ["Cingolati (feat. Danno, Coez, Paura & E Green)"],
+      "name": "Danno",
+      "appears": 1
+    },
+    {
+      "songs": ["Cingolati (feat. Danno, Coez, Paura & E Green)"],
+      "name": "Paura",
+      "appears": 1
+    },
+    {
+      "songs": ["Cingolati (feat. Danno, Coez, Paura & E Green)"],
+      "name": "E Green",
+      "appears": 1
+    },
+    {
+      "songs": ["Boomerang (feat. Coez)"],
+      "name": "Primo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Questo letto",
+        "Cuore di ghiaccio"
+      ],
+      "name": "Fratelli Quintale",
+      "appears": 2
+    },
+    {
+      "songs": ["Senza Sorriso (feat. Coez)"],
+      "name": "Killa Cali",
+      "appears": 1
+    },
+    {
+      "songs": ["Cuore di ghiaccio"],
+      "name": "Ceri",
+      "appears": 1
+    },
+    {
+      "songs": ["Nel drink"],
+      "name": "3D",
+      "appears": 1
+    },
+    {
+      "songs": ["Come Vuoi Che Stia"],
+      "name": "Don Diegoh",
+      "appears": 1
+    },
+    {
+      "songs": ["Come Vuoi Che Stia"],
+      "name": "Mastro Fabbro",
+      "appears": 1
+    },
+    {
+      "songs": ["Intro (feat. Coez, Lucci, Dj Craim)"],
+      "name": "Dj Craim",
+      "appears": 1
+    },
+    {
+      "songs": ["Anthem (feat. Coez, Lucci, Roma)"],
+      "name": "Ro.Ma.",
+      "appears": 1
+    },
+    {
+      "songs": ["Sempre Uguale (feat. Coez, Lucci, Colle Der Fomento)"],
+      "name": "Colle Der Fomento",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

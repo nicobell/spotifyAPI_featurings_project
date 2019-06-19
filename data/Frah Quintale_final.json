@@ -1,0 +1,81 @@
+{
+  "profile": "images/Frah QuintaleProfile.jpg",
+  "artistName": "Frah Quintale",
+  "idFeats": [
+    {
+      "name": "Frah Quintale",
+      "ids": [
+        "5ixPttIGK6JXqbtMuN2dAT",
+        "5dcyltc1ataieXIeTqhH3t",
+        "5ODlTG5qxhCsC05E36Rv25",
+        "4qB5WfP7AzwPzU4OddDm4b",
+        "7KDUyaUaqJJmquyNZ7wGCU"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Ceri",
+      "ids": ["5ixPttIGK6JXqbtMuN2dAT"],
+      "appears": 1
+    },
+    {
+      "name": "Giorgio Poi",
+      "ids": ["5dcyltc1ataieXIeTqhH3t"],
+      "appears": 1
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": ["5ODlTG5qxhCsC05E36Rv25"],
+      "appears": 1
+    },
+    {
+      "name": "Carl Brave",
+      "ids": ["4qB5WfP7AzwPzU4OddDm4b"],
+      "appears": 1
+    },
+    {
+      "name": "Dutch Nazari",
+      "ids": ["7KDUyaUaqJJmquyNZ7wGCU"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Avanti / Indietro",
+        "Missili",
+        "2% (feat. Frah Quintale)",
+        "Chapeau (feat. Frah Quintale)",
+        "Come Battisti"
+      ],
+      "name": "Frah Quintale",
+      "appears": 5
+    },
+    {
+      "songs": ["Avanti / Indietro"],
+      "name": "Ceri",
+      "appears": 1
+    },
+    {
+      "songs": ["Missili"],
+      "name": "Giorgio Poi",
+      "appears": 1
+    },
+    {
+      "songs": ["2% (feat. Frah Quintale)"],
+      "name": "Gue Pequeno",
+      "appears": 1
+    },
+    {
+      "songs": ["Chapeau (feat. Frah Quintale)"],
+      "name": "Carl Brave",
+      "appears": 1
+    },
+    {
+      "songs": ["Come Battisti"],
+      "name": "Dutch Nazari",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

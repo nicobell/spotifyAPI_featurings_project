@@ -1,0 +1,65 @@
+{
+  "profile": "images/Tommaso ParadisoProfile.jpg",
+  "artistName": "Tommaso Paradiso",
+  "idFeats": [
+    {
+      "name": "Takagi & Ketra",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Tommaso Paradiso",
+      "ids": [
+        "0swoHiwTazywpoqiKDUtGQ",
+        "23hpOtox5sIuRqVBVVJxsO"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jovanotti",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Calcutta ",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Franco126",
+      "ids": ["23hpOtox5sIuRqVBVVJxsO"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Takagi & Ketra",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+        "Stanza Singola (feat. Tommaso Paradiso)"
+      ],
+      "name": "Tommaso Paradiso",
+      "appears": 2
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Jovanotti",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Calcutta ",
+      "appears": 1
+    },
+    {
+      "songs": ["Stanza Singola (feat. Tommaso Paradiso)"],
+      "name": "Franco126",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

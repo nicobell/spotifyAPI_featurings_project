@@ -1,0 +1,171 @@
+{
+  "profile": "images/GhaliProfile.jpg",
+  "artistName": "Ghali",
+  "idFeats": [
+    {
+      "name": "Ghali",
+      "ids": [
+        "1uzEePGfgK8WxUvqXFcgQH",
+        "1k8A2tF882vdIQj0FQwHbr",
+        "12tAWUo1yKx0FRuEhYZjxQ",
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "4MmTsaYqv9QR3yzbMeiNS5",
+        "5mjLiLNenUeHlgtIHajJ0c",
+        "4uqibpDc2DP9SGi694F3Vo",
+        "2s4ty2HPFilnOPa1tk84zx",
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "0WGq2PNjoQ6A3wIew5DhcZ"
+      ],
+      "appears": 10
+    },
+    {
+      "name": "Izi",
+      "ids": [
+        "1uzEePGfgK8WxUvqXFcgQH",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Noizy",
+      "ids": ["1k8A2tF882vdIQj0FQwHbr"],
+      "appears": 1
+    },
+    {
+      "name": "Sick Luke",
+      "ids": ["12tAWUo1yKx0FRuEhYZjxQ"],
+      "appears": 1
+    },
+    {
+      "name": "Charlie Charles",
+      "ids": [
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Sfera Ebbasta",
+      "ids": [
+        "4BGmYEDOK1swwoxTtfmVZD",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Rkomi",
+      "ids": [
+        "4MmTsaYqv9QR3yzbMeiNS5",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Capo Plaza",
+      "ids": ["5mjLiLNenUeHlgtIHajJ0c"],
+      "appears": 1
+    },
+    {
+      "name": "Soprano",
+      "ids": ["4uqibpDc2DP9SGi694F3Vo"],
+      "appears": 1
+    },
+    {
+      "name": "Lacrim",
+      "ids": ["2s4ty2HPFilnOPa1tk84zx"],
+      "appears": 1
+    },
+    {
+      "name": "Tedua",
+      "ids": [
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "0WGq2PNjoQ6A3wIew5DhcZ"
+      ],
+      "appears": 2
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Non Lo So",
+        "Parku i Lojrave (feat. Ghali)",
+        "Zingarello",
+        "Peace & Love",
+        "Boogie Nights (feat. Ghali)",
+        "Ne è valsa la pena (feat. Ghali)",
+        "Plan B (feat. Ghali)",
+        "Tristi",
+        "Bimbi",
+        "Fifty Fifty"
+      ],
+      "name": "Ghali",
+      "appears": 10
+    },
+    {
+      "songs": [
+        "Non Lo So",
+        "Bimbi"
+      ],
+      "name": "Izi",
+      "appears": 2
+    },
+    {
+      "songs": ["Parku i Lojrave (feat. Ghali)"],
+      "name": "Noizy",
+      "appears": 1
+    },
+    {
+      "songs": ["Zingarello"],
+      "name": "Sick Luke",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Peace & Love",
+        "Bimbi"
+      ],
+      "name": "Charlie Charles",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Peace & Love",
+        "Bimbi"
+      ],
+      "name": "Sfera Ebbasta",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Boogie Nights (feat. Ghali)",
+        "Bimbi"
+      ],
+      "name": "Rkomi",
+      "appears": 2
+    },
+    {
+      "songs": ["Ne è valsa la pena (feat. Ghali)"],
+      "name": "Capo Plaza",
+      "appears": 1
+    },
+    {
+      "songs": ["Plan B (feat. Ghali)"],
+      "name": "Soprano",
+      "appears": 1
+    },
+    {
+      "songs": ["Tristi"],
+      "name": "Lacrim",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Bimbi",
+        "Fifty Fifty"
+      ],
+      "name": "Tedua",
+      "appears": 2
+    }
+  ],
+  "aura": 0
+}

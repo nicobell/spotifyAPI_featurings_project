@@ -1,0 +1,967 @@
+{
+  "profile": "images/JovanottiProfile.jpg",
+  "artistName": "Jovanotti",
+  "idFeats": [
+    {
+      "name": "Jovanotti",
+      "ids": [
+        "6hpJAUyYpfd4km0l606Kck",
+        "5UJYmBbg12zafXTAvaQYyi",
+        "5quLDM7ds2qugQmzT6Qwaa",
+        "0DAq7bB7CbYD443TXrh0Ka",
+        "1KHlGqGLa4tNaCTj47XZk8",
+        "6kkDWIYTc7yrz15NWHXJEZ",
+        "6CSbsG5W24LI24ITRztesQ",
+        "6c63I0sMr0TL9legceaZac",
+        "5b7tXk2T5W4uwbfF1C0zAf",
+        "28HVsAWj82lxqU162YOrfp",
+        "0IzZwX0e0rnzeRJvr0v4we",
+        "5LOz9ZKVmskWvVCzGobWOI",
+        "5ADDmkTk0hzjt2YHgR5qG9",
+        "2cHyxlXpxSmQz2CbSXHe5Q",
+        "264PGNAgsc8YNCYButWEVQ",
+        "6ul1CLYEPTb8yNRnwC3tXo",
+        "6UndT36sE93bO1dVhSYcou",
+        "43tdLQwWXE91wKl8YnqYAp",
+        "2Z8Lqb34tbK3iuEPB6MzB8",
+        "65B499gQzhn0XYX33sSShx",
+        "6b0kNgQ1eMsuI40PcAivx9",
+        "533AZBj6FjnmXA15qoluLV",
+        "68d0iSU9eAJirdYCzOSFub",
+        "0swoHiwTazywpoqiKDUtGQ",
+        "2yinQlmYFlV58f6OYvx7sG",
+        "2zL4ojh9hFI8gt1DLwnptp",
+        "0tj9Gv6tynODzJLFcDQIXs",
+        "47zF2XwGQLDGiU6uxcrhU1",
+        "5ijbHc9pSsuJ3gdWkmTaPu",
+        "0xiN5X9qDDZXmdarNNxt6v",
+        "0BrthSQyZndvpWEH2TBYF9",
+        "7p6NGZ7g8BJeUTmbnRLhv4",
+        "271ZO7aIVTPq1SWKKQSOI2",
+        "6unF0kCie7IJvCecFXWws5",
+        "72o6vzikd52hNBILoYKT0K",
+        "1xGZau65shf88gEZgd8tk2",
+        "44jsxr8EUOVkcPK31TIq97",
+        "4GcarlNEDTTIZKPtpMbaQU",
+        "5eSc0Jf42nTcYOwPvBp5HA",
+        "0I7q9LrWYVp1bIuJs4aQR0",
+        "7nTrM8w5gaOIGQ4FYW7sAB",
+        "15UYZoHCnbMbXP3HrMCXdP",
+        "2utQSuS2x5e2Puet6IYa03",
+        "1CKfWVLAc3A1N8UQdr4f75",
+        "1yHmxWAsZrTrX8LVf2Eqfo",
+        "3JIgHXbyX5SYBbejAcHYEG",
+        "5dOdKpdnOYzyZbN8f8ZA0D",
+        "6bCRBnP2H9lrQtE0NUyuGS",
+        "0kiOXuMjG9WBrpOB7gZvQl",
+        "3npXbDNaR8NDS6OFQdjIS3",
+        "5YQLyQ4DZmkL0gfBMILlIt",
+        "1VSzpUgsDxfuQWOURAlYNS",
+        "63a6E8UiBxFCloXeSnGA3i",
+        "5l6HaAEyQ1xp3gDGyeNcpp",
+        "4vkesbdUCFKI9dNo1t5uZ0",
+        "7mlvmzRu9EsWKp6y2uT9gV",
+        "4Ct5UKZZfyzMpt1CYCjrke",
+        "6VjrqdxplK42x6SuVNIJDc",
+        "5GO6lp7PnwD6jTX3Fma9iZ",
+        "6k7O0MHVcxDfPOGIIIr71R",
+        "1Ox5atSuCPZtpyOZqj7GBM",
+        "4USq8U9H0sVDJaMeqQrQzl",
+        "7lLdOrXp9UUK0KF8nBEA6P",
+        "46fmAdVCvWVM67WKfSfQky",
+        "7fJfQUXWcW1btG5msvMgC9",
+        "5jMyWzzhK8drGy4AdEJ9BP",
+        "4o3TPNSjYfytbKLPz82iwD",
+        "3WrAS6USoam3Sia03nAnvW"
+      ],
+      "appears": 68
+    },
+    {
+      "name": "Cacao Mental",
+      "ids": ["6hpJAUyYpfd4km0l606Kck"],
+      "appears": 1
+    },
+    {
+      "name": "Jack Jaselli",
+      "ids": ["5UJYmBbg12zafXTAvaQYyi"],
+      "appears": 1
+    },
+    {
+      "name": "Manu Dibango",
+      "ids": ["5quLDM7ds2qugQmzT6Qwaa"],
+      "appears": 1
+    },
+    {
+      "name": "Antibalas",
+      "ids": ["0DAq7bB7CbYD443TXrh0Ka"],
+      "appears": 1
+    },
+    {
+      "name": "Amadou & Mariam",
+      "ids": ["1KHlGqGLa4tNaCTj47XZk8"],
+      "appears": 1
+    },
+    {
+      "name": "Michael Franti",
+      "ids": [
+        "6kkDWIYTc7yrz15NWHXJEZ",
+        "6CSbsG5W24LI24ITRztesQ",
+        "43tdLQwWXE91wKl8YnqYAp",
+        "533AZBj6FjnmXA15qoluLV"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Cesare Cremonini",
+      "ids": ["6c63I0sMr0TL9legceaZac"],
+      "appears": 1
+    },
+    {
+      "name": "Soleluna NY Lab",
+      "ids": [
+        "5b7tXk2T5W4uwbfF1C0zAf",
+        "28HVsAWj82lxqU162YOrfp",
+        "0IzZwX0e0rnzeRJvr0v4we",
+        "5LOz9ZKVmskWvVCzGobWOI",
+        "2cHyxlXpxSmQz2CbSXHe5Q",
+        "2Z8Lqb34tbK3iuEPB6MzB8",
+        "65B499gQzhn0XYX33sSShx",
+        "68d0iSU9eAJirdYCzOSFub"
+      ],
+      "appears": 8
+    },
+    {
+      "name": "Ben Harper",
+      "ids": ["5ADDmkTk0hzjt2YHgR5qG9"],
+      "appears": 1
+    },
+    {
+      "name": "Giuliano Sangiorgi",
+      "ids": [
+        "264PGNAgsc8YNCYButWEVQ",
+        "5ijbHc9pSsuJ3gdWkmTaPu",
+        "0BrthSQyZndvpWEH2TBYF9",
+        "7p6NGZ7g8BJeUTmbnRLhv4",
+        "271ZO7aIVTPq1SWKKQSOI2"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Sly & Robbie",
+      "ids": ["6ul1CLYEPTb8yNRnwC3tXo"],
+      "appears": 1
+    },
+    {
+      "name": "Sérgio Mendes",
+      "ids": [
+        "6UndT36sE93bO1dVhSYcou",
+        "4vkesbdUCFKI9dNo1t5uZ0"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jarabe De Palo",
+      "ids": [
+        "6b0kNgQ1eMsuI40PcAivx9",
+        "4GcarlNEDTTIZKPtpMbaQU",
+        "63a6E8UiBxFCloXeSnGA3i"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Takagi & Ketra",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Tommaso Paradiso",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Calcutta ",
+      "ids": ["0swoHiwTazywpoqiKDUtGQ"],
+      "appears": 1
+    },
+    {
+      "name": "Ackeejuice Rockers",
+      "ids": [
+        "2yinQlmYFlV58f6OYvx7sG",
+        "2zL4ojh9hFI8gt1DLwnptp"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Alex Gaudino",
+      "ids": [
+        "0tj9Gv6tynODzJLFcDQIXs",
+        "47zF2XwGQLDGiU6uxcrhU1"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jason Rooney",
+      "ids": [
+        "0tj9Gv6tynODzJLFcDQIXs",
+        "47zF2XwGQLDGiU6uxcrhU1"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Giuliano",
+      "ids": ["0xiN5X9qDDZXmdarNNxt6v"],
+      "appears": 1
+    },
+    {
+      "name": "Rkomi",
+      "ids": ["6unF0kCie7IJvCecFXWws5"],
+      "appears": 1
+    },
+    {
+      "name": "Tiromancino",
+      "ids": ["72o6vzikd52hNBILoYKT0K"],
+      "appears": 1
+    },
+    {
+      "name": "Sick Tamburo",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Tre Allegri Ragazzi Morti",
+      "ids": [
+        "1xGZau65shf88gEZgd8tk2",
+        "15UYZoHCnbMbXP3HrMCXdP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Manuel Agnelli",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Samuel",
+      "ids": [
+        "1xGZau65shf88gEZgd8tk2",
+        "5eSc0Jf42nTcYOwPvBp5HA"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Elisa",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Meg",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Lo Stato Sociale",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Pierpaolo Capovilla",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Prozac+",
+      "ids": ["1xGZau65shf88gEZgd8tk2"],
+      "appears": 1
+    },
+    {
+      "name": "Ornella Vanoni",
+      "ids": [
+        "44jsxr8EUOVkcPK31TIq97",
+        "4Ct5UKZZfyzMpt1CYCjrke"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Elio e le Storie Tese",
+      "ids": ["0I7q9LrWYVp1bIuJs4aQR0"],
+      "appears": 1
+    },
+    {
+      "name": "J-AX",
+      "ids": ["7nTrM8w5gaOIGQ4FYW7sAB"],
+      "appears": 1
+    },
+    {
+      "name": "Deejay All Stars",
+      "ids": ["2utQSuS2x5e2Puet6IYa03"],
+      "appears": 1
+    },
+    {
+      "name": "Peu Meurray",
+      "ids": ["1CKfWVLAc3A1N8UQdr4f75"],
+      "appears": 1
+    },
+    {
+      "name": "Vida Vidal",
+      "ids": ["1CKfWVLAc3A1N8UQdr4f75"],
+      "appears": 1
+    },
+    {
+      "name": "Clementino",
+      "ids": ["1yHmxWAsZrTrX8LVf2Eqfo"],
+      "appears": 1
+    },
+    {
+      "name": "Luca Carboni",
+      "ids": [
+        "3JIgHXbyX5SYBbejAcHYEG",
+        "5jMyWzzhK8drGy4AdEJ9BP",
+        "4o3TPNSjYfytbKLPz82iwD"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Full Beat",
+      "ids": [
+        "5dOdKpdnOYzyZbN8f8ZA0D",
+        "6bCRBnP2H9lrQtE0NUyuGS",
+        "0kiOXuMjG9WBrpOB7gZvQl"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Afroside",
+      "ids": [
+        "5dOdKpdnOYzyZbN8f8ZA0D",
+        "6bCRBnP2H9lrQtE0NUyuGS",
+        "0kiOXuMjG9WBrpOB7gZvQl"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Nicola Piovani",
+      "ids": ["3npXbDNaR8NDS6OFQdjIS3"],
+      "appears": 1
+    },
+    {
+      "name": "Negramaro",
+      "ids": ["5YQLyQ4DZmkL0gfBMILlIt"],
+      "appears": 1
+    },
+    {
+      "name": "Wax Poetic",
+      "ids": ["1VSzpUgsDxfuQWOURAlYNS"],
+      "appears": 1
+    },
+    {
+      "name": "Vico C",
+      "ids": ["63a6E8UiBxFCloXeSnGA3i"],
+      "appears": 1
+    },
+    {
+      "name": "Manrico Mologni",
+      "ids": ["5l6HaAEyQ1xp3gDGyeNcpp"],
+      "appears": 1
+    },
+    {
+      "name": "Solis String Quartet",
+      "ids": ["7mlvmzRu9EsWKp6y2uT9gV"],
+      "appears": 1
+    },
+    {
+      "name": "Michele Centonze",
+      "ids": ["6VjrqdxplK42x6SuVNIJDc"],
+      "appears": 1
+    },
+    {
+      "name": "Ruggero Leoncavallo",
+      "ids": ["6VjrqdxplK42x6SuVNIJDc"],
+      "appears": 1
+    },
+    {
+      "name": "Luciano Pavarotti",
+      "ids": [
+        "6VjrqdxplK42x6SuVNIJDc",
+        "6k7O0MHVcxDfPOGIIIr71R"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Saturnino Celani",
+      "ids": ["5GO6lp7PnwD6jTX3Fma9iZ"],
+      "appears": 1
+    },
+    {
+      "name": "Giacomo Puccini",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Dolores O'Riordan",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Simon Le Bon",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Michael Bolton",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Orchestra filarmonica di Torino",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Marco Armiliato",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Bono",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "The Edge",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Brian Eno",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Meat Loaf",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Nenad Bach",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Zucchero",
+      "ids": ["6k7O0MHVcxDfPOGIIIr71R"],
+      "appears": 1
+    },
+    {
+      "name": "Marc Lavoine",
+      "ids": ["1Ox5atSuCPZtpyOZqj7GBM"],
+      "appears": 1
+    },
+    {
+      "name": "Sin Bandera",
+      "ids": ["4USq8U9H0sVDJaMeqQrQzl"],
+      "appears": 1
+    },
+    {
+      "name": "Gianni Maroccolo",
+      "ids": ["7lLdOrXp9UUK0KF8nBEA6P"],
+      "appears": 1
+    },
+    {
+      "name": "Daniela Mercury",
+      "ids": ["46fmAdVCvWVM67WKfSfQky"],
+      "appears": 1
+    },
+    {
+      "name": "Demo Morselli \"Big Band Orchestra\"",
+      "ids": ["7fJfQUXWcW1btG5msvMgC9"],
+      "appears": 1
+    },
+    {
+      "name": "Gianna Nannini",
+      "ids": ["3WrAS6USoam3Sia03nAnvW"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Fiesta (feat. Cacao Mental)",
+        "Feel The Summer On My Skin",
+        "Musica",
+        "Melagioco",
+        "La Belle Vie",
+        "Battiti Di Ali Di Farfalla",
+        "The Sound Of Sunshine",
+        "I Pesci Grossi",
+        "Buonasera Signorina",
+        "Lontano Lontano",
+        "Staying Alive",
+        "Adagio (Con Il Ritmo Nel Cuore)",
+        "Fango",
+        "Dove Ho Visto Te",
+        "Safari",
+        "Temporale",
+        "Punto",
+        "Mani Libere 2008",
+        "(Tanto)3",
+        "Falla Girare",
+        "(Storia Di Un) Corazon",
+        "Dal Basso",
+        "Piove",
+        "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+        "SBAM! - Rub-a-Dub Version",
+        "SBAM! - Dub Version",
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Radio Edit",
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Extended",
+        "Safari - RTK Klub Mix",
+        "Safari - RTK Radio Edit",
+        "Safari - Tommy Vee Vs Roy Malone Mix",
+        "Safari - Roy Malone King Mix",
+        "Safari - Keller Pleasure Mix",
+        "Canzone (feat. Jovanotti)",
+        "La descrizione di un attimo (feat. Jovanotti)",
+        "La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)",
+        "Più",
+        "Bonito - Versione 50 Palos",
+        "Voleva un' anima",
+        "Baffo Natale (feat. Jovanotti)",
+        "Vecchia scuola (feat. Jovanotti)",
+        "In questa grande città - La prima cumbia",
+        "A Te (feat. Jovanotti)",
+        "A Vida",
+        "Fratello",
+        "Ci vuole un fisico bestiale",
+        "Beat Bop to Bicycle - Fleshy Mix",
+        "Beat Bop to Bicycle - Fleshy Dub",
+        "Beat Bop to Bicycle - Scratch It Up",
+        "Quando verrà",
+        "Cade la pioggia - Feat. Lorenzo Jova Cherubini",
+        "Time Moves On",
+        "Tiempo",
+        "Canzoni al cielo",
+        "Lugar Comum",
+        "Penso Positivo - Feat. Jovanotti",
+        "Io so che ti amerò (Eu Sei Que Vou Te Amar)",
+        "Serenata Rap / Mattinata",
+        "Penso positivo",
+        "_: Puccini: Nessun dorma [Turandot]",
+        "J'ai confiance en toi",
+        "Serenata Rap (with Jovanotti)",
+        "Da Raccontarti All'Alba",
+        "Ive Brussel (feat. Jovanotti)",
+        "Nel blu dipinto di blu (feat. Jovanotti)",
+        "Vedo Risorgere Il Sole",
+        "Mix 1992",
+        "Radio Baccano"
+      ],
+      "name": "Jovanotti",
+      "appears": 68
+    },
+    {
+      "songs": ["Fiesta (feat. Cacao Mental)"],
+      "name": "Cacao Mental",
+      "appears": 1
+    },
+    {
+      "songs": ["Feel The Summer On My Skin"],
+      "name": "Jack Jaselli",
+      "appears": 1
+    },
+    {
+      "songs": ["Musica"],
+      "name": "Manu Dibango",
+      "appears": 1
+    },
+    {
+      "songs": ["Melagioco"],
+      "name": "Antibalas",
+      "appears": 1
+    },
+    {
+      "songs": ["La Belle Vie"],
+      "name": "Amadou & Mariam",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Battiti Di Ali Di Farfalla",
+        "The Sound Of Sunshine",
+        "Mani Libere 2008",
+        "Dal Basso"
+      ],
+      "name": "Michael Franti",
+      "appears": 4
+    },
+    {
+      "songs": ["I Pesci Grossi"],
+      "name": "Cesare Cremonini",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Buonasera Signorina",
+        "Lontano Lontano",
+        "Staying Alive",
+        "Adagio (Con Il Ritmo Nel Cuore)",
+        "Dove Ho Visto Te",
+        "(Tanto)3",
+        "Falla Girare",
+        "Piove"
+      ],
+      "name": "Soleluna NY Lab",
+      "appears": 8
+    },
+    {
+      "songs": ["Fango"],
+      "name": "Ben Harper",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Safari",
+        "Safari - RTK Klub Mix",
+        "Safari - Tommy Vee Vs Roy Malone Mix",
+        "Safari - Roy Malone King Mix",
+        "Safari - Keller Pleasure Mix"
+      ],
+      "name": "Giuliano Sangiorgi",
+      "appears": 5
+    },
+    {
+      "songs": ["Temporale"],
+      "name": "Sly & Robbie",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Punto",
+        "Lugar Comum"
+      ],
+      "name": "Sérgio Mendes",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "(Storia Di Un) Corazon",
+        "Bonito - Versione 50 Palos",
+        "Tiempo"
+      ],
+      "name": "Jarabe De Palo",
+      "appears": 3
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Takagi & Ketra",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Tommaso Paradiso",
+      "appears": 1
+    },
+    {
+      "songs": ["La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)"],
+      "name": "Calcutta ",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "SBAM! - Rub-a-Dub Version",
+        "SBAM! - Dub Version"
+      ],
+      "name": "Ackeejuice Rockers",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Radio Edit",
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Extended"
+      ],
+      "name": "Alex Gaudino",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Radio Edit",
+        "La Notte Dei Desideri (Jova Vs Alex Gaudino) - Alex Gaudino & Jason Rooney Rmx Extended"
+      ],
+      "name": "Jason Rooney",
+      "appears": 2
+    },
+    {
+      "songs": ["Safari - RTK Radio Edit"],
+      "name": "Giuliano",
+      "appears": 1
+    },
+    {
+      "songs": ["Canzone (feat. Jovanotti)"],
+      "name": "Rkomi",
+      "appears": 1
+    },
+    {
+      "songs": ["La descrizione di un attimo (feat. Jovanotti)"],
+      "name": "Tiromancino",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Sick Tamburo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)",
+        "In questa grande città - La prima cumbia"
+      ],
+      "name": "Tre Allegri Ragazzi Morti",
+      "appears": 2
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Manuel Agnelli",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)",
+        "Voleva un' anima"
+      ],
+      "name": "Samuel",
+      "appears": 2
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Elisa",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Meg",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Lo Stato Sociale",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Pierpaolo Capovilla",
+      "appears": 1
+    },
+    {
+      "songs": ["La Fine Della Chemio (feat. Jovanotti, Tre Allegri Ragazzi Morti, Manuel Agnelli, Samuel, Elisa, Meg, Lo Stato Sociale, Pierpaolo Capovilla, Prozac+)"],
+      "name": "Prozac+",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Più",
+        "Io so che ti amerò (Eu Sei Que Vou Te Amar)"
+      ],
+      "name": "Ornella Vanoni",
+      "appears": 2
+    },
+    {
+      "songs": ["Baffo Natale (feat. Jovanotti)"],
+      "name": "Elio e le Storie Tese",
+      "appears": 1
+    },
+    {
+      "songs": ["Vecchia scuola (feat. Jovanotti)"],
+      "name": "J-AX",
+      "appears": 1
+    },
+    {
+      "songs": ["A Te (feat. Jovanotti)"],
+      "name": "Deejay All Stars",
+      "appears": 1
+    },
+    {
+      "songs": ["A Vida"],
+      "name": "Peu Meurray",
+      "appears": 1
+    },
+    {
+      "songs": ["A Vida"],
+      "name": "Vida Vidal",
+      "appears": 1
+    },
+    {
+      "songs": ["Fratello"],
+      "name": "Clementino",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ci vuole un fisico bestiale",
+        "Vedo Risorgere Il Sole",
+        "Mix 1992"
+      ],
+      "name": "Luca Carboni",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Beat Bop to Bicycle - Fleshy Mix",
+        "Beat Bop to Bicycle - Fleshy Dub",
+        "Beat Bop to Bicycle - Scratch It Up"
+      ],
+      "name": "Full Beat",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Beat Bop to Bicycle - Fleshy Mix",
+        "Beat Bop to Bicycle - Fleshy Dub",
+        "Beat Bop to Bicycle - Scratch It Up"
+      ],
+      "name": "Afroside",
+      "appears": 3
+    },
+    {
+      "songs": ["Quando verrà"],
+      "name": "Nicola Piovani",
+      "appears": 1
+    },
+    {
+      "songs": ["Cade la pioggia - Feat. Lorenzo Jova Cherubini"],
+      "name": "Negramaro",
+      "appears": 1
+    },
+    {
+      "songs": ["Time Moves On"],
+      "name": "Wax Poetic",
+      "appears": 1
+    },
+    {
+      "songs": ["Tiempo"],
+      "name": "Vico C",
+      "appears": 1
+    },
+    {
+      "songs": ["Canzoni al cielo"],
+      "name": "Manrico Mologni",
+      "appears": 1
+    },
+    {
+      "songs": ["Penso Positivo - Feat. Jovanotti"],
+      "name": "Solis String Quartet",
+      "appears": 1
+    },
+    {
+      "songs": ["Serenata Rap / Mattinata"],
+      "name": "Michele Centonze",
+      "appears": 1
+    },
+    {
+      "songs": ["Serenata Rap / Mattinata"],
+      "name": "Ruggero Leoncavallo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Serenata Rap / Mattinata",
+        "_: Puccini: Nessun dorma [Turandot]"
+      ],
+      "name": "Luciano Pavarotti",
+      "appears": 2
+    },
+    {
+      "songs": ["Penso positivo"],
+      "name": "Saturnino Celani",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Giacomo Puccini",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Dolores O'Riordan",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Simon Le Bon",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Michael Bolton",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Orchestra filarmonica di Torino",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Marco Armiliato",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Bono",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "The Edge",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Brian Eno",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Meat Loaf",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Nenad Bach",
+      "appears": 1
+    },
+    {
+      "songs": ["_: Puccini: Nessun dorma [Turandot]"],
+      "name": "Zucchero",
+      "appears": 1
+    },
+    {
+      "songs": ["J'ai confiance en toi"],
+      "name": "Marc Lavoine",
+      "appears": 1
+    },
+    {
+      "songs": ["Serenata Rap (with Jovanotti)"],
+      "name": "Sin Bandera",
+      "appears": 1
+    },
+    {
+      "songs": ["Da Raccontarti All'Alba"],
+      "name": "Gianni Maroccolo",
+      "appears": 1
+    },
+    {
+      "songs": ["Ive Brussel (feat. Jovanotti)"],
+      "name": "Daniela Mercury",
+      "appears": 1
+    },
+    {
+      "songs": ["Nel blu dipinto di blu (feat. Jovanotti)"],
+      "name": "Demo Morselli \"Big Band Orchestra\"",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Baccano"],
+      "name": "Gianna Nannini",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

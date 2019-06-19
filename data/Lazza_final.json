@@ -1,0 +1,503 @@
+{
+  "profile": "images/LazzaProfile.jpg",
+  "artistName": "Lazza",
+  "idFeats": [
+    {
+      "name": "Lazza",
+      "ids": [
+        "62HMQx6P4BOuHCjbyldghK",
+        "1f2HUukV14tz4cBtqpYJBb",
+        "5qbVso0dAtoI2gFhj7V8oG",
+        "6BNMAb82xLiPv1ZngMQOBK",
+        "1zsnUOfuMirWoprylSMuTZ",
+        "0JX7XXuJCMI8E67zSAy6PR",
+        "5aGVBVVRgMLBexUbV3bRgC",
+        "5vKNtrt1WtgZeohRlas4fG",
+        "3txbZdDUfCLnsO85qf9uyc",
+        "4vDtKkObsUu99tLELuSLH8",
+        "0Rgi733bscb4I8FLsat1yQ",
+        "5xTxsNSO8JRKupxD6yieMT",
+        "4uWcPi8woL8t949ejvHycP",
+        "0UUogTeh8EPFHP9672JRA6",
+        "7wn5K1YL5vu139wjbIbcYx",
+        "2lrwrae424IfClZuPe4O4g",
+        "7DMYDjyZrWqy4SjgYrg7W1",
+        "13UT4Loh4cNL2HTNssnQYL",
+        "3yPPq3YOVLAphhE177DSKF",
+        "4WbAs7IXjGSnsAZDG12Rym",
+        "0iasMiHmpR6sk9HzkbGvq3",
+        "2bZuv2ALhD4YjfsDKkxTS8",
+        "6SqZHCfqn0Wiqv7N51Mahl",
+        "0hv42i6P5VoF76Zihsrsst",
+        "4e3FR5PfQjlqaq4fgaL2zf",
+        "2UzWWNqBAe1p7LZ7mSyOeb",
+        "0bevh9FciBkb57ZqQk4uDQ",
+        "1TfmDDyXkZ46iFSdWoJIr4",
+        "6w4kmpdj55xDpiUTVvU8az",
+        "22J3THKe7sVVPV31HcXNVd",
+        "2uVAuo9DvIhk5WKqRvBSNh",
+        "2iA7gMOmGKQ187qHXA44PA",
+        "4WQzMivMWQxefYANSDFQTp",
+        "5wL6oTnwDa9Yy6eZdFSEk9",
+        "6IwHKtVytCc0tQKHWvHrso",
+        "44gaMQqu72oAkxmRLxfBuI",
+        "2HKKdLdQeFPoskCizAPBxq",
+        "7CthsKvc6TGelYRLQhB3lZ",
+        "16OzQLm0ykdAODsQDUI5d1",
+        "1uOBgCSyFH0DFa4r5tDZhn",
+        "6c1db1UvoUKcl2NPPwbKV2",
+        "4oQDe5Fc3HEQ7IRF50vCB4"
+      ],
+      "appears": 42
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": ["62HMQx6P4BOuHCjbyldghK"],
+      "appears": 1
+    },
+    {
+      "name": "Izi",
+      "ids": ["1f2HUukV14tz4cBtqpYJBb"],
+      "appears": 1
+    },
+    {
+      "name": "Tedua",
+      "ids": ["5qbVso0dAtoI2gFhj7V8oG"],
+      "appears": 1
+    },
+    {
+      "name": "Luche",
+      "ids": ["6BNMAb82xLiPv1ZngMQOBK"],
+      "appears": 1
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": [
+        "1zsnUOfuMirWoprylSMuTZ",
+        "2bZuv2ALhD4YjfsDKkxTS8"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Giaime",
+      "ids": [
+        "0JX7XXuJCMI8E67zSAy6PR",
+        "4oQDe5Fc3HEQ7IRF50vCB4"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Low Kidd",
+      "ids": [
+        "5aGVBVVRgMLBexUbV3bRgC",
+        "5vKNtrt1WtgZeohRlas4fG",
+        "3txbZdDUfCLnsO85qf9uyc",
+        "4vDtKkObsUu99tLELuSLH8",
+        "0Rgi733bscb4I8FLsat1yQ",
+        "5xTxsNSO8JRKupxD6yieMT",
+        "4uWcPi8woL8t949ejvHycP",
+        "0UUogTeh8EPFHP9672JRA6",
+        "7wn5K1YL5vu139wjbIbcYx",
+        "2lrwrae424IfClZuPe4O4g",
+        "7DMYDjyZrWqy4SjgYrg7W1",
+        "13UT4Loh4cNL2HTNssnQYL",
+        "1TfmDDyXkZ46iFSdWoJIr4",
+        "5wL6oTnwDa9Yy6eZdFSEk9"
+      ],
+      "appears": 14
+    },
+    {
+      "name": "Salmo",
+      "ids": ["2lrwrae424IfClZuPe4O4g"],
+      "appears": 1
+    },
+    {
+      "name": "Nitro",
+      "ids": [
+        "2lrwrae424IfClZuPe4O4g",
+        "22J3THKe7sVVPV31HcXNVd"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "333 Mob",
+      "ids": [
+        "3yPPq3YOVLAphhE177DSKF",
+        "4WbAs7IXjGSnsAZDG12Rym",
+        "0iasMiHmpR6sk9HzkbGvq3",
+        "5wL6oTnwDa9Yy6eZdFSEk9"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Beba",
+      "ids": ["6SqZHCfqn0Wiqv7N51Mahl"],
+      "appears": 1
+    },
+    {
+      "name": "Ernia",
+      "ids": ["0hv42i6P5VoF76Zihsrsst"],
+      "appears": 1
+    },
+    {
+      "name": "Hypno Carlito",
+      "ids": ["4e3FR5PfQjlqaq4fgaL2zf"],
+      "appears": 1
+    },
+    {
+      "name": "Dani Faiv",
+      "ids": [
+        "2UzWWNqBAe1p7LZ7mSyOeb",
+        "0bevh9FciBkb57ZqQk4uDQ"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "DJ Fede",
+      "ids": ["6w4kmpdj55xDpiUTVvU8az"],
+      "appears": 1
+    },
+    {
+      "name": "Night Skinny",
+      "ids": ["2uVAuo9DvIhk5WKqRvBSNh"],
+      "appears": 1
+    },
+    {
+      "name": "Pepito Rella",
+      "ids": [
+        "2iA7gMOmGKQ187qHXA44PA",
+        "4WQzMivMWQxefYANSDFQTp",
+        "44gaMQqu72oAkxmRLxfBuI"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Ensi",
+      "ids": ["2iA7gMOmGKQ187qHXA44PA"],
+      "appears": 1
+    },
+    {
+      "name": "Bassi Maestro",
+      "ids": [
+        "4WQzMivMWQxefYANSDFQTp",
+        "44gaMQqu72oAkxmRLxfBuI"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Axos",
+      "ids": [
+        "4WQzMivMWQxefYANSDFQTp",
+        "44gaMQqu72oAkxmRLxfBuI",
+        "7CthsKvc6TGelYRLQhB3lZ"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Lanz Khan",
+      "ids": [
+        "4WQzMivMWQxefYANSDFQTp",
+        "44gaMQqu72oAkxmRLxfBuI"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jack The Smoker",
+      "ids": ["4WQzMivMWQxefYANSDFQTp"],
+      "appears": 1
+    },
+    {
+      "name": "Zuno Mattia",
+      "ids": ["6IwHKtVytCc0tQKHWvHrso"],
+      "appears": 1
+    },
+    {
+      "name": "Nerone",
+      "ids": ["2HKKdLdQeFPoskCizAPBxq"],
+      "appears": 1
+    },
+    {
+      "name": "Nex Cassel",
+      "ids": ["2HKKdLdQeFPoskCizAPBxq"],
+      "appears": 1
+    },
+    {
+      "name": "Cima",
+      "ids": ["16OzQLm0ykdAODsQDUI5d1"],
+      "appears": 1
+    },
+    {
+      "name": "Emis Killa",
+      "ids": [
+        "1uOBgCSyFH0DFa4r5tDZhn",
+        "6c1db1UvoUKcl2NPPwbKV2"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Sick Luke",
+      "ids": ["1uOBgCSyFH0DFa4r5tDZhn"],
+      "appears": 1
+    },
+    {
+      "name": "Zef",
+      "ids": ["6c1db1UvoUKcl2NPPwbKV2"],
+      "appears": 1
+    },
+    {
+      "name": "Gelo",
+      "ids": ["4oQDe5Fc3HEQ7IRF50vCB4"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Box Logo (feat. Fabri Fibra)",
+        "Cazal (feat. Izi)",
+        "Catrame (feat. Tedua)",
+        "Iside (feat. Luchè)",
+        "Gucci Ski Mask (feat. Guè Pequeno)",
+        "No Selfie (feat. Giaime)",
+        "Ouverture",
+        "Origami",
+        "DDA",
+        "MNM",
+        "Lario",
+        "Maleducati",
+        "Zzala",
+        "Take Away",
+        "430",
+        "MOB (feat. Salmo & Nitro)",
+        "Silenzio",
+        "Diablo",
+        "Fuego",
+        "Super Santos Freestyle",
+        "Wall Street Freestyle",
+        "Montenapo (feat. Lazza)",
+        "Male O Bene (feat. Lazza)",
+        "Il Mondo Chico (feat. Lazza)",
+        "Think About It (Feat. Lazza)",
+        "Gabbiano / Moonrock (feat. Lazza) - prod. Lazza",
+        "Gabbiano / Moonrock - prod. Lazza",
+        "N3W FRI3NDS (feat. Lazza)",
+        "Se bastasse",
+        "Passepartout",
+        "Houdini (feat. Lazza)",
+        "Ttozi",
+        "WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)",
+        "I.B.F.M.",
+        "Ragazzi Chic",
+        "Benvenuti a Milano (feat. Lazza, Lanz Khan, Pepito Rella, Axos)",
+        "Fahrenheit",
+        "Ricco mai",
+        "Campione",
+        "B.Rex Bestie - prod. by Sick Luke (feat. Lazza)",
+        "Bella idea - prod. by Zef (feat. Lazza)",
+        "Mi Gira Così"
+      ],
+      "name": "Lazza",
+      "appears": 42
+    },
+    {
+      "songs": ["Box Logo (feat. Fabri Fibra)"],
+      "name": "Fabri Fibra",
+      "appears": 1
+    },
+    {
+      "songs": ["Cazal (feat. Izi)"],
+      "name": "Izi",
+      "appears": 1
+    },
+    {
+      "songs": ["Catrame (feat. Tedua)"],
+      "name": "Tedua",
+      "appears": 1
+    },
+    {
+      "songs": ["Iside (feat. Luchè)"],
+      "name": "Luche",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Gucci Ski Mask (feat. Guè Pequeno)",
+        "Montenapo (feat. Lazza)"
+      ],
+      "name": "Gue Pequeno",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "No Selfie (feat. Giaime)",
+        "Mi Gira Così"
+      ],
+      "name": "Giaime",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Ouverture",
+        "Origami",
+        "DDA",
+        "MNM",
+        "Lario",
+        "Maleducati",
+        "Zzala",
+        "Take Away",
+        "430",
+        "MOB (feat. Salmo & Nitro)",
+        "Silenzio",
+        "Diablo",
+        "N3W FRI3NDS (feat. Lazza)",
+        "I.B.F.M."
+      ],
+      "name": "Low Kidd",
+      "appears": 14
+    },
+    {
+      "songs": ["MOB (feat. Salmo & Nitro)"],
+      "name": "Salmo",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "MOB (feat. Salmo & Nitro)",
+        "Passepartout"
+      ],
+      "name": "Nitro",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Fuego",
+        "Super Santos Freestyle",
+        "Wall Street Freestyle",
+        "I.B.F.M."
+      ],
+      "name": "333 Mob",
+      "appears": 4
+    },
+    {
+      "songs": ["Male O Bene (feat. Lazza)"],
+      "name": "Beba",
+      "appears": 1
+    },
+    {
+      "songs": ["Il Mondo Chico (feat. Lazza)"],
+      "name": "Ernia",
+      "appears": 1
+    },
+    {
+      "songs": ["Think About It (Feat. Lazza)"],
+      "name": "Hypno Carlito",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Gabbiano / Moonrock (feat. Lazza) - prod. Lazza",
+        "Gabbiano / Moonrock - prod. Lazza"
+      ],
+      "name": "Dani Faiv",
+      "appears": 2
+    },
+    {
+      "songs": ["Se bastasse"],
+      "name": "DJ Fede",
+      "appears": 1
+    },
+    {
+      "songs": ["Houdini (feat. Lazza)"],
+      "name": "Night Skinny",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ttozi",
+        "WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)",
+        "Benvenuti a Milano (feat. Lazza, Lanz Khan, Pepito Rella, Axos)"
+      ],
+      "name": "Pepito Rella",
+      "appears": 3
+    },
+    {
+      "songs": ["Ttozi"],
+      "name": "Ensi",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)",
+        "Benvenuti a Milano (feat. Lazza, Lanz Khan, Pepito Rella, Axos)"
+      ],
+      "name": "Bassi Maestro",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)",
+        "Benvenuti a Milano (feat. Lazza, Lanz Khan, Pepito Rella, Axos)",
+        "Ricco mai"
+      ],
+      "name": "Axos",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)",
+        "Benvenuti a Milano (feat. Lazza, Lanz Khan, Pepito Rella, Axos)"
+      ],
+      "name": "Lanz Khan",
+      "appears": 2
+    },
+    {
+      "songs": ["WLKM2MI (feat. Lazza, Axos, Pepito Rella, Lanz Khan, Jack the Smoker)"],
+      "name": "Jack The Smoker",
+      "appears": 1
+    },
+    {
+      "songs": ["Ragazzi Chic"],
+      "name": "Zuno Mattia",
+      "appears": 1
+    },
+    {
+      "songs": ["Fahrenheit"],
+      "name": "Nerone",
+      "appears": 1
+    },
+    {
+      "songs": ["Fahrenheit"],
+      "name": "Nex Cassel",
+      "appears": 1
+    },
+    {
+      "songs": ["Campione"],
+      "name": "Cima",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "B.Rex Bestie - prod. by Sick Luke (feat. Lazza)",
+        "Bella idea - prod. by Zef (feat. Lazza)"
+      ],
+      "name": "Emis Killa",
+      "appears": 2
+    },
+    {
+      "songs": ["B.Rex Bestie - prod. by Sick Luke (feat. Lazza)"],
+      "name": "Sick Luke",
+      "appears": 1
+    },
+    {
+      "songs": ["Bella idea - prod. by Zef (feat. Lazza)"],
+      "name": "Zef",
+      "appears": 1
+    },
+    {
+      "songs": ["Mi Gira Così"],
+      "name": "Gelo",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

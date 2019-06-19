@@ -1,0 +1,397 @@
+{
+  "profile": "images/Carl BraveProfile.jpg",
+  "artistName": "Carl Brave",
+  "idFeats": [
+    {
+      "name": "Carl Brave",
+      "ids": [
+        "5N0nmOmc0MqPZTYKw4fVV6",
+        "1sjr6BBPbtlQjPZ6eHqis4",
+        "263QGSPBRWBmUcbqYTJ9Ky",
+        "0MKvOTvAzkeID3kTnZT4Zi",
+        "3fw3W15QK6a9UxJGgndtYu",
+        "0YdCTQIqZVUUfmqjaM9qvR",
+        "0oN2SeYGbHIlGKvKfzrpLR",
+        "5S2Bshrq6Bh4zHZoXkUtvf",
+        "4qB5WfP7AzwPzU4OddDm4b",
+        "3iwsuBBj55fzDWtpnkOo6m",
+        "5SJSg8TX4cQOksu7abc1G4",
+        "6v511W6qY9W8Fgnxe9h4MY",
+        "2yGIDyLljQ3gQ00iPiXWKR",
+        "2YDCv8n5nFbLuqaGzXjpKv",
+        "4Ft5l7VUI7rhN1E15SXkZ2",
+        "5gkfSsBTssu3ou9O0n2ona",
+        "7l56nY7NMP1QDdWvRdJmmg",
+        "5F6MepcJc6Fr81PsWvoSfa",
+        "5Q8rYh7lFHzzdSzJdy4oTF",
+        "4fwKA7XG3u3StgxyGh1HpW",
+        "34DehrWgKgcdOSLKodkFAA",
+        "1tqnwxSN9KhaBufgIDml9Z",
+        "5kf8d9DoYJbQmiaYjsPobn", 
+        "6ElWuGFrYbsf2mdHWUoGCk", 
+        "3kddbhkA59WZJT7GHFsLpe", 
+        "5y3u5jbGXKFvJiSPGw6nJk", 
+        "0m2X1qmqHEPy9lZ10HTn6z", 
+        "0r6Smrwab8PIoWiWuUcNt9", 
+        "7mns2dLQA2kDmDW2DyXSr0", 
+        "7D7PP87gyUMopAuYOIrdLi", 
+        "6HkJey4kJvPhFYnSOmAlKI", 
+        "6eJGIi0c2MNU3DR2QZ9nbM", 
+        "2Z9hIs3PKc9JMOgivpKLRA", 
+        "58oRbsH5IDJYjFe4e8RAij", 
+        "2fQdTT7WOqalizM3bWYfxf", 
+        "2RYtITt3ajbUT8KTeaV2c4",
+        "5DelwP5vBag1H1Nmlygcu8", 
+        "6w7QSzRdVp42o9jDsNDeVM", 
+        "6fHkpJ8lv3NjRjUtLPFHXq"
+      ],
+      "appears": 39
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": ["6fHkpJ8lv3NjRjUtLPFHXq"],
+      "appears": 1
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "ids":["6w7QSzRdVp42o9jDsNDeVM"],
+      "appears": 1
+    },
+    {
+      "name": "Max Gazzé",
+      "ids": ["5N0nmOmc0MqPZTYKw4fVV6"],
+      "appears": 1
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": ["1sjr6BBPbtlQjPZ6eHqis4"],
+      "appears": 1
+    },
+    {
+      "name": "Ugo Borghetti",
+      "ids": [
+        "263QGSPBRWBmUcbqYTJ9Ky",
+        "2yGIDyLljQ3gQ00iPiXWKR",
+        "34DehrWgKgcdOSLKodkFAA"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Luche",
+      "ids": ["0MKvOTvAzkeID3kTnZT4Zi"],
+      "appears": 1
+    },
+    {
+      "name": "Francesca Michielin",
+      "ids": ["3fw3W15QK6a9UxJGgndtYu"],
+      "appears": 1
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": ["3fw3W15QK6a9UxJGgndtYu"],
+      "appears": 1
+    },
+    {
+      "name": "Giorgio Poi",
+      "ids": ["0YdCTQIqZVUUfmqjaM9qvR"],
+      "appears": 1
+    },
+    {
+      "name": "Coez",
+      "ids": [
+        "0oN2SeYGbHIlGKvKfzrpLR",
+        "5DelwP5vBag1H1Nmlygcu8"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": ["5S2Bshrq6Bh4zHZoXkUtvf"],
+      "appears": 1
+    },
+    {
+      "name": "Frah Quintale",
+      "ids": ["4qB5WfP7AzwPzU4OddDm4b"],
+      "appears": 1
+    },
+    {
+      "name": "Pretty Solero",
+      "ids": [
+        "3iwsuBBj55fzDWtpnkOo6m",
+        "2YDCv8n5nFbLuqaGzXjpKv",
+        "4fwKA7XG3u3StgxyGh1HpW",
+        "34DehrWgKgcdOSLKodkFAA",
+        "1tqnwxSN9KhaBufgIDml9Z"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "B",
+      "ids": [
+        "3iwsuBBj55fzDWtpnkOo6m",
+        "2yGIDyLljQ3gQ00iPiXWKR"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Emis Killa",
+      "ids": [
+        "5SJSg8TX4cQOksu7abc1G4",
+        "5Q8rYh7lFHzzdSzJdy4oTF"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Franco126",
+      "ids": [
+        "6v511W6qY9W8Fgnxe9h4MY",
+        "4Ft5l7VUI7rhN1E15SXkZ2",
+        "5kf8d9DoYJbQmiaYjsPobn", 
+        "6ElWuGFrYbsf2mdHWUoGCk", 
+        "3kddbhkA59WZJT7GHFsLpe", 
+        "5y3u5jbGXKFvJiSPGw6nJk", 
+        "0m2X1qmqHEPy9lZ10HTn6z", 
+        "0r6Smrwab8PIoWiWuUcNt9", 
+        "7mns2dLQA2kDmDW2DyXSr0", 
+        "7D7PP87gyUMopAuYOIrdLi", 
+        "6HkJey4kJvPhFYnSOmAlKI", 
+        "6eJGIi0c2MNU3DR2QZ9nbM", 
+        "2Z9hIs3PKc9JMOgivpKLRA", 
+        "58oRbsH5IDJYjFe4e8RAij", 
+        "2fQdTT7WOqalizM3bWYfxf", 
+        "2RYtITt3ajbUT8KTeaV2c4",
+        "5DelwP5vBag1H1Nmlygcu8", 
+        "6w7QSzRdVp42o9jDsNDeVM", 
+        "6fHkpJ8lv3NjRjUtLPFHXq"
+      ],
+      "appears": 19
+    },
+    {
+      "name": "Federica Abbate",
+      "ids": ["6v511W6qY9W8Fgnxe9h4MY"],
+      "appears": 1
+    },
+    {
+      "name": "Seany 126",
+      "ids": ["5gkfSsBTssu3ou9O0n2ona"],
+      "appears": 1
+    },
+    {
+      "name": "Elisa",
+      "ids": ["7l56nY7NMP1QDdWvRdJmmg"],
+      "appears": 1
+    },
+    {
+      "name": "Rkomi",
+      "ids": ["5F6MepcJc6Fr81PsWvoSfa"],
+      "appears": 1
+    },
+    {
+      "name": "Zollo",
+      "ids": ["34DehrWgKgcdOSLKodkFAA"],
+      "appears": 1
+    },
+    {
+      "name": "Generic Animal",
+      "ids": ["34DehrWgKgcdOSLKodkFAA"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Posso (feat. Max Gazzé)",
+        "Spunte Blu (feat. Guè Pequeno)",
+        "Mezzo Cocktail (feat. Ugo Borghetti)",
+        "Ridere Di Noi (feat. Luchè)",
+        "Fotografia (feat. Francesca Michielin & Fabri Fibra)",
+        "Camel Blu (feat. Giorgio Poi)",
+        "Parco Gondar (feat. Coez)",
+        "Malibu (feat. Gemitaiz)",
+        "Chapeau (feat. Frah Quintale)",
+        "E10 (feat. Pretty Solero & B)",
+        "Bretelle (feat. Emis Killa)",
+        "La Cuenta (feat. Franco 126 & Federica Abbate)",
+        "Scusa (feat. Ugo Borghetti & B)",
+        "E 10",
+        "Santo Graal",
+        "Non Importa",
+        "Vivere Tutte Le Vite - con Carl Brave",
+        "Impressione (feat. Carl Brave)",
+        "Senza cuore & senza nome",
+        "Vicoli (feat. Carl Brave)",
+        "Giorni morti (feat. Carl Brave, Ugo Borghetti & Generic Animal)",
+        "Vicoli",
+        "Solo Guai",
+        "Sempre In Due", 
+        "Polaroid", 
+        "Lucky Strike", 
+        "Enjoy", 
+        "Tararì Tararà", 
+        "Per Favore", 
+        "Noccioline", 
+        "Alla Tua", 
+        "Pellaria", 
+        "Medusa", 
+        "Cheregazzina", 
+        "Avocado", 
+        "Argentario", 
+        "Barceloneta", 
+        "Interrail (feat. Carl Brave x Franco126)", 
+        "Borotalco (feat. Carl Brave x Franco 126)"
+      ],
+      "name": "Carl Brave",
+      "appears": 39
+    },
+    {
+      "name": "Noyz Narcos",
+      "songs": ["Borotalco (feat. Carl Brave x Franco 126)"],
+      "appears": 1
+    },
+    {
+      "name": "Frenetik&Orang3",
+      "songs":["Interrail (feat. Carl Brave x Franco126)"],
+      "appears": 1
+    },
+    {
+      "songs": ["Posso (feat. Max Gazzé)"],
+      "name": "Max Gazzé",
+      "appears": 1
+    },
+    {
+      "songs": ["Spunte Blu (feat. Guè Pequeno)"],
+      "name": "Gue Pequeno",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Mezzo Cocktail (feat. Ugo Borghetti)",
+        "Scusa (feat. Ugo Borghetti & B)",
+        "Giorni morti (feat. Carl Brave, Ugo Borghetti & Generic Animal)"
+      ],
+      "name": "Ugo Borghetti",
+      "appears": 3
+    },
+    {
+      "songs": ["Ridere Di Noi (feat. Luchè)"],
+      "name": "Luche",
+      "appears": 1
+    },
+    {
+      "songs": ["Fotografia (feat. Francesca Michielin & Fabri Fibra)"],
+      "name": "Francesca Michielin",
+      "appears": 1
+    },
+    {
+      "songs": ["Fotografia (feat. Francesca Michielin & Fabri Fibra)"],
+      "name": "Fabri Fibra",
+      "appears": 1
+    },
+    {
+      "songs": ["Camel Blu (feat. Giorgio Poi)"],
+      "name": "Giorgio Poi",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Parco Gondar (feat. Coez)",
+        "Barceloneta"
+      ],
+      "name": "Coez",
+      "appears": 2
+    },
+    {
+      "songs": ["Malibu (feat. Gemitaiz)"],
+      "name": "Gemitaiz",
+      "appears": 1
+    },
+    {
+      "songs": ["Chapeau (feat. Frah Quintale)"],
+      "name": "Frah Quintale",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "E10 (feat. Pretty Solero & B)",
+        "E 10",
+        "Vicoli (feat. Carl Brave)",
+        "Giorni morti (feat. Carl Brave, Ugo Borghetti & Generic Animal)",
+        "Vicoli"
+      ],
+      "name": "Pretty Solero",
+      "appears": 5
+    },
+    {
+      "songs": [
+        "E10 (feat. Pretty Solero & B)",
+        "Scusa (feat. Ugo Borghetti & B)"
+      ],
+      "name": "B",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Bretelle (feat. Emis Killa)",
+        "Senza cuore & senza nome"
+      ],
+      "name": "Emis Killa",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "La Cuenta (feat. Franco 126 & Federica Abbate)",
+        "Santo Graal",
+        "Solo Guai",
+        "Sempre In Due", 
+        "Polaroid", 
+        "Lucky Strike", 
+        "Enjoy", 
+        "Tararì Tararà", 
+        "Per Favore", 
+        "Noccioline", 
+        "Alla Tua", 
+        "Pellaria", 
+        "Medusa", 
+        "Cheregazzina", 
+        "Avocado", 
+        "Argentario",
+        "Barceloneta", 
+        "Interrail (feat. Carl Brave x Franco126)", 
+        "Borotalco (feat. Carl Brave x Franco 126)"
+      ],
+      "name": "Franco126",
+      "appears": 19
+    },
+    {
+      "songs": ["La Cuenta (feat. Franco 126 & Federica Abbate)"],
+      "name": "Federica Abbate",
+      "appears": 1
+    },
+    {
+      "songs": ["Non Importa"],
+      "name": "Seany 126",
+      "appears": 1
+    },
+    {
+      "songs": ["Vivere Tutte Le Vite - con Carl Brave"],
+      "name": "Elisa",
+      "appears": 1
+    },
+    {
+      "songs": ["Impressione (feat. Carl Brave)"],
+      "name": "Rkomi",
+      "appears": 1
+    },
+    {
+      "songs": ["Giorni morti (feat. Carl Brave, Ugo Borghetti & Generic Animal)"],
+      "name": "Zollo",
+      "appears": 1
+    },
+    {
+      "songs": ["Giorni morti (feat. Carl Brave, Ugo Borghetti & Generic Animal)"],
+      "name": "Generic Animal",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

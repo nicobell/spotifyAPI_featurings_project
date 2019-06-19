@@ -1,0 +1,2555 @@
+{
+  "profile": "images/ClementinoProfile.jpg",
+  "artistName": "Clementino",
+  "idFeats": [
+    {
+      "name": "Clementino",
+      "ids": [
+        "0ruX9rSV7A5wNrQJkRLOwH",
+        "1rsv93SgRBzBYUbjCkIXbJ",
+        "0acfglm5AmOBnbQIwbQYtT",
+        "3gyF5ZKSbcCOaMIRmY9X6f",
+        "35IfrLwWDRj9YUaCv6sueq",
+        "6anbEiP5fBI4xHqa9Km9Qt",
+        "5y2khtqUrhEz5Pso7dXbff",
+        "0omhFNAsOSPBpKZ4w5fNEt",
+        "1fTY9rChSmUT4XyZT8LWFz",
+        "7z1D7bZfVOmsgfQkSs95VL",
+        "3GPRyo2L7C7Rcjk5OHJRXc",
+        "76q89aY5XrPraS7KfLLh7H",
+        "4LDIzgpIyoIuCOON5z606F",
+        "3fS5RzK7ArRZTZn4pafXLJ",
+        "6Gao0bZmz23GXaXYBIjiDt",
+        "52MgotILWr27MujlglBPuJ",
+        "0eZynH1x5bO16eMFpBogdq",
+        "5ZSUKKFhb0c2gyDzRnQ016",
+        "1yHmxWAsZrTrX8LVf2Eqfo",
+        "3igvbTIBnOds9UYB4oPCQE",
+        "5VWU2iM6GvP8oA70ePyn21",
+        "2LpWZImzgoWX1u0Ow8syLO",
+        "6I6kmAhaigIE5VE1nKym41",
+        "3W1abVGJYRXRPHXJCfzXSx",
+        "4oq8ZXvKfiAtdZlVAYCqbR",
+        "5fm874HymSptyJdcnioJ2Y",
+        "3SY3ALzWUyuw0vBSYdNAs9",
+        "5IGEhiqj9hPB7Y6XYuELww",
+        "3gQpYFSJX3YGcnxisH7Cga",
+        "5XJizxotpz0I32VhTrd3oq",
+        "2uO1RQoLX157MbSt6y5zC4",
+        "1N8GS9yI7wHCVX5emGNp95",
+        "01oVXcnw6eV1AqKYlxP09F",
+        "3ALE0t25WQc6MSuuO7mpVN",
+        "7n9ATS4fGbxyVums0Qv23n",
+        "6gzbqgR2gfVXKXnIduDQHk",
+        "7gvf4VgXnoUj6OmNxfjyra",
+        "5q5iilD9dzPf6wW19XkQLx",
+        "3kHyIRqJ2YmzMSwYw5tgNV",
+        "4h1UscsULzIbsiBZZCC8x6",
+        "7H6mnrOpygJlCT8nVTXNc9",
+        "60vZprgzu13I5C6vd6yVwj",
+        "3vtXUbQNquoPpBX2tPZ4v8",
+        "7xDQg5ItaPZrbO2mZMulFo",
+        "3omXTY6enyL0wAM7PTcTSY",
+        "53oEv79u9cFuRfFE0xZ4Dm",
+        "2VV35jCnSov6cvKwZEwJZb",
+        "3qYVy3aMFZIZEowXhdCEij",
+        "62jm69Wjm0bVkvMcjo7lr8",
+        "26JeSRK9tpdJZzpLTKdvNT",
+        "6vPXxHePwd9DzpchqKCnZZ",
+        "5nfGlAB9NUc0kJxHCBoE40",
+        "2Yj0tzEgqEg6c4BrppZnK4",
+        "5Zr3L823qwOipJsVB1vTcN",
+        "77WFW3zu77DdMg45WMaPN0",
+        "6wq59BGyOWsgwFfY1ukQLD",
+        "5rapfI6P2NQU9BkYIZlDqG",
+        "60KbW27cv1ksp1aX5J0xgh",
+        "2ehmJUamd4kQ35kD2k0RlA",
+        "7saQxx4RHftgIF49s5Hmg2",
+        "51h7H0Re3cGAjUmDwmDDii",
+        "4z7Bn0Y2z7hoALRetCYbnF",
+        "5wXJA5TmgBmfThU5Hv8k7p",
+        "55EOoBvgmwASRwAUiLSmCR",
+        "1CuHpfm6Mil5X3ADXRuiu5",
+        "7dwVNJDDhGwbJyZM7LwKQF",
+        "6lRzEgQXz59D8FtjaU0w5t",
+        "1L5CFd6XDbUIpDmnamt2Q5",
+        "6iGuFLFSWbAyWl33RqWyVD",
+        "6rtak11NwDw1BJbORE9gYF",
+        "1Cxzchi8dYNmQejSyxBLKr",
+        "12B0oVLG0nL2D4eySBCpGj",
+        "0qmQ8f9Y5BBfbQQQCIb6Ol",
+        "1q3N14AyxD9MAZ3wG6me93",
+        "5hLYql1QPhIzCRxL7ee0vf",
+        "1vIk873n93a0KPeskjPVQk",
+        "2vtvFVqOxB0Xk1IuGncDEu",
+        "1asDYcTQVXONZn5uyrjIow",
+        "67uW7ivUYlJNYi0wNReYEI",
+        "2S0oP0XvJ8sf1smIOhFocA",
+        "2S6XaXkxQbmtWTwmHeQwIh",
+        "3SPCzXeUD9KvsVKy6QqJlZ",
+        "3fSd2hLcclIeyz2hPVB6l6",
+        "2fKXV6G3J6RAAtXnL7fMjB",
+        "5se4ruaDqAplJY0P1zv0hC",
+        "27FUFxkbMui28MX7lPE4Mz",
+        "0iNgxJONcIF49sDltw1DuM",
+        "7u7vSNMwKcXzbQx9mxh0Vp",
+        "0qVrn53mPsLTnk2ekEvXF1",
+        "6bgYXcnuNKWidF6Qhk44C2",
+        "4fAzBmwJUN1tm9H6Q4kqbM",
+        "3zAmNKQUhPkPni139OPdwI",
+        "44fQqgqGGvXBAJNQdk6Y7B",
+        "5meS5R8hF7Lpilapvio72F",
+        "17SVdiR2cqd7nAM2sv2KIM",
+        "6yUh8xFYZNW67o7sg0UJlq",
+        "7jS5zdu5XmJy3ijsZ6iRBf",
+        "13BIL7RH4zSJj9Z2L2TPlF",
+        "4UgBqXSRqHDbwQW8DlL5Ow",
+        "1s7MAAh6ZnDhvdM9HqYWn8",
+        "669itSv7vtrwlj7y5UgCLs",
+        "5dwX1N3t0qbUAe1I7Uzj1t",
+        "1S6Sw6StaF1F6SM99t4LHP",
+        "4nMJuasBDtjIaXMC2Y8vwG",
+        "3YnXZStNaCkj1qT2kS96iw",
+        "65tW8YTCNtqFv2RPq7gP2Y",
+        "1sHgjf7Z5QuGkC8luOIphP",
+        "0viHEYAGtzJfs1MFXkR6Gf",
+        "5Ubde2XZJCjZp5We3MBiTT",
+        "2h0TX8QPWlKY5kSRBUch6H",
+        "6H0z1V70ReXL8ABg0GPa6N",
+        "7IucHelega5rB3FlAAI2sT",
+        "4zNKXU1HM8YtxoslBdAl4I",
+        "6oVRNZeH3hmbbDrCnPhDuV",
+        "1mT9NIXFireXdPEDiEXaos",
+        "6UFR8Ditrf7rFQgu1epFVN",
+        "5jMR97FNQ3d4isa4tQAeQo",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "4Ah516OpfDmcKb0hvE60kr",
+        "7xjtnss5fgkk9rDkasb3hS",
+        "4o7olxYueLIX4Kzy4tfg4a",
+        "1GE3ZT4oYD2fqpV0irqdHH",
+        "0pacxfGBUIDOFOii70rAYZ",
+        "2cou2XL3Hw03cq1g60z5e0",
+        "4anq59KqIVxClZsZ77FM7s",
+        "0rkA4tCXG0UCHc1nFmEYh8",
+        "3dpkffZDMEYlrHQRPiIj7S",
+        "13cD0XJEX6UOWVpIxGGkpV",
+        "2vdGS6rNs1Er49yw2X07qn",
+        "5pUrJohXcJ5uwm6Gognngj",
+        "7yglilqEyt4nIYt3vhDCxq",
+        "1Cu1P0rEuHo24oFPz3rAn0",
+        "01S3h2xsWGJrFWvACikY4G",
+        "0lbA3wv2fvusk3sQW0ZzHE",
+        "2aNXlayApqZt0v5v3COwAf",
+        "5XHmHCDydRomICxgxcuNhd",
+        "78l6PVOyiGDlMNJkPfm7w9",
+        "1ZrmVZMYF7P3xB2a7tgJ41",
+        "37PGeRhW20HB96GIiv7KGj",
+        "2RuQ2lRqo1GCc49JlIuHhm",
+        "58XXfILoWw42uBnQSYgCic",
+        "1OkjXmgTsz1KE9BcaLrLhj",
+        "1qyVXrje03a9SKhRK6IogI",
+        "79iyzjOzkxekmy5ETnWHGf",
+        "0PhjbPi0NXEyDPc4Oue7oX",
+        "0SgtlG1WrGWNRwoFUSuRrQ",
+        "19rFSW62pcoSudsMsX2bYv",
+        "53Hph7JKBsKd2FX80UDiGk",
+        "0MLmgHvc2foFewxFwORZjJ",
+        "0uSY0zTHibLuWl6qBdpvkO",
+        "5O556LyvDU6OcrsF3DWRkq",
+        "1E4tzcGy1nfYnamxaGILNr",
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "70sz08rN2OwuKB2dJMMslQ",
+        "68DV6Nol8MaSH8d998q9dR",
+        "0asycrX5p4JaGXmTp7Qt6v",
+        "6hxHVcxuzwRTpO2M65n5Br",
+        "5oABfAoIWQjzGBjXORh0yA",
+        "5VMwSM71nphib1pYzyuBlM",
+        "3y03LVepYrOx5zFPomGX83",
+        "58VhieSKPd4bs0HUIvMlAX",
+        "3lWMz02iriwE7lKn3kiRK1",
+        "3B4oGXXfTeqj3xjyAKTOAd",
+        "7CkWzZLF9gKdOYoHZwW53N",
+        "7GclbfiwQa9uteQpedObhr",
+        "10GHdB6zYSivCokMiPMOr6",
+        "1LMH3JrcyzzGZmVh3Cl9rB",
+        "12KQrsSeYawWaDlKBvFCuy"
+      ],
+      "appears": 168
+    },
+    {
+      "name": "Gemitaiz",
+      "ids": [
+        "0ruX9rSV7A5wNrQJkRLOwH",
+        "52MgotILWr27MujlglBPuJ",
+        "0qmQ8f9Y5BBfbQQQCIb6Ol",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "0rkA4tCXG0UCHc1nFmEYh8"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Nayt",
+      "ids": ["1rsv93SgRBzBYUbjCkIXbJ"],
+      "appears": 1
+    },
+    {
+      "name": "Caparezza",
+      "ids": ["0acfglm5AmOBnbQIwbQYtT"],
+      "appears": 1
+    },
+    {
+      "name": "Fabri Fibra",
+      "ids": [
+        "3gyF5ZKSbcCOaMIRmY9X6f",
+        "0omhFNAsOSPBpKZ4w5fNEt",
+        "0eZynH1x5bO16eMFpBogdq",
+        "1mT9NIXFireXdPEDiEXaos"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Giuliano Palma",
+      "ids": [
+        "35IfrLwWDRj9YUaCv6sueq",
+        "5meS5R8hF7Lpilapvio72F"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Pino Daniele",
+      "ids": ["6anbEiP5fBI4xHqa9Km9Qt"],
+      "appears": 1
+    },
+    {
+      "name": "Rocco Hunt",
+      "ids": [
+        "5y2khtqUrhEz5Pso7dXbff",
+        "6I6kmAhaigIE5VE1nKym41",
+        "2vtvFVqOxB0Xk1IuGncDEu",
+        "1asDYcTQVXONZn5uyrjIow",
+        "4UgBqXSRqHDbwQW8DlL5Ow",
+        "7xjtnss5fgkk9rDkasb3hS",
+        "0SgtlG1WrGWNRwoFUSuRrQ"
+      ],
+      "appears": 7
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": [
+        "0omhFNAsOSPBpKZ4w5fNEt",
+        "5IGEhiqj9hPB7Y6XYuELww"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Salmo",
+      "ids": [
+        "1fTY9rChSmUT4XyZT8LWFz",
+        "65tW8YTCNtqFv2RPq7gP2Y",
+        "4o7olxYueLIX4Kzy4tfg4a"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Mama Marjas",
+      "ids": [
+        "7z1D7bZfVOmsgfQkSs95VL",
+        "7H6mnrOpygJlCT8nVTXNc9"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Boomdabash",
+      "ids": [
+        "7z1D7bZfVOmsgfQkSs95VL",
+        "19rFSW62pcoSudsMsX2bYv"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Lucio Dalla",
+      "ids": [
+        "3GPRyo2L7C7Rcjk5OHJRXc",
+        "1sHgjf7Z5QuGkC8luOIphP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "TheRivati",
+      "ids": [
+        "76q89aY5XrPraS7KfLLh7H",
+        "3W1abVGJYRXRPHXJCfzXSx",
+        "4nMJuasBDtjIaXMC2Y8vwG"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "James Senese",
+      "ids": ["4LDIzgpIyoIuCOON5z606F"],
+      "appears": 1
+    },
+    {
+      "name": "Marracash",
+      "ids": [
+        "3fS5RzK7ArRZTZn4pafXLJ",
+        "5VWU2iM6GvP8oA70ePyn21",
+        "3zAmNKQUhPkPni139OPdwI"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": [
+        "3fS5RzK7ArRZTZn4pafXLJ",
+        "5VWU2iM6GvP8oA70ePyn21"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Ntò",
+      "ids": [
+        "6Gao0bZmz23GXaXYBIjiDt",
+        "5VWU2iM6GvP8oA70ePyn21",
+        "2LpWZImzgoWX1u0Ow8syLO",
+        "6gzbqgR2gfVXKXnIduDQHk",
+        "3zAmNKQUhPkPni139OPdwI",
+        "0MLmgHvc2foFewxFwORZjJ",
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX"
+      ],
+      "appears": 8
+    },
+    {
+      "name": "MadMan",
+      "ids": [
+        "52MgotILWr27MujlglBPuJ",
+        "0rkA4tCXG0UCHc1nFmEYh8"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Meg",
+      "ids": ["5ZSUKKFhb0c2gyDzRnQ016"],
+      "appears": 1
+    },
+    {
+      "name": "Jovanotti",
+      "ids": ["1yHmxWAsZrTrX8LVf2Eqfo"],
+      "appears": 1
+    },
+    {
+      "name": "Negrita",
+      "ids": ["3igvbTIBnOds9UYB4oPCQE"],
+      "appears": 1
+    },
+    {
+      "name": "Paura",
+      "ids": [
+        "5VWU2iM6GvP8oA70ePyn21",
+        "3omXTY6enyL0wAM7PTcTSY",
+        "3qYVy3aMFZIZEowXhdCEij",
+        "7CkWzZLF9gKdOYoHZwW53N",
+        "1LMH3JrcyzzGZmVh3Cl9rB"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Gigi Finizio",
+      "ids": ["2LpWZImzgoWX1u0Ow8syLO"],
+      "appears": 1
+    },
+    {
+      "name": "Il Cile",
+      "ids": ["4oq8ZXvKfiAtdZlVAYCqbR"],
+      "appears": 1
+    },
+    {
+      "name": "Napoli Rap All Stars",
+      "ids": ["5fm874HymSptyJdcnioJ2Y"],
+      "appears": 1
+    },
+    {
+      "name": "El Koyote",
+      "ids": ["3SY3ALzWUyuw0vBSYdNAs9"],
+      "appears": 1
+    },
+    {
+      "name": "OLuWong",
+      "ids": [
+        "3gQpYFSJX3YGcnxisH7Cga",
+        "5XJizxotpz0I32VhTrd3oq",
+        "2uO1RQoLX157MbSt6y5zC4",
+        "1N8GS9yI7wHCVX5emGNp95",
+        "01oVXcnw6eV1AqKYlxP09F",
+        "3ALE0t25WQc6MSuuO7mpVN",
+        "7n9ATS4fGbxyVums0Qv23n",
+        "6gzbqgR2gfVXKXnIduDQHk",
+        "7gvf4VgXnoUj6OmNxfjyra",
+        "5q5iilD9dzPf6wW19XkQLx",
+        "3kHyIRqJ2YmzMSwYw5tgNV",
+        "4h1UscsULzIbsiBZZCC8x6"
+      ],
+      "appears": 12
+    },
+    {
+      "name": "Dope One",
+      "ids": [
+        "3gQpYFSJX3YGcnxisH7Cga",
+        "5XJizxotpz0I32VhTrd3oq",
+        "2uO1RQoLX157MbSt6y5zC4",
+        "1N8GS9yI7wHCVX5emGNp95",
+        "01oVXcnw6eV1AqKYlxP09F",
+        "3ALE0t25WQc6MSuuO7mpVN",
+        "7n9ATS4fGbxyVums0Qv23n",
+        "6gzbqgR2gfVXKXnIduDQHk",
+        "7gvf4VgXnoUj6OmNxfjyra",
+        "5q5iilD9dzPf6wW19XkQLx",
+        "3kHyIRqJ2YmzMSwYw5tgNV",
+        "4h1UscsULzIbsiBZZCC8x6",
+        "7xDQg5ItaPZrbO2mZMulFo",
+        "7dwVNJDDhGwbJyZM7LwKQF",
+        "6oVRNZeH3hmbbDrCnPhDuV",
+        "5XHmHCDydRomICxgxcuNhd"
+      ],
+      "appears": 16
+    },
+    {
+      "name": "Sud Sound System",
+      "ids": ["3gQpYFSJX3YGcnxisH7Cga"],
+      "appears": 1
+    },
+    {
+      "name": "Jovine",
+      "ids": [
+        "1N8GS9yI7wHCVX5emGNp95",
+        "6UFR8Ditrf7rFQgu1epFVN"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Ekspo",
+      "ids": [
+        "3ALE0t25WQc6MSuuO7mpVN",
+        "1S6Sw6StaF1F6SM99t4LHP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Kayaman",
+      "ids": ["3ALE0t25WQc6MSuuO7mpVN"],
+      "appears": 1
+    },
+    {
+      "name": "Wena",
+      "ids": ["6gzbqgR2gfVXKXnIduDQHk"],
+      "appears": 1
+    },
+    {
+      "name": "R. A. The Rugged Man",
+      "ids": ["60vZprgzu13I5C6vd6yVwj"],
+      "appears": 1
+    },
+    {
+      "name": "ILL Bill",
+      "ids": ["3vtXUbQNquoPpBX2tPZ4v8"],
+      "appears": 1
+    },
+    {
+      "name": "Pulce",
+      "ids": ["53oEv79u9cFuRfFE0xZ4Dm"],
+      "appears": 1
+    },
+    {
+      "name": "Kiave",
+      "ids": [
+        "2VV35jCnSov6cvKwZEwJZb",
+        "0asycrX5p4JaGXmTp7Qt6v",
+        "10GHdB6zYSivCokMiPMOr6"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Emceeozì",
+      "ids": ["62jm69Wjm0bVkvMcjo7lr8"],
+      "appears": 1
+    },
+    {
+      "name": "Fabio Farti",
+      "ids": ["62jm69Wjm0bVkvMcjo7lr8"],
+      "appears": 1
+    },
+    {
+      "name": "DJ Snatch",
+      "ids": [
+        "62jm69Wjm0bVkvMcjo7lr8",
+        "26JeSRK9tpdJZzpLTKdvNT",
+        "5Zr3L823qwOipJsVB1vTcN",
+        "6wq59BGyOWsgwFfY1ukQLD",
+        "1L5CFd6XDbUIpDmnamt2Q5"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Chief",
+      "ids": ["6vPXxHePwd9DzpchqKCnZZ"],
+      "appears": 1
+    },
+    {
+      "name": "Op.Rot",
+      "ids": ["5nfGlAB9NUc0kJxHCBoE40"],
+      "appears": 1
+    },
+    {
+      "name": "Patto MC",
+      "ids": ["2Yj0tzEgqEg6c4BrppZnK4"],
+      "appears": 1
+    },
+    {
+      "name": "Capone",
+      "ids": ["77WFW3zu77DdMg45WMaPN0"],
+      "appears": 1
+    },
+    {
+      "name": "Dope 1",
+      "ids": ["77WFW3zu77DdMg45WMaPN0"],
+      "appears": 1
+    },
+    {
+      "name": "Ensi",
+      "ids": [
+        "5rapfI6P2NQU9BkYIZlDqG",
+        "2S6XaXkxQbmtWTwmHeQwIh",
+        "3dpkffZDMEYlrHQRPiIj7S",
+        "1E4tzcGy1nfYnamxaGILNr",
+        "0asycrX5p4JaGXmTp7Qt6v"
+      ],
+      "appears": 5
+    },
+    {
+      "name": "Malva",
+      "ids": ["5rapfI6P2NQU9BkYIZlDqG"],
+      "appears": 1
+    },
+    {
+      "name": "Raige",
+      "ids": [
+        "5rapfI6P2NQU9BkYIZlDqG",
+        "3YnXZStNaCkj1qT2kS96iw"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Rayden",
+      "ids": ["5rapfI6P2NQU9BkYIZlDqG"],
+      "appears": 1
+    },
+    {
+      "name": "Spregiudicati",
+      "ids": ["60KbW27cv1ksp1aX5J0xgh"],
+      "appears": 1
+    },
+    {
+      "name": "Boom Buzz",
+      "ids": ["2ehmJUamd4kQ35kD2k0RlA"],
+      "appears": 1
+    },
+    {
+      "name": "Red dog",
+      "ids": ["2ehmJUamd4kQ35kD2k0RlA"],
+      "appears": 1
+    },
+    {
+      "name": "Rob",
+      "ids": ["2ehmJUamd4kQ35kD2k0RlA"],
+      "appears": 1
+    },
+    {
+      "name": "Gianni Celeste",
+      "ids": ["7saQxx4RHftgIF49s5Hmg2"],
+      "appears": 1
+    },
+    {
+      "name": "Mirko Miro",
+      "ids": ["7saQxx4RHftgIF49s5Hmg2"],
+      "appears": 1
+    },
+    {
+      "name": "Gigi Soriani",
+      "ids": [
+        "51h7H0Re3cGAjUmDwmDDii",
+        "4z7Bn0Y2z7hoALRetCYbnF",
+        "5hLYql1QPhIzCRxL7ee0vf"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Uomodisu",
+      "ids": [
+        "5wXJA5TmgBmfThU5Hv8k7p",
+        "55EOoBvgmwASRwAUiLSmCR",
+        "1CuHpfm6Mil5X3ADXRuiu5",
+        "7dwVNJDDhGwbJyZM7LwKQF",
+        "6lRzEgQXz59D8FtjaU0w5t",
+        "1L5CFd6XDbUIpDmnamt2Q5",
+        "6iGuFLFSWbAyWl33RqWyVD",
+        "1GE3ZT4oYD2fqpV0irqdHH"
+      ],
+      "appears": 8
+    },
+    {
+      "name": "Tributo Mc",
+      "ids": [
+        "55EOoBvgmwASRwAUiLSmCR",
+        "7dwVNJDDhGwbJyZM7LwKQF"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Skarraphone",
+      "ids": [
+        "55EOoBvgmwASRwAUiLSmCR",
+        "7dwVNJDDhGwbJyZM7LwKQF"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Rametto",
+      "ids": ["55EOoBvgmwASRwAUiLSmCR"],
+      "appears": 1
+    },
+    {
+      "name": "Emcee O'zi",
+      "ids": [
+        "55EOoBvgmwASRwAUiLSmCR",
+        "1S6Sw6StaF1F6SM99t4LHP"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Kid Slam",
+      "ids": ["7dwVNJDDhGwbJyZM7LwKQF"],
+      "appears": 1
+    },
+    {
+      "name": "L-Mare",
+      "ids": ["7dwVNJDDhGwbJyZM7LwKQF"],
+      "appears": 1
+    },
+    {
+      "name": "Peppe Soks",
+      "ids": ["6rtak11NwDw1BJbORE9gYF"],
+      "appears": 1
+    },
+    {
+      "name": "Janax",
+      "ids": ["6rtak11NwDw1BJbORE9gYF"],
+      "appears": 1
+    },
+    {
+      "name": "GionnyScandal",
+      "ids": [
+        "1Cxzchi8dYNmQejSyxBLKr",
+        "58XXfILoWw42uBnQSYgCic",
+        "3y03LVepYrOx5zFPomGX83"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Easy One",
+      "ids": ["12B0oVLG0nL2D4eySBCpGj"],
+      "appears": 1
+    },
+    {
+      "name": "DJ Daf tee",
+      "ids": ["12B0oVLG0nL2D4eySBCpGj"],
+      "appears": 1
+    },
+    {
+      "name": "Rischio",
+      "ids": ["0qmQ8f9Y5BBfbQQQCIb6Ol"],
+      "appears": 1
+    },
+    {
+      "name": "Terron Fabio",
+      "ids": ["0qmQ8f9Y5BBfbQQQCIb6Ol"],
+      "appears": 1
+    },
+    {
+      "name": "Hyst",
+      "ids": ["1q3N14AyxD9MAZ3wG6me93"],
+      "appears": 1
+    },
+    {
+      "name": "Soriani & D'Ambra",
+      "ids": [
+        "5hLYql1QPhIzCRxL7ee0vf",
+        "7IucHelega5rB3FlAAI2sT",
+        "13cD0XJEX6UOWVpIxGGkpV",
+        "2vdGS6rNs1Er49yw2X07qn",
+        "5pUrJohXcJ5uwm6Gognngj",
+        "7yglilqEyt4nIYt3vhDCxq",
+        "2RuQ2lRqo1GCc49JlIuHhm"
+      ],
+      "appears": 7
+    },
+    {
+      "name": "Max D'Ambra",
+      "ids": ["5hLYql1QPhIzCRxL7ee0vf"],
+      "appears": 1
+    },
+    {
+      "name": "Patto Mc",
+      "ids": [
+        "1vIk873n93a0KPeskjPVQk",
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX",
+        "7CkWzZLF9gKdOYoHZwW53N"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Achille Lauro",
+      "ids": ["2vtvFVqOxB0Xk1IuGncDEu"],
+      "appears": 1
+    },
+    {
+      "name": "Boss Doms",
+      "ids": ["2vtvFVqOxB0Xk1IuGncDEu"],
+      "appears": 1
+    },
+    {
+      "name": "Speaker Cenzou",
+      "ids": [
+        "1asDYcTQVXONZn5uyrjIow",
+        "4UgBqXSRqHDbwQW8DlL5Ow",
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Valerio Jovine",
+      "ids": ["1asDYcTQVXONZn5uyrjIow"],
+      "appears": 1
+    },
+    {
+      "name": "Papa J",
+      "ids": ["1asDYcTQVXONZn5uyrjIow"],
+      "appears": 1
+    },
+    {
+      "name": "Mastafive",
+      "ids": ["67uW7ivUYlJNYi0wNReYEI"],
+      "appears": 1
+    },
+    {
+      "name": "Viktor Tilt",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "Ugo Crepa",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "Poomba",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "Ghepo",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "Enphasy",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "El Gringo",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "Maik Brain",
+      "ids": ["2S0oP0XvJ8sf1smIOhFocA"],
+      "appears": 1
+    },
+    {
+      "name": "I Desideri",
+      "ids": ["3SPCzXeUD9KvsVKy6QqJlZ"],
+      "appears": 1
+    },
+    {
+      "name": "Nico Desideri",
+      "ids": [
+        "3SPCzXeUD9KvsVKy6QqJlZ",
+        "01S3h2xsWGJrFWvACikY4G"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "TY1",
+      "ids": ["3fSd2hLcclIeyz2hPVB6l6"],
+      "appears": 1
+    },
+    {
+      "name": "Izi",
+      "ids": [
+        "3fSd2hLcclIeyz2hPVB6l6",
+        "3zAmNKQUhPkPni139OPdwI"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Fuossera",
+      "ids": ["2fKXV6G3J6RAAtXnL7fMjB"],
+      "appears": 1
+    },
+    {
+      "name": "Le Scimmie (Vale Lambo & Lele Blade & Yung Snapp)",
+      "ids": ["5se4ruaDqAplJY0P1zv0hC"],
+      "appears": 1
+    },
+    {
+      "name": "La Pankina Krew",
+      "ids": ["27FUFxkbMui28MX7lPE4Mz"],
+      "appears": 1
+    },
+    {
+      "name": "Giulia Luzi",
+      "ids": ["0iNgxJONcIF49sDltw1DuM"],
+      "appears": 1
+    },
+    {
+      "name": "iLL Papi",
+      "ids": ["7u7vSNMwKcXzbQx9mxh0Vp"],
+      "appears": 1
+    },
+    {
+      "name": "Vincenzo D.V.A.",
+      "ids": ["7u7vSNMwKcXzbQx9mxh0Vp"],
+      "appears": 1
+    },
+    {
+      "name": "Ted Bee",
+      "ids": ["7u7vSNMwKcXzbQx9mxh0Vp"],
+      "appears": 1
+    },
+    {
+      "name": "Bari Jungle Brothers",
+      "ids": ["0qVrn53mPsLTnk2ekEvXF1"],
+      "appears": 1
+    },
+    {
+      "name": "Fausto Leali",
+      "ids": ["6bgYXcnuNKWidF6Qhk44C2"],
+      "appears": 1
+    },
+    {
+      "name": "Briga",
+      "ids": ["4fAzBmwJUN1tm9H6Q4kqbM"],
+      "appears": 1
+    },
+    {
+      "name": "Mostro",
+      "ids": ["4fAzBmwJUN1tm9H6Q4kqbM"],
+      "appears": 1
+    },
+    {
+      "name": "Cenzou",
+      "ids": ["3zAmNKQUhPkPni139OPdwI"],
+      "appears": 1
+    },
+    {
+      "name": "Beenzo",
+      "ids": ["44fQqgqGGvXBAJNQdk6Y7B"],
+      "appears": 1
+    },
+    {
+      "name": "Indubstry",
+      "ids": ["17SVdiR2cqd7nAM2sv2KIM"],
+      "appears": 1
+    },
+    {
+      "name": "DJ 2P",
+      "ids": ["6yUh8xFYZNW67o7sg0UJlq"],
+      "appears": 1
+    },
+    {
+      "name": "Mondo Marcio",
+      "ids": ["7jS5zdu5XmJy3ijsZ6iRBf"],
+      "appears": 1
+    },
+    {
+      "name": "Train To Roots",
+      "ids": ["13BIL7RH4zSJj9Z2L2TPlF"],
+      "appears": 1
+    },
+    {
+      "name": "O Zulu",
+      "ids": ["4UgBqXSRqHDbwQW8DlL5Ow"],
+      "appears": 1
+    },
+    {
+      "name": "Capeccapa",
+      "ids": ["1s7MAAh6ZnDhvdM9HqYWn8"],
+      "appears": 1
+    },
+    {
+      "name": "Francesco Paura",
+      "ids": [
+        "669itSv7vtrwlj7y5UgCLs",
+        "5dwX1N3t0qbUAe1I7Uzj1t"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Cefro",
+      "ids": ["1S6Sw6StaF1F6SM99t4LHP"],
+      "appears": 1
+    },
+    {
+      "name": "Foja",
+      "ids": ["4nMJuasBDtjIaXMC2Y8vwG"],
+      "appears": 1
+    },
+    {
+      "name": "Nitro",
+      "ids": [
+        "3YnXZStNaCkj1qT2kS96iw",
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "4o7olxYueLIX4Kzy4tfg4a"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "En?gma",
+      "ids": [
+        "3YnXZStNaCkj1qT2kS96iw",
+        "65tW8YTCNtqFv2RPq7gP2Y"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Hell Raton",
+      "ids": ["3YnXZStNaCkj1qT2kS96iw"],
+      "appears": 1
+    },
+    {
+      "name": "Carlo Giannini",
+      "ids": [
+        "0viHEYAGtzJfs1MFXkR6Gf",
+        "1qyVXrje03a9SKhRK6IogI",
+        "79iyzjOzkxekmy5ETnWHGf"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Lee Rush",
+      "ids": [
+        "0viHEYAGtzJfs1MFXkR6Gf",
+        "1qyVXrje03a9SKhRK6IogI",
+        "79iyzjOzkxekmy5ETnWHGf"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Koyote",
+      "ids": ["5Ubde2XZJCjZp5We3MBiTT"],
+      "appears": 1
+    },
+    {
+      "name": "Mad Dopa",
+      "ids": [
+        "2h0TX8QPWlKY5kSRBUch6H",
+        "6H0z1V70ReXL8ABg0GPa6N"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Don Rico",
+      "ids": ["2h0TX8QPWlKY5kSRBUch6H"],
+      "appears": 1
+    },
+    {
+      "name": "Emis Killa",
+      "ids": ["4zNKXU1HM8YtxoslBdAl4I"],
+      "appears": 1
+    },
+    {
+      "name": "2nd Roof Music",
+      "ids": ["4zNKXU1HM8YtxoslBdAl4I"],
+      "appears": 1
+    },
+    {
+      "name": "Claudia Megrè",
+      "ids": ["5jMR97FNQ3d4isa4tQAeQo"],
+      "appears": 1
+    },
+    {
+      "name": "Night Skinny",
+      "ids": [
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "4Ah516OpfDmcKb0hvE60kr"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Jack The Smoker",
+      "ids": [
+        "3yt7G9xUlyE4JkjdJ60GRI",
+        "4o7olxYueLIX4Kzy4tfg4a"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Double Slam",
+      "ids": ["0pacxfGBUIDOFOii70rAYZ"],
+      "appears": 1
+    },
+    {
+      "name": "Fabricia",
+      "ids": [
+        "0pacxfGBUIDOFOii70rAYZ",
+        "5pUrJohXcJ5uwm6Gognngj",
+        "7yglilqEyt4nIYt3vhDCxq"
+      ],
+      "appears": 3
+    },
+    {
+      "name": "Luche",
+      "ids": ["2cou2XL3Hw03cq1g60z5e0"],
+      "appears": 1
+    },
+    {
+      "name": "Mystic One",
+      "ids": ["4anq59KqIVxClZsZ77FM7s"],
+      "appears": 1
+    },
+    {
+      "name": "Reset!",
+      "ids": ["3dpkffZDMEYlrHQRPiIj7S"],
+      "appears": 1
+    },
+    {
+      "name": "Stereoliez",
+      "ids": ["3dpkffZDMEYlrHQRPiIj7S"],
+      "appears": 1
+    },
+    {
+      "name": "Dj Snatch",
+      "ids": [
+        "13cD0XJEX6UOWVpIxGGkpV",
+        "2vdGS6rNs1Er49yw2X07qn"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Franco Ricciardi",
+      "ids": [
+        "1Cu1P0rEuHo24oFPz3rAn0",
+        "53Hph7JKBsKd2FX80UDiGk"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Salvatore Desideri",
+      "ids": ["01S3h2xsWGJrFWvACikY4G"],
+      "appears": 1
+    },
+    {
+      "name": "Giuliano Desideri",
+      "ids": ["01S3h2xsWGJrFWvACikY4G"],
+      "appears": 1
+    },
+    {
+      "name": "99 Posse",
+      "ids": [
+        "0lbA3wv2fvusk3sQW0ZzHE",
+        "3B4oGXXfTeqj3xjyAKTOAd"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Sal Da Vinci",
+      "ids": ["2aNXlayApqZt0v5v3COwAf"],
+      "appears": 1
+    },
+    {
+      "name": "Mr. Hyde",
+      "ids": ["5XHmHCDydRomICxgxcuNhd"],
+      "appears": 1
+    },
+    {
+      "name": "Sangue Mostro",
+      "ids": ["78l6PVOyiGDlMNJkPfm7w9"],
+      "appears": 1
+    },
+    {
+      "name": "Deleterio",
+      "ids": ["1ZrmVZMYF7P3xB2a7tgJ41"],
+      "appears": 1
+    },
+    {
+      "name": "Roy Paci",
+      "ids": [
+        "1ZrmVZMYF7P3xB2a7tgJ41",
+        "68DV6Nol8MaSH8d998q9dR"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Antonio Maggio",
+      "ids": ["37PGeRhW20HB96GIiv7KGj"],
+      "appears": 1
+    },
+    {
+      "name": "Nico e i suoi Desideri",
+      "ids": ["1OkjXmgTsz1KE9BcaLrLhj"],
+      "appears": 1
+    },
+    {
+      "name": "Davide Nicosia",
+      "ids": ["0PhjbPi0NXEyDPc4Oue7oX"],
+      "appears": 1
+    },
+    {
+      "name": "I. Granatino",
+      "ids": ["53Hph7JKBsKd2FX80UDiGk"],
+      "appears": 1
+    },
+    {
+      "name": "Fritz Da Cat",
+      "ids": ["0uSY0zTHibLuWl6qBdpvkO"],
+      "appears": 1
+    },
+    {
+      "name": "Moreno",
+      "ids": ["5O556LyvDU6OcrsF3DWRkq"],
+      "appears": 1
+    },
+    {
+      "name": "Rise Beatbox",
+      "ids": ["1E4tzcGy1nfYnamxaGILNr"],
+      "appears": 1
+    },
+    {
+      "name": "Peste",
+      "ids": [
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Svez",
+      "ids": [
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "O3",
+      "ids": [
+        "0yMxZB6cemv1cFTeaUfQf8",
+        "58VhieSKPd4bs0HUIvMlAX"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Ghemon",
+      "ids": ["70sz08rN2OwuKB2dJMMslQ"],
+      "appears": 1
+    },
+    {
+      "name": "Musteeno",
+      "ids": ["70sz08rN2OwuKB2dJMMslQ"],
+      "appears": 1
+    },
+    {
+      "name": "Mistaman",
+      "ids": ["70sz08rN2OwuKB2dJMMslQ"],
+      "appears": 1
+    },
+    {
+      "name": "Roy Paci & Aretuska",
+      "ids": ["68DV6Nol8MaSH8d998q9dR"],
+      "appears": 1
+    },
+    {
+      "name": "Suarez",
+      "ids": ["6hxHVcxuzwRTpO2M65n5Br"],
+      "appears": 1
+    },
+    {
+      "name": "Grezzo",
+      "ids": ["6hxHVcxuzwRTpO2M65n5Br"],
+      "appears": 1
+    },
+    {
+      "name": "Azyl",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "DeFuckTo",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Gandzior",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Hijack",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Loo MC",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "R MC",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Shazaam",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Sniper",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Slums Attack",
+      "ids": ["5oABfAoIWQjzGBjXORh0yA"],
+      "appears": 1
+    },
+    {
+      "name": "Stokka & Madbuddy",
+      "ids": ["5VMwSM71nphib1pYzyuBlM"],
+      "appears": 1
+    },
+    {
+      "name": "Sharky Mc",
+      "ids": ["3lWMz02iriwE7lKn3kiRK1"],
+      "appears": 1
+    },
+    {
+      "name": "Alien Gang",
+      "ids": ["7GclbfiwQa9uteQpedObhr"],
+      "appears": 1
+    },
+    {
+      "name": "PGX",
+      "ids": ["7GclbfiwQa9uteQpedObhr"],
+      "appears": 1
+    },
+    {
+      "name": "Negre'",
+      "ids": ["10GHdB6zYSivCokMiPMOr6"],
+      "appears": 1
+    },
+    {
+      "name": "DJ Jumbo",
+      "ids": ["10GHdB6zYSivCokMiPMOr6"],
+      "appears": 1
+    },
+    {
+      "name": "Fabio Musta",
+      "ids": ["1LMH3JrcyzzGZmVh3Cl9rB"],
+      "appears": 1
+    },
+    {
+      "name": "Alea",
+      "ids": ["12KQrsSeYawWaDlKBvFCuy"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Alleluia (feat. Gemitaiz)",
+        "Hola! (feat. Nayt)",
+        "Babylon (feat. Caparezza)",
+        "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "Musica Suona",
+        "Da Che Parte Stai?",
+        "Woodstock",
+        "Boom",
+        "Top Player",
+        "Oracolo Del Sud",
+        "Sotto Lo Stesso Cielo",
+        "Solo Un Giorno Nel Quartiere",
+        "Selvaggi",
+        "Dal Centro All'Hinterland",
+        "Ghiacciai",
+        "Electro Cage",
+        "Questa Volta",
+        "Mea Culpa",
+        "Fratello",
+        "Buenos Aires/Napoli",
+        "Dalle Palazzine",
+        "Sei Come Sei",
+        "Giungla",
+        "Senza Pensieri",
+        "Il Re Lucertola",
+        "Messaggeri Del Vesuvio",
+        "Napoli Zoo Safari",
+        "Quei Bravi Ragazzi",
+        "Intro",
+        "Bomba Atomica",
+        "Big Bang",
+        "Smoke",
+        "Amico Mio",
+        "Campania (Provincia del Funk)",
+        "Block Party",
+        "Father",
+        "Apocalisse",
+        "Cassius Clay",
+        "VIP (Sotto Pressione)",
+        "Armageddon",
+        "Rovine",
+        "Animals",
+        "Hannibal Rapper",
+        "La vita del palo",
+        "Se ne cade",
+        "E continuo a camminare",
+        "Funk allucinazioni",
+        "Mutagenics",
+        "O' cazone largo",
+        "Chi vedo?",
+        "Pregiudizi universali",
+        "Lettera al telefono",
+        "In mezzo ai mastini",
+        "La legge dei più",
+        "No Problem",
+        "Stai senza cartucce",
+        "Fantasy 3666",
+        "Linea diretta mi. Na.",
+        "Industrial minestra",
+        "Stella do' cielo",
+        "O sole e sta città - Original Radio Edit",
+        "O sole e sta città - Original Version",
+        "Senza controll",
+        "Ma com'è",
+        "N.D.S.",
+        "Tu vuò fà 'o milionario",
+        "Senza controll - First version",
+        "Skit",
+        "Dal giù",
+        "Dal sud (feat. Clementino)",
+        "Underground / Commerciale",
+        "Treno del sud",
+        "El Paso",
+        "Cuore su carta",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit",
+        "La Mia Gente Che Dirà (feat. Clementino)",
+        "Ammo' (feat. Rocco Hunt & Clementino)",
+        "Stay come il merlo 2030",
+        "L' Età 're Tasse",
+        "Rido",
+        "Sì, come no (feat. Clementino)",
+        "Made in Napoli",
+        "Resident Evil",
+        "Tiemp (feat. Clementino)",
+        "Famm Sta Tranquill",
+        "'O groove",
+        "N.D.M. - Non disseti mai",
+        "Il cielo tra le sbarre",
+        "Lungomare",
+        "Vierno",
+        "Fuoco amico (feat. Mostro & Clementino)",
+        "Il ballo dei macellai (feat. Clementino, Marracash, Izi e Cenzou)",
+        "Mon ami",
+        "I Say I' Sto Ccà",
+        "Paren E Mast",
+        "T-Rex",
+        "Knock Down",
+        "Quello che non hai (feat. Clementino)",
+        "O' reggae de guagliune (feat. Clementino, Speaker Cenzou & O' Zulù)",
+        "Male 'e capa",
+        "Nuoto nel Flow",
+        "Zombie",
+        "Sabt 'a Napl",
+        "Emigrante",
+        "Ready for War (feat. Raige)",
+        "Machete State of Mind",
+        "Sotto lo stesso cielo",
+        "Golden Pot - Radio Edit",
+        "De Chamaquito",
+        "Attitudine",
+        "Hip Hop Philosophy",
+        "L'Urlo di Tarzan - Radio Edit",
+        "Champions - prod. by 2nd Roof Music (feat. Clementino)",
+        "No Politician",
+        "E.U.R.O.",
+        "Parla più forte (feat. Clementino)",
+        "E già mi sento in vacanza",
+        "La testa gira",
+        "Ops!",
+        "Ce magnamm",
+        "Purple Haze",
+        "Tutto esaurito",
+        "Te Quiero Signorina - Gigi Soriani & Max D'ambra Edit",
+        "Il mio successo",
+        "Esercito di giorni",
+        "Drama",
+        "Facci fare una festa",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit (feat. Clementino)",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Radio Edit (feat. Clementino)",
+        "Te quiero signorina - Gigi Soriani & Max D'Ambra Edit feat. Fabricia & Clementino",
+        "Te quiero signorina - Pop Version feat. Fabricia & Clementino",
+        "Magari questa notte",
+        "Made in Napoly",
+        "Ripetuclemente (feat. Clementino)",
+        "Chiamo te",
+        "Guaglio",
+        "Rinascimento",
+        "Tutto A Posto",
+        "Stanco",
+        "L'urlo di Tarzan - Radio Edit",
+        "Underground/commerciale",
+        "Made in napoly",
+        "Golden Pot - Extended Mix",
+        "Golden Pot - Pop Mix",
+        "Napoletan Power",
+        "Capocannonieri",
+        "Troppo strano",
+        "L'unico fuoco",
+        "Se Ne Cade La Città",
+        "Gioventù Bruciata",
+        "Qualcosa Da Dire",
+        "I cinque sensi",
+        "Nanthem, Pt. 2",
+        "Dico Bene (feat. Musteeno, Mistaman, Clementino)",
+        "Fino Alla Fine Del Mondo (feat. Clementino)",
+        "Street Fighter (feat. Ensi, Clementino)",
+        "Rotatoria",
+        "Radio Wolna Europa",
+        "La fuga",
+        "Underground/Commerciale",
+        "NAnthem Vol 2",
+        "Non fare il gangsta",
+        "University of Secondigliano",
+        "Per Gentleman And Ladies (feat. Clementino, Paura)",
+        "Ricordi",
+        "Il Ritorno Del Microfono in Fiamme (feat. Clementino, Negrè, Dj Jumbo)",
+        "Antiopinionisti",
+        "O' fuoco"
+      ],
+      "name": "Clementino",
+      "appears": 168
+    },
+    {
+      "songs": [
+        "Alleluia (feat. Gemitaiz)",
+        "Electro Cage",
+        "El Paso",
+        "La testa gira",
+        "Drama"
+      ],
+      "name": "Gemitaiz",
+      "appears": 5
+    },
+    {
+      "songs": ["Hola! (feat. Nayt)"],
+      "name": "Nayt",
+      "appears": 1
+    },
+    {
+      "songs": ["Babylon (feat. Caparezza)"],
+      "name": "Caparezza",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "Boom",
+        "Questa Volta",
+        "E.U.R.O."
+      ],
+      "name": "Fabri Fibra",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Musica Suona",
+        "I Say I' Sto Ccà"
+      ],
+      "name": "Giuliano Palma",
+      "appears": 2
+    },
+    {
+      "songs": ["Da Che Parte Stai?"],
+      "name": "Pino Daniele",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Woodstock",
+        "Giungla",
+        "Ammo' (feat. Rocco Hunt & Clementino)",
+        "Stay come il merlo 2030",
+        "O' reggae de guagliune (feat. Clementino, Speaker Cenzou & O' Zulù)",
+        "Ce magnamm",
+        "Capocannonieri"
+      ],
+      "name": "Rocco Hunt",
+      "appears": 7
+    },
+    {
+      "songs": [
+        "Boom",
+        "Quei Bravi Ragazzi"
+      ],
+      "name": "Gue Pequeno",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Top Player",
+        "Machete State of Mind",
+        "Purple Haze"
+      ],
+      "name": "Salmo",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Oracolo Del Sud",
+        "Rovine"
+      ],
+      "name": "Mama Marjas",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Oracolo Del Sud",
+        "Troppo strano"
+      ],
+      "name": "Boomdabash",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Sotto Lo Stesso Cielo",
+        "Sotto lo stesso cielo"
+      ],
+      "name": "Lucio Dalla",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Solo Un Giorno Nel Quartiere",
+        "Senza Pensieri",
+        "Emigrante"
+      ],
+      "name": "TheRivati",
+      "appears": 3
+    },
+    {
+      "songs": ["Selvaggi"],
+      "name": "James Senese",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Dal Centro All'Hinterland",
+        "Dalle Palazzine",
+        "Il ballo dei macellai (feat. Clementino, Marracash, Izi e Cenzou)"
+      ],
+      "name": "Marracash",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Dal Centro All'Hinterland",
+        "Dalle Palazzine"
+      ],
+      "name": "Noyz Narcos",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Ghiacciai",
+        "Dalle Palazzine",
+        "Sei Come Sei",
+        "Father",
+        "Il ballo dei macellai (feat. Clementino, Marracash, Izi e Cenzou)",
+        "Se Ne Cade La Città",
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2"
+      ],
+      "name": "Ntò",
+      "appears": 8
+    },
+    {
+      "songs": [
+        "Electro Cage",
+        "Drama"
+      ],
+      "name": "MadMan",
+      "appears": 2
+    },
+    {
+      "songs": ["Mea Culpa"],
+      "name": "Meg",
+      "appears": 1
+    },
+    {
+      "songs": ["Fratello"],
+      "name": "Jovanotti",
+      "appears": 1
+    },
+    {
+      "songs": ["Buenos Aires/Napoli"],
+      "name": "Negrita",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Dalle Palazzine",
+        "Se ne cade",
+        "Mutagenics",
+        "Per Gentleman And Ladies (feat. Clementino, Paura)",
+        "Antiopinionisti"
+      ],
+      "name": "Paura",
+      "appears": 5
+    },
+    {
+      "songs": ["Sei Come Sei"],
+      "name": "Gigi Finizio",
+      "appears": 1
+    },
+    {
+      "songs": ["Il Re Lucertola"],
+      "name": "Il Cile",
+      "appears": 1
+    },
+    {
+      "songs": ["Messaggeri Del Vesuvio"],
+      "name": "Napoli Rap All Stars",
+      "appears": 1
+    },
+    {
+      "songs": ["Napoli Zoo Safari"],
+      "name": "El Koyote",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Intro",
+        "Bomba Atomica",
+        "Big Bang",
+        "Smoke",
+        "Amico Mio",
+        "Campania (Provincia del Funk)",
+        "Block Party",
+        "Father",
+        "Apocalisse",
+        "Cassius Clay",
+        "VIP (Sotto Pressione)",
+        "Armageddon"
+      ],
+      "name": "OLuWong",
+      "appears": 12
+    },
+    {
+      "songs": [
+        "Intro",
+        "Bomba Atomica",
+        "Big Bang",
+        "Smoke",
+        "Amico Mio",
+        "Campania (Provincia del Funk)",
+        "Block Party",
+        "Father",
+        "Apocalisse",
+        "Cassius Clay",
+        "VIP (Sotto Pressione)",
+        "Armageddon",
+        "La vita del palo",
+        "Tu vuò fà 'o milionario",
+        "No Politician",
+        "Guaglio"
+      ],
+      "name": "Dope One",
+      "appears": 16
+    },
+    {
+      "songs": ["Intro"],
+      "name": "Sud Sound System",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Smoke",
+        "Parla più forte (feat. Clementino)"
+      ],
+      "name": "Jovine",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Campania (Provincia del Funk)",
+        "Sabt 'a Napl"
+      ],
+      "name": "Ekspo",
+      "appears": 2
+    },
+    {
+      "songs": ["Campania (Provincia del Funk)"],
+      "name": "Kayaman",
+      "appears": 1
+    },
+    {
+      "songs": ["Father"],
+      "name": "Wena",
+      "appears": 1
+    },
+    {
+      "songs": ["Animals"],
+      "name": "R. A. The Rugged Man",
+      "appears": 1
+    },
+    {
+      "songs": ["Hannibal Rapper"],
+      "name": "ILL Bill",
+      "appears": 1
+    },
+    {
+      "songs": ["E continuo a camminare"],
+      "name": "Pulce",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Funk allucinazioni",
+        "Street Fighter (feat. Ensi, Clementino)",
+        "Il Ritorno Del Microfono in Fiamme (feat. Clementino, Negrè, Dj Jumbo)"
+      ],
+      "name": "Kiave",
+      "appears": 3
+    },
+    {
+      "songs": ["O' cazone largo"],
+      "name": "Emceeozì",
+      "appears": 1
+    },
+    {
+      "songs": ["O' cazone largo"],
+      "name": "Fabio Farti",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "O' cazone largo",
+        "Chi vedo?",
+        "La legge dei più",
+        "Stai senza cartucce",
+        "Skit"
+      ],
+      "name": "DJ Snatch",
+      "appears": 5
+    },
+    {
+      "songs": ["Pregiudizi universali"],
+      "name": "Chief",
+      "appears": 1
+    },
+    {
+      "songs": ["Lettera al telefono"],
+      "name": "Op.Rot",
+      "appears": 1
+    },
+    {
+      "songs": ["In mezzo ai mastini"],
+      "name": "Patto MC",
+      "appears": 1
+    },
+    {
+      "songs": ["No Problem"],
+      "name": "Capone",
+      "appears": 1
+    },
+    {
+      "songs": ["No Problem"],
+      "name": "Dope 1",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Fantasy 3666",
+        "Sì, come no (feat. Clementino)",
+        "Facci fare una festa",
+        "I cinque sensi",
+        "Street Fighter (feat. Ensi, Clementino)"
+      ],
+      "name": "Ensi",
+      "appears": 5
+    },
+    {
+      "songs": ["Fantasy 3666"],
+      "name": "Malva",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Fantasy 3666",
+        "Ready for War (feat. Raige)"
+      ],
+      "name": "Raige",
+      "appears": 2
+    },
+    {
+      "songs": ["Fantasy 3666"],
+      "name": "Rayden",
+      "appears": 1
+    },
+    {
+      "songs": ["Linea diretta mi. Na."],
+      "name": "Spregiudicati",
+      "appears": 1
+    },
+    {
+      "songs": ["Industrial minestra"],
+      "name": "Boom Buzz",
+      "appears": 1
+    },
+    {
+      "songs": ["Industrial minestra"],
+      "name": "Red dog",
+      "appears": 1
+    },
+    {
+      "songs": ["Industrial minestra"],
+      "name": "Rob",
+      "appears": 1
+    },
+    {
+      "songs": ["Stella do' cielo"],
+      "name": "Gianni Celeste",
+      "appears": 1
+    },
+    {
+      "songs": ["Stella do' cielo"],
+      "name": "Mirko Miro",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "O sole e sta città - Original Radio Edit",
+        "O sole e sta città - Original Version",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit"
+      ],
+      "name": "Gigi Soriani",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Senza controll",
+        "Ma com'è",
+        "N.D.S.",
+        "Tu vuò fà 'o milionario",
+        "Senza controll - First version",
+        "Skit",
+        "Dal giù",
+        "Tutto esaurito"
+      ],
+      "name": "Uomodisu",
+      "appears": 8
+    },
+    {
+      "songs": [
+        "Ma com'è",
+        "Tu vuò fà 'o milionario"
+      ],
+      "name": "Tributo Mc",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Ma com'è",
+        "Tu vuò fà 'o milionario"
+      ],
+      "name": "Skarraphone",
+      "appears": 2
+    },
+    {
+      "songs": ["Ma com'è"],
+      "name": "Rametto",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ma com'è",
+        "Sabt 'a Napl"
+      ],
+      "name": "Emcee O'zi",
+      "appears": 2
+    },
+    {
+      "songs": ["Tu vuò fà 'o milionario"],
+      "name": "Kid Slam",
+      "appears": 1
+    },
+    {
+      "songs": ["Tu vuò fà 'o milionario"],
+      "name": "L-Mare",
+      "appears": 1
+    },
+    {
+      "songs": ["Dal sud (feat. Clementino)"],
+      "name": "Peppe Soks",
+      "appears": 1
+    },
+    {
+      "songs": ["Dal sud (feat. Clementino)"],
+      "name": "Janax",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Underground / Commerciale",
+        "Underground/commerciale",
+        "Underground/Commerciale"
+      ],
+      "name": "GionnyScandal",
+      "appears": 3
+    },
+    {
+      "songs": ["Treno del sud"],
+      "name": "Easy One",
+      "appears": 1
+    },
+    {
+      "songs": ["Treno del sud"],
+      "name": "DJ Daf tee",
+      "appears": 1
+    },
+    {
+      "songs": ["El Paso"],
+      "name": "Rischio",
+      "appears": 1
+    },
+    {
+      "songs": ["El Paso"],
+      "name": "Terron Fabio",
+      "appears": 1
+    },
+    {
+      "songs": ["Cuore su carta"],
+      "name": "Hyst",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit",
+        "L'Urlo di Tarzan - Radio Edit",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit (feat. Clementino)",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Radio Edit (feat. Clementino)",
+        "Te quiero signorina - Gigi Soriani & Max D'Ambra Edit feat. Fabricia & Clementino",
+        "Te quiero signorina - Pop Version feat. Fabricia & Clementino",
+        "L'urlo di Tarzan - Radio Edit"
+      ],
+      "name": "Soriani & D'Ambra",
+      "appears": 7
+    },
+    {
+      "songs": ["L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit"],
+      "name": "Max D'Ambra",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La Mia Gente Che Dirà (feat. Clementino)",
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2",
+        "Per Gentleman And Ladies (feat. Clementino, Paura)"
+      ],
+      "name": "Patto Mc",
+      "appears": 4
+    },
+    {
+      "songs": ["Ammo' (feat. Rocco Hunt & Clementino)"],
+      "name": "Achille Lauro",
+      "appears": 1
+    },
+    {
+      "songs": ["Ammo' (feat. Rocco Hunt & Clementino)"],
+      "name": "Boss Doms",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Stay come il merlo 2030",
+        "O' reggae de guagliune (feat. Clementino, Speaker Cenzou & O' Zulù)",
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2"
+      ],
+      "name": "Speaker Cenzou",
+      "appears": 4
+    },
+    {
+      "songs": ["Stay come il merlo 2030"],
+      "name": "Valerio Jovine",
+      "appears": 1
+    },
+    {
+      "songs": ["Stay come il merlo 2030"],
+      "name": "Papa J",
+      "appears": 1
+    },
+    {
+      "songs": ["L' Età 're Tasse"],
+      "name": "Mastafive",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Viktor Tilt",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Ugo Crepa",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Poomba",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Ghepo",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Enphasy",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "El Gringo",
+      "appears": 1
+    },
+    {
+      "songs": ["Rido"],
+      "name": "Maik Brain",
+      "appears": 1
+    },
+    {
+      "songs": ["Made in Napoli"],
+      "name": "I Desideri",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Made in Napoli",
+        "Made in Napoly"
+      ],
+      "name": "Nico Desideri",
+      "appears": 2
+    },
+    {
+      "songs": ["Resident Evil"],
+      "name": "TY1",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Resident Evil",
+        "Il ballo dei macellai (feat. Clementino, Marracash, Izi e Cenzou)"
+      ],
+      "name": "Izi",
+      "appears": 2
+    },
+    {
+      "songs": ["Tiemp (feat. Clementino)"],
+      "name": "Fuossera",
+      "appears": 1
+    },
+    {
+      "songs": ["Famm Sta Tranquill"],
+      "name": "Le Scimmie (Vale Lambo & Lele Blade & Yung Snapp)",
+      "appears": 1
+    },
+    {
+      "songs": ["'O groove"],
+      "name": "La Pankina Krew",
+      "appears": 1
+    },
+    {
+      "songs": ["N.D.M. - Non disseti mai"],
+      "name": "Giulia Luzi",
+      "appears": 1
+    },
+    {
+      "songs": ["Il cielo tra le sbarre"],
+      "name": "iLL Papi",
+      "appears": 1
+    },
+    {
+      "songs": ["Il cielo tra le sbarre"],
+      "name": "Vincenzo D.V.A.",
+      "appears": 1
+    },
+    {
+      "songs": ["Il cielo tra le sbarre"],
+      "name": "Ted Bee",
+      "appears": 1
+    },
+    {
+      "songs": ["Lungomare"],
+      "name": "Bari Jungle Brothers",
+      "appears": 1
+    },
+    {
+      "songs": ["Vierno"],
+      "name": "Fausto Leali",
+      "appears": 1
+    },
+    {
+      "songs": ["Fuoco amico (feat. Mostro & Clementino)"],
+      "name": "Briga",
+      "appears": 1
+    },
+    {
+      "songs": ["Fuoco amico (feat. Mostro & Clementino)"],
+      "name": "Mostro",
+      "appears": 1
+    },
+    {
+      "songs": ["Il ballo dei macellai (feat. Clementino, Marracash, Izi e Cenzou)"],
+      "name": "Cenzou",
+      "appears": 1
+    },
+    {
+      "songs": ["Mon ami"],
+      "name": "Beenzo",
+      "appears": 1
+    },
+    {
+      "songs": ["Paren E Mast"],
+      "name": "Indubstry",
+      "appears": 1
+    },
+    {
+      "songs": ["T-Rex"],
+      "name": "DJ 2P",
+      "appears": 1
+    },
+    {
+      "songs": ["Knock Down"],
+      "name": "Mondo Marcio",
+      "appears": 1
+    },
+    {
+      "songs": ["Quello che non hai (feat. Clementino)"],
+      "name": "Train To Roots",
+      "appears": 1
+    },
+    {
+      "songs": ["O' reggae de guagliune (feat. Clementino, Speaker Cenzou & O' Zulù)"],
+      "name": "O Zulu",
+      "appears": 1
+    },
+    {
+      "songs": ["Male 'e capa"],
+      "name": "Capeccapa",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Nuoto nel Flow",
+        "Zombie"
+      ],
+      "name": "Francesco Paura",
+      "appears": 2
+    },
+    {
+      "songs": ["Sabt 'a Napl"],
+      "name": "Cefro",
+      "appears": 1
+    },
+    {
+      "songs": ["Emigrante"],
+      "name": "Foja",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ready for War (feat. Raige)",
+        "La testa gira",
+        "Purple Haze"
+      ],
+      "name": "Nitro",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Ready for War (feat. Raige)",
+        "Machete State of Mind"
+      ],
+      "name": "En?gma",
+      "appears": 2
+    },
+    {
+      "songs": ["Ready for War (feat. Raige)"],
+      "name": "Hell Raton",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Golden Pot - Radio Edit",
+        "Golden Pot - Extended Mix",
+        "Golden Pot - Pop Mix"
+      ],
+      "name": "Carlo Giannini",
+      "appears": 3
+    },
+    {
+      "songs": [
+        "Golden Pot - Radio Edit",
+        "Golden Pot - Extended Mix",
+        "Golden Pot - Pop Mix"
+      ],
+      "name": "Lee Rush",
+      "appears": 3
+    },
+    {
+      "songs": ["De Chamaquito"],
+      "name": "Koyote",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Attitudine",
+        "Hip Hop Philosophy"
+      ],
+      "name": "Mad Dopa",
+      "appears": 2
+    },
+    {
+      "songs": ["Attitudine"],
+      "name": "Don Rico",
+      "appears": 1
+    },
+    {
+      "songs": ["Champions - prod. by 2nd Roof Music (feat. Clementino)"],
+      "name": "Emis Killa",
+      "appears": 1
+    },
+    {
+      "songs": ["Champions - prod. by 2nd Roof Music (feat. Clementino)"],
+      "name": "2nd Roof Music",
+      "appears": 1
+    },
+    {
+      "songs": ["E già mi sento in vacanza"],
+      "name": "Claudia Megrè",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "La testa gira",
+        "Ops!"
+      ],
+      "name": "Night Skinny",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "La testa gira",
+        "Purple Haze"
+      ],
+      "name": "Jack The Smoker",
+      "appears": 2
+    },
+    {
+      "songs": ["Te Quiero Signorina - Gigi Soriani & Max D'ambra Edit"],
+      "name": "Double Slam",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Te Quiero Signorina - Gigi Soriani & Max D'ambra Edit",
+        "Te quiero signorina - Gigi Soriani & Max D'Ambra Edit feat. Fabricia & Clementino",
+        "Te quiero signorina - Pop Version feat. Fabricia & Clementino"
+      ],
+      "name": "Fabricia",
+      "appears": 3
+    },
+    {
+      "songs": ["Il mio successo"],
+      "name": "Luche",
+      "appears": 1
+    },
+    {
+      "songs": ["Esercito di giorni"],
+      "name": "Mystic One",
+      "appears": 1
+    },
+    {
+      "songs": ["Facci fare una festa"],
+      "name": "Reset!",
+      "appears": 1
+    },
+    {
+      "songs": ["Facci fare una festa"],
+      "name": "Stereoliez",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Funky Edit (feat. Clementino)",
+        "L'urlo di Tarzan - Gigi Soriani & Max D'Ambra Radio Edit (feat. Clementino)"
+      ],
+      "name": "Dj Snatch",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Magari questa notte",
+        "L'unico fuoco"
+      ],
+      "name": "Franco Ricciardi",
+      "appears": 2
+    },
+    {
+      "songs": ["Made in Napoly"],
+      "name": "Salvatore Desideri",
+      "appears": 1
+    },
+    {
+      "songs": ["Made in Napoly"],
+      "name": "Giuliano Desideri",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Ripetuclemente (feat. Clementino)",
+        "University of Secondigliano"
+      ],
+      "name": "99 Posse",
+      "appears": 2
+    },
+    {
+      "songs": ["Chiamo te"],
+      "name": "Sal Da Vinci",
+      "appears": 1
+    },
+    {
+      "songs": ["Guaglio"],
+      "name": "Mr. Hyde",
+      "appears": 1
+    },
+    {
+      "songs": ["Rinascimento"],
+      "name": "Sangue Mostro",
+      "appears": 1
+    },
+    {
+      "songs": ["Tutto A Posto"],
+      "name": "Deleterio",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Tutto A Posto",
+        "Fino Alla Fine Del Mondo (feat. Clementino)"
+      ],
+      "name": "Roy Paci",
+      "appears": 2
+    },
+    {
+      "songs": ["Stanco"],
+      "name": "Antonio Maggio",
+      "appears": 1
+    },
+    {
+      "songs": ["Made in napoly"],
+      "name": "Nico e i suoi Desideri",
+      "appears": 1
+    },
+    {
+      "songs": ["Napoletan Power"],
+      "name": "Davide Nicosia",
+      "appears": 1
+    },
+    {
+      "songs": ["L'unico fuoco"],
+      "name": "I. Granatino",
+      "appears": 1
+    },
+    {
+      "songs": ["Gioventù Bruciata"],
+      "name": "Fritz Da Cat",
+      "appears": 1
+    },
+    {
+      "songs": ["Qualcosa Da Dire"],
+      "name": "Moreno",
+      "appears": 1
+    },
+    {
+      "songs": ["I cinque sensi"],
+      "name": "Rise Beatbox",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2"
+      ],
+      "name": "Peste",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2"
+      ],
+      "name": "Svez",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Nanthem, Pt. 2",
+        "NAnthem Vol 2"
+      ],
+      "name": "O3",
+      "appears": 2
+    },
+    {
+      "songs": ["Dico Bene (feat. Musteeno, Mistaman, Clementino)"],
+      "name": "Ghemon",
+      "appears": 1
+    },
+    {
+      "songs": ["Dico Bene (feat. Musteeno, Mistaman, Clementino)"],
+      "name": "Musteeno",
+      "appears": 1
+    },
+    {
+      "songs": ["Dico Bene (feat. Musteeno, Mistaman, Clementino)"],
+      "name": "Mistaman",
+      "appears": 1
+    },
+    {
+      "songs": ["Fino Alla Fine Del Mondo (feat. Clementino)"],
+      "name": "Roy Paci & Aretuska",
+      "appears": 1
+    },
+    {
+      "songs": ["Rotatoria"],
+      "name": "Suarez",
+      "appears": 1
+    },
+    {
+      "songs": ["Rotatoria"],
+      "name": "Grezzo",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Azyl",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "DeFuckTo",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Gandzior",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Hijack",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Loo MC",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "R MC",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Shazaam",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Sniper",
+      "appears": 1
+    },
+    {
+      "songs": ["Radio Wolna Europa"],
+      "name": "Slums Attack",
+      "appears": 1
+    },
+    {
+      "songs": ["La fuga"],
+      "name": "Stokka & Madbuddy",
+      "appears": 1
+    },
+    {
+      "songs": ["Non fare il gangsta"],
+      "name": "Sharky Mc",
+      "appears": 1
+    },
+    {
+      "songs": ["Ricordi"],
+      "name": "Alien Gang",
+      "appears": 1
+    },
+    {
+      "songs": ["Ricordi"],
+      "name": "PGX",
+      "appears": 1
+    },
+    {
+      "songs": ["Il Ritorno Del Microfono in Fiamme (feat. Clementino, Negrè, Dj Jumbo)"],
+      "name": "Negre'",
+      "appears": 1
+    },
+    {
+      "songs": ["Il Ritorno Del Microfono in Fiamme (feat. Clementino, Negrè, Dj Jumbo)"],
+      "name": "DJ Jumbo",
+      "appears": 1
+    },
+    {
+      "songs": ["Antiopinionisti"],
+      "name": "Fabio Musta",
+      "appears": 1
+    },
+    {
+      "songs": ["O' fuoco"],
+      "name": "Alea",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}

@@ -1,0 +1,333 @@
+{
+  "profile": "images/RkomiProfile.jpg",
+  "artistName": "Rkomi",
+  "idFeats": [
+    {
+      "name": "Rkomi",
+      "ids": [
+        "0Q4v8N758nx98YxObfqkNC",
+        "4MmTsaYqv9QR3yzbMeiNS5",
+        "50Im1CDeBfRbJUPacCEIOS",
+        "5F6MepcJc6Fr81PsWvoSfa",
+        "6unF0kCie7IJvCecFXWws5",
+        "66UkKyxN5YbJl9z7YamQOR",
+        "2pWTB2nF8bJYsVNItSxvRP",
+        "4npeg094qxxH7Fp2aoi04O",
+        "5lSUBOoR69N6lbwGySVdSr",
+        "21iD885b2bwnXTrWT99WxL",
+        "6gan8nbS78t2sUy0M9UpAX",
+        "3rdfHQ7LIHPcbKMPOed63X",
+        "2OIXm3ZM0pbSXQYrq9C5RN",
+        "0QXHNQ7wAk7WYYy45yYF0c",
+        "6bArBYlG50C7iN1owUpKeI",
+        "6lszzKN72DyDRc4GFCYL0C",
+        "35d9hbSsVSp71DECLUSg9V",
+        "36ft72GS5pfK5raS5V0q2J",
+        "7uUEdUUR7ND7IYZhtiysoQ",
+        "4lnblHAOwiaZd7WbuI62g7",
+        "5mZY0pNxdF1DTnDHRAN5pF",
+        "0kLqC40D9xIctSNzfusYon",
+        "4JJtZMgxQgTlBBg7E9Qeac",
+        "5YJDO5HXkSJPckrr3U780H"
+      ],
+      "appears": 24
+    },
+    {
+      "name": "Elisa",
+      "ids": ["0Q4v8N758nx98YxObfqkNC"],
+      "appears": 1
+    },
+    {
+      "name": "Ghali",
+      "ids": [
+        "4MmTsaYqv9QR3yzbMeiNS5",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Dardust",
+      "ids": ["50Im1CDeBfRbJUPacCEIOS"],
+      "appears": 1
+    },
+    {
+      "name": "Carl Brave",
+      "ids": ["5F6MepcJc6Fr81PsWvoSfa"],
+      "appears": 1
+    },
+    {
+      "name": "Jovanotti",
+      "ids": ["6unF0kCie7IJvCecFXWws5"],
+      "appears": 1
+    },
+    {
+      "name": "Sfera Ebbasta",
+      "ids": [
+        "66UkKyxN5YbJl9z7YamQOR",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Noyz Narcos",
+      "ids": [
+        "2pWTB2nF8bJYsVNItSxvRP",
+        "6lszzKN72DyDRc4GFCYL0C"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Marracash",
+      "ids": [
+        "4npeg094qxxH7Fp2aoi04O",
+        "6bArBYlG50C7iN1owUpKeI"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Izi",
+      "ids": [
+        "5lSUBOoR69N6lbwGySVdSr",
+        "0QXHNQ7wAk7WYYy45yYF0c",
+        "0kLqC40D9xIctSNzfusYon",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Tedua",
+      "ids": [
+        "21iD885b2bwnXTrWT99WxL",
+        "6gan8nbS78t2sUy0M9UpAX",
+        "0kLqC40D9xIctSNzfusYon",
+        "4JJtZMgxQgTlBBg7E9Qeac"
+      ],
+      "appears": 4
+    },
+    {
+      "name": "Night Skinny",
+      "ids": [
+        "6gan8nbS78t2sUy0M9UpAX",
+        "3rdfHQ7LIHPcbKMPOed63X",
+        "35d9hbSsVSp71DECLUSg9V",
+        "36ft72GS5pfK5raS5V0q2J",
+        "7uUEdUUR7ND7IYZhtiysoQ",
+        "5YJDO5HXkSJPckrr3U780H"
+      ],
+      "appears": 6
+    },
+    {
+      "name": "MC Bin Laden",
+      "ids": ["3rdfHQ7LIHPcbKMPOed63X"],
+      "appears": 1
+    },
+    {
+      "name": "Ernia",
+      "ids": [
+        "2OIXm3ZM0pbSXQYrq9C5RN",
+        "4lnblHAOwiaZd7WbuI62g7"
+      ],
+      "appears": 2
+    },
+    {
+      "name": "Gue Pequeno",
+      "ids": ["35d9hbSsVSp71DECLUSg9V"],
+      "appears": 1
+    },
+    {
+      "name": "Tobe",
+      "ids": ["5mZY0pNxdF1DTnDHRAN5pF"],
+      "appears": 1
+    },
+    {
+      "name": "Tinez",
+      "ids": ["5mZY0pNxdF1DTnDHRAN5pF"],
+      "appears": 1
+    },
+    {
+      "name": "Giaime",
+      "ids": ["5mZY0pNxdF1DTnDHRAN5pF"],
+      "appears": 1
+    },
+    {
+      "name": "Dargen D'Amico",
+      "ids": ["0kLqC40D9xIctSNzfusYon"],
+      "appears": 1
+    },
+    {
+      "name": "Isabella Turso",
+      "ids": ["0kLqC40D9xIctSNzfusYon"],
+      "appears": 1
+    },
+    {
+      "name": "Charlie Charles",
+      "ids": ["4JJtZMgxQgTlBBg7E9Qeac"],
+      "appears": 1
+    }
+  ],
+  "feats": [
+    {
+      "songs": [
+        "Blu (feat. Elisa)",
+        "Boogie Nights (feat. Ghali)",
+        "Visti Dall'Alto (feat. Dardust)",
+        "Impressione (feat. Carl Brave)",
+        "Canzone (feat. Jovanotti)",
+        "Mon Cheri (feat. Sfera Ebbasta)",
+        "Verme",
+        "Milano Bachata",
+        "Aeroplanini Di Carta",
+        "00",
+        "Solletico (feat. Tedua & The Night Skinny)",
+        "São Paulo (feat. MC Bin Laden & The Night Skinny)",
+        "Acqua Calda E Limone (feat. Ernia)",
+        "Aeroplanini di Carta",
+        "Business Class (feat. Rkomi)",
+        "Matanza (feat. Rkomi)",
+        "Pezzi (feat. Guè Pequeno, Rkomi)",
+        "Sisinomah! (feat. Rkomi)",
+        "Fuck Tomorrow (feat. Rkomi)",
+        "Madonna",
+        "Fr4telli",
+        "Il ritorno delle stelle",
+        "Bimbi",
+        "Fuck tomorrow (feat. Rkomi)"
+      ],
+      "name": "Rkomi",
+      "appears": 24
+    },
+    {
+      "songs": ["Blu (feat. Elisa)"],
+      "name": "Elisa",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Boogie Nights (feat. Ghali)",
+        "Bimbi"
+      ],
+      "name": "Ghali",
+      "appears": 2
+    },
+    {
+      "songs": ["Visti Dall'Alto (feat. Dardust)"],
+      "name": "Dardust",
+      "appears": 1
+    },
+    {
+      "songs": ["Impressione (feat. Carl Brave)"],
+      "name": "Carl Brave",
+      "appears": 1
+    },
+    {
+      "songs": ["Canzone (feat. Jovanotti)"],
+      "name": "Jovanotti",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Mon Cheri (feat. Sfera Ebbasta)",
+        "Bimbi"
+      ],
+      "name": "Sfera Ebbasta",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Verme",
+        "Matanza (feat. Rkomi)"
+      ],
+      "name": "Noyz Narcos",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Milano Bachata",
+        "Business Class (feat. Rkomi)"
+      ],
+      "name": "Marracash",
+      "appears": 2
+    },
+    {
+      "songs": [
+        "Aeroplanini Di Carta",
+        "Aeroplanini di Carta",
+        "Il ritorno delle stelle",
+        "Bimbi"
+      ],
+      "name": "Izi",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "00",
+        "Solletico (feat. Tedua & The Night Skinny)",
+        "Il ritorno delle stelle",
+        "Bimbi"
+      ],
+      "name": "Tedua",
+      "appears": 4
+    },
+    {
+      "songs": [
+        "Solletico (feat. Tedua & The Night Skinny)",
+        "São Paulo (feat. MC Bin Laden & The Night Skinny)",
+        "Pezzi (feat. Guè Pequeno, Rkomi)",
+        "Sisinomah! (feat. Rkomi)",
+        "Fuck Tomorrow (feat. Rkomi)",
+        "Fuck tomorrow (feat. Rkomi)"
+      ],
+      "name": "Night Skinny",
+      "appears": 6
+    },
+    {
+      "songs": ["São Paulo (feat. MC Bin Laden & The Night Skinny)"],
+      "name": "MC Bin Laden",
+      "appears": 1
+    },
+    {
+      "songs": [
+        "Acqua Calda E Limone (feat. Ernia)",
+        "Madonna"
+      ],
+      "name": "Ernia",
+      "appears": 2
+    },
+    {
+      "songs": ["Pezzi (feat. Guè Pequeno, Rkomi)"],
+      "name": "Gue Pequeno",
+      "appears": 1
+    },
+    {
+      "songs": ["Fr4telli"],
+      "name": "Tobe",
+      "appears": 1
+    },
+    {
+      "songs": ["Fr4telli"],
+      "name": "Tinez",
+      "appears": 1
+    },
+    {
+      "songs": ["Fr4telli"],
+      "name": "Giaime",
+      "appears": 1
+    },
+    {
+      "songs": ["Il ritorno delle stelle"],
+      "name": "Dargen D'Amico",
+      "appears": 1
+    },
+    {
+      "songs": ["Il ritorno delle stelle"],
+      "name": "Isabella Turso",
+      "appears": 1
+    },
+    {
+      "songs": ["Bimbi"],
+      "name": "Charlie Charles",
+      "appears": 1
+    }
+  ],
+  "aura": 0
+}
