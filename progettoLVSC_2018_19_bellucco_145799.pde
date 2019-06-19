@@ -13,6 +13,7 @@ String[] rap = {"Gemitaiz", "Salmo", "Fabri Fibra", "MadMan", "Priestess", "Nitr
 String[] trap = {"Ghali", "Sfera Ebbasta", "Rkomi", "Achille Lauro", "Lazza"};
 String[] indie = {"Franco126", "Carl Brave", "Calcutta ", "Willie Peyote", "Frah Quintale"};
 
+
 ArrayList<Artista> cantanti = new ArrayList<Artista>();
 ArrayList<Artista> nascosti;
 ArrayList<Link> pallini = new ArrayList<Link>();
@@ -52,7 +53,7 @@ void setup() {
   loadJSON(trap, 3);
   loadJSON(indie, 4);
 
-  //loadDurations();
+  loadDurations();
 
   println("Fine caricamento!");
 

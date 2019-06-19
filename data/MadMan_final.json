@@ -26,7 +26,6 @@
         "2ivyDa4ZRu4AXmoyrrNr6Z",
         "4Jcwpbr5LshuORILovQMk4",
         "2zVgBwJGgeICt6BYuSyWv3",
-        "2IEELjhOodAAwwWIkI4SEV",
         "2QozHrsdFIxB11gcw2qaPt",
         "7J4gw0GDoKWt1O5TDf7D3L",
         "6ES057CaH088GrqdYAWvJY",
@@ -47,7 +46,6 @@
         "32aWgRcoYC04D4x5dhPF6L",
         "0lLG9J1lDfJqKyLRo72hMy",
         "3fV9z98dnQLSIPIMMJXCm7",
-        "3XkBZrDCxrX5q6aa9Ytf3N",
         "3BuaA1CcUcSigAwfDOLfE3",
         "7bRfuLVO38R2LUTCDVkBvF",
         "5Jny3m9XarSYHvxCldiYdE",
@@ -90,13 +88,11 @@
         "3nIoWJulA29AQ7DtkUkNrF",
         "49qQmrAuK7uV94rzfSOQEl",
         "3lnO7SzY1DPY2JlY4LPy8C",
-        "6t1CdCf7ZmwJWoP37sOXsj",
-        "6HKrYUoJGNrC8XNHUHY5lC",
         "5bDe1keLcHX3CuAXKu5VFH",
         "6k35Z0AA51Lw3aHp8F4fAa",
         "62Toa7YeuHoY8nbBnZwGa6"
       ],
-      "appears": 90
+      "appears": 86
     },
     {
       "name": "Mostro",
@@ -118,10 +114,9 @@
         "2M4p1aS71ZH76bMgQTU0LY",
         "5wMBpJoF9omYhUDAfaWFNa",
         "2zVgBwJGgeICt6BYuSyWv3",
-        "2IEELjhOodAAwwWIkI4SEV",
         "7bRfuLVO38R2LUTCDVkBvF"
       ],
-      "appears": 6
+      "appears": 5
     },
     {
       "name": "Emis Killa",
@@ -194,10 +189,9 @@
         "5kPNnWWXNfTnC3sbOYgFgU",
         "2Dy8UvEAQSzHUivMvPR7hx",
         "4NW6sWlXapZZGMlWfEVR6z",
-        "49qQmrAuK7uV94rzfSOQEl",
-        "6HKrYUoJGNrC8XNHUHY5lC"
+        "49qQmrAuK7uV94rzfSOQEl"
       ],
-      "appears": 39
+      "appears": 38
     },
     {
       "name": "Coez",
@@ -297,29 +291,12 @@
       "appears": 2
     },
     {
-      "name": "L'Elfo",
-      "ids": [
-        "3XkBZrDCxrX5q6aa9Ytf3N",
-        "6p5ohfzpFYEqqJMyMypCw0"
-      ],
-      "appears": 2
-    },
-    {
-      "name": "Funkyman",
-      "ids": [
-        "3XkBZrDCxrX5q6aa9Ytf3N",
-        "6p5ohfzpFYEqqJMyMypCw0"
-      ],
-      "appears": 2
-    },
-    {
       "name": "Nayt",
       "ids": [
         "5Jny3m9XarSYHvxCldiYdE",
-        "3WQJd5uYQ40Qlol1Q8pIpe",
-        "6HKrYUoJGNrC8XNHUHY5lC"
+        "3WQJd5uYQ40Qlol1Q8pIpe"
       ],
-      "appears": 3
+      "appears": 2
     },
     {
       "name": "3D",
@@ -338,6 +315,16 @@
     {
       "name": "Vegas Jones",
       "ids": ["77d7mjiJC7ZSIfopamZ6TJ"],
+      "appears": 1
+    },
+    {
+      "name": "L'Elfo",
+      "ids": ["6p5ohfzpFYEqqJMyMypCw0"],
+      "appears": 1
+    },
+    {
+      "name": "Funkyman",
+      "ids": ["6p5ohfzpFYEqqJMyMypCw0"],
       "appears": 1
     },
     {
@@ -522,66 +509,6 @@
       "appears": 1
     },
     {
-      "name": "TR Hitz",
-      "ids": ["6t1CdCf7ZmwJWoP37sOXsj"],
-      "appears": 1
-    },
-    {
-      "name": "Primo",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Ibbanez",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Ill Grosso",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Grandi Numeri",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Nicco Brokenspeakers",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Joice",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Briga",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Roc Birken",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Dasly",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Santiago",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Tormento",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
       "name": "Young Dru ",
       "ids": [
         "5bDe1keLcHX3CuAXKu5VFH",
@@ -634,7 +561,6 @@
         "Top Player",
         "Tutto Apposto",
         "Non Esiste",
-        "Non Esiste - Sun Version",
         "Disco D'Oro",
         "Albe Nere",
         "Ghetto Guetta",
@@ -655,7 +581,6 @@
         "Diario Di Bordo",
         "I Don't Care",
         "Veleno 7",
-        "Denti macchiati - Extended Version",
         "Voci in testa",
         "Chef (feat. Madman)",
         "Fame (feat. Madman)",
@@ -698,14 +623,12 @@
         "Never",
         "Killer Game (feat. Gemitaiz & Madman)",
         "Eisenhower",
-        "Bots To Uk \"Im A Madman\" - Original Mix",
-        "I mostri remix",
         "West Coast",
         "1st to Set It Off",
         "Young Godz"
       ],
       "name": "MadMan",
-      "appears": 90
+      "appears": 86
     },
     {
       "songs": [
@@ -726,11 +649,10 @@
         "Extraterrestri (feat. Priestess)",
         "Devil May Cry",
         "Non Esiste",
-        "Non Esiste - Sun Version",
         "Chef (feat. Madman)"
       ],
       "name": "Priestess",
-      "appears": 6
+      "appears": 5
     },
     {
       "songs": [
@@ -802,11 +724,10 @@
         "The Show",
         "Battle Royale",
         "Capocannonieri (feat. Gemitaiz, Mad Man & Uzi Junker)",
-        "Killer Game (feat. Gemitaiz & Madman)",
-        "I mostri remix"
+        "Killer Game (feat. Gemitaiz & Madman)"
       ],
       "name": "Gemitaiz",
-      "appears": 39
+      "appears": 38
     },
     {
       "songs": [
@@ -907,28 +828,11 @@
     },
     {
       "songs": [
-        "Denti macchiati - Extended Version",
-        "Denti macchiati"
-      ],
-      "name": "L'Elfo",
-      "appears": 2
-    },
-    {
-      "songs": [
-        "Denti macchiati - Extended Version",
-        "Denti macchiati"
-      ],
-      "name": "Funkyman",
-      "appears": 2
-    },
-    {
-      "songs": [
         "Fame (feat. Madman)",
-        "Fame",
-        "I mostri remix"
+        "Fame"
       ],
       "name": "Nayt",
-      "appears": 3
+      "appears": 2
     },
     {
       "songs": [
@@ -947,6 +851,16 @@
     {
       "songs": ["Brillo (feat. Madman & Gemitaiz)"],
       "name": "Vegas Jones",
+      "appears": 1
+    },
+    {
+      "songs": ["Denti macchiati"],
+      "name": "L'Elfo",
+      "appears": 1
+    },
+    {
+      "songs": ["Denti macchiati"],
+      "name": "Funkyman",
       "appears": 1
     },
     {
@@ -1128,66 +1042,6 @@
     {
       "songs": ["Never"],
       "name": "Fritz Da Cat",
-      "appears": 1
-    },
-    {
-      "songs": ["Bots To Uk \"Im A Madman\" - Original Mix"],
-      "name": "TR Hitz",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Primo",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Ibbanez",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Ill Grosso",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Grandi Numeri",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Nicco Brokenspeakers",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Joice",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Briga",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Roc Birken",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Dasly",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Santiago",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Tormento",
       "appears": 1
     },
     {

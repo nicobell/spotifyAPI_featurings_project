@@ -16,7 +16,6 @@
         "4AIbvYQOWi5LoPukO03YI7",
         "30jHB9ntxIMbudXWRtRAHl",
         "6JcvKfbC0SaklwHTo4wy8F",
-        "41k4JhsOLGDEh1lCZ6fD3l",
         "15ysExZzTNLHRSbWOLoI17",
         "2VibAGkXKzz7tENyyF1ooR",
         "49qQmrAuK7uV94rzfSOQEl",
@@ -69,7 +68,7 @@
         "02RqtP0fB5SYyct2woM4Bw",
         "63andsCTKdDjZaOfWrMyB8"
       ],
-      "appears": 63
+      "appears": 62
     },
     {
       "name": "Fabri Fibra",
@@ -152,16 +151,6 @@
     {
       "name": "SBCR",
       "ids": ["6JcvKfbC0SaklwHTo4wy8F"],
-      "appears": 1
-    },
-    {
-      "name": "Sysma",
-      "ids": ["41k4JhsOLGDEh1lCZ6fD3l"],
-      "appears": 1
-    },
-    {
-      "name": "Unother",
-      "ids": ["41k4JhsOLGDEh1lCZ6fD3l"],
       "appears": 1
     },
     {
@@ -490,7 +479,6 @@
         "Il messia",
         "Bentley vs Cadillac",
         "Peyote",
-        "La prima volta - Unother Version",
         "Rob Zombie (feat. Noyz Narcos)",
         "Space Invaders (feat. Nitro)",
         "Killer Game (feat. Gemitaiz & Madman)",
@@ -544,7 +532,7 @@
         "Marrageddon"
       ],
       "name": "Salmo",
-      "appears": 63
+      "appears": 62
     },
     {
       "songs": [
@@ -627,16 +615,6 @@
     {
       "songs": ["Peyote"],
       "name": "SBCR",
-      "appears": 1
-    },
-    {
-      "songs": ["La prima volta - Unother Version"],
-      "name": "Sysma",
-      "appears": 1
-    },
-    {
-      "songs": ["La prima volta - Unother Version"],
-      "name": "Unother",
       "appears": 1
     },
     {

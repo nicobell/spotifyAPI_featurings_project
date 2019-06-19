@@ -189,9 +189,14 @@ void loadData(String TOKEN, int index) {
                     //match(songHash.get(u), canzone)!=null
                     //|| match(canzone, songHash.get(u))!=null
                     || (match(canzone, "Remix")!=null
-                    || match(canzone, "RMX")!=null 
+                    || match(canzone, "RMX")!=null
+                    || match(canzone, "Mix")!=null
+                    || match(canzone, "mix")!=null
+                    || match(canzone, "remix")!=null 
                     || match(canzone, "Bootleg")!=null)
                     || match(canzone, "Instrumental")!=null
+                    || match(canzone, "version")!=null
+                    || match(canzone, "Version")!=null 
                     || match(canzone, "REMIX")!=null
                     || match(canzone, "Live")!=null) {
                     unico = false;

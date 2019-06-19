@@ -56,7 +56,6 @@
         "1ulNtNjE5SN7dpw6AjZAtu",
         "0ruX9rSV7A5wNrQJkRLOwH",
         "1YQ8KTWsy2lAW4Bwr00ZiP",
-        "5HulRspyqR6IZEpoHKFQor",
         "6WKS4X4lHXCoUr5tbjMSIi",
         "1vFQYqKTk8UOlMi8PoPxjP",
         "77d7mjiJC7ZSIfopamZ6TJ",
@@ -117,12 +116,11 @@
         "49qQmrAuK7uV94rzfSOQEl",
         "7LhSMUHsa0xtEUHitaPxcf",
         "5oWBAFolBUOwhZQKbVrgr9",
-        "6HKrYUoJGNrC8XNHUHY5lC",
         "4EGctSZ6H4auSStjPuZRzh",
         "25XxiDK3C33Wija0g4Suao",
         "1QVy1lHejbpehz1jp7OHZP"
       ],
-      "appears": 116
+      "appears": 114
     },
     {
       "name": "Gue Pequeno",
@@ -205,10 +203,9 @@
         "5kPNnWWXNfTnC3sbOYgFgU",
         "2Dy8UvEAQSzHUivMvPR7hx",
         "4NW6sWlXapZZGMlWfEVR6z",
-        "49qQmrAuK7uV94rzfSOQEl",
-        "6HKrYUoJGNrC8XNHUHY5lC"
+        "49qQmrAuK7uV94rzfSOQEl"
       ],
-      "appears": 39
+      "appears": 38
     },
     {
       "name": "Priestess",
@@ -410,10 +407,9 @@
       "ids": [
         "1ulNtNjE5SN7dpw6AjZAtu",
         "3EtEoYyR80N7EGGshUKPUe",
-        "5oWBAFolBUOwhZQKbVrgr9",
-        "6HKrYUoJGNrC8XNHUHY5lC"
+        "5oWBAFolBUOwhZQKbVrgr9"
       ],
-      "appears": 4
+      "appears": 3
     },
     {
       "name": "3D",
@@ -429,19 +425,13 @@
     {
       "name": "Rocco Hunt",
       "ids": [
-        "5HulRspyqR6IZEpoHKFQor",
         "6WKS4X4lHXCoUr5tbjMSIi",
         "5yAarsoJCL1uKFpWhzK43t",
         "4FIzSKOQ54f5HklzEZh5Sd",
         "5kPNnWWXNfTnC3sbOYgFgU",
         "2Dy8UvEAQSzHUivMvPR7hx"
       ],
-      "appears": 6
-    },
-    {
-      "name": "Speranza",
-      "ids": ["5HulRspyqR6IZEpoHKFQor"],
-      "appears": 1
+      "appears": 5
     },
     {
       "name": "Frenetik&Orang3",
@@ -600,11 +590,8 @@
     },
     {
       "name": "Briga",
-      "ids": [
-        "7y4r9l8O23Z34FkYQFQghd",
-        "6HKrYUoJGNrC8XNHUHY5lC"
-      ],
-      "appears": 2
+      "ids": ["7y4r9l8O23Z34FkYQFQghd"],
+      "appears": 1
     },
     {
       "name": "Chicoria",
@@ -724,56 +711,6 @@
       "appears": 1
     },
     {
-      "name": "Primo",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Ibbanez",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Ill Grosso",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Grandi Numeri",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Nicco Brokenspeakers",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Joice",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Roc Birken",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Dasly",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Santiago",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
-      "name": "Tormento",
-      "ids": ["6HKrYUoJGNrC8XNHUHY5lC"],
-      "appears": 1
-    },
-    {
       "name": "Ibo Montecarlo",
       "ids": ["4EGctSZ6H4auSStjPuZRzh"],
       "appears": 1
@@ -853,7 +790,6 @@
         "Autovelox (feat. Gemitaiz)",
         "Alleluia (feat. Gemitaiz)",
         "Verde (feat. Gemitaiz)",
-        "Cuore rotto (feat. Gemitaiz & Speranza) - Nfam' Version",
         "Cuore rotto (feat. Gemitaiz)",
         "Giornate vuote (feat. Gemitaiz)",
         "Brillo (feat. Madman & Gemitaiz)",
@@ -914,13 +850,12 @@
         "Killer Game (feat. Gemitaiz & Madman)",
         "Appendi il microfono al chiodo",
         "Al massimo",
-        "I mostri remix",
         "Money must be funny",
         "Fuori Luogo",
         "I Want My Time"
       ],
       "name": "Gemitaiz",
-      "appears": 116
+      "appears": 114
     },
     {
       "songs": [
@@ -1002,11 +937,10 @@
         "The Show",
         "Battle Royale",
         "Capocannonieri (feat. Gemitaiz, Mad Man & Uzi Junker)",
-        "Killer Game (feat. Gemitaiz & Madman)",
-        "I mostri remix"
+        "Killer Game (feat. Gemitaiz & Madman)"
       ],
       "name": "MadMan",
-      "appears": 39
+      "appears": 38
     },
     {
       "songs": [
@@ -1207,11 +1141,10 @@
       "songs": [
         "Autovelox (feat. Gemitaiz)",
         "Hit makers",
-        "Al massimo",
-        "I mostri remix"
+        "Al massimo"
       ],
       "name": "Nayt",
-      "appears": 4
+      "appears": 3
     },
     {
       "songs": [
@@ -1226,7 +1159,6 @@
     },
     {
       "songs": [
-        "Cuore rotto (feat. Gemitaiz & Speranza) - Nfam' Version",
         "Cuore rotto (feat. Gemitaiz)",
         "Seven",
         "King's Supreme",
@@ -1234,12 +1166,7 @@
         "Battle Royale"
       ],
       "name": "Rocco Hunt",
-      "appears": 6
-    },
-    {
-      "songs": ["Cuore rotto (feat. Gemitaiz & Speranza) - Nfam' Version"],
-      "name": "Speranza",
-      "appears": 1
+      "appears": 5
     },
     {
       "songs": [
@@ -1397,12 +1324,9 @@
       "appears": 1
     },
     {
-      "songs": [
-        "Non chiederlo a me (feat. Gemitaiz)",
-        "I mostri remix"
-      ],
+      "songs": ["Non chiederlo a me (feat. Gemitaiz)"],
       "name": "Briga",
-      "appears": 2
+      "appears": 1
     },
     {
       "songs": ["Senza di te"],
@@ -1519,56 +1443,6 @@
     {
       "songs": ["Appendi il microfono al chiodo"],
       "name": "Valerio Nazo",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Primo",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Ibbanez",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Ill Grosso",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Grandi Numeri",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Nicco Brokenspeakers",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Joice",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Roc Birken",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Dasly",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Santiago",
-      "appears": 1
-    },
-    {
-      "songs": ["I mostri remix"],
-      "name": "Tormento",
       "appears": 1
     },
     {

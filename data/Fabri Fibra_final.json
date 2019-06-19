@@ -39,7 +39,6 @@
         "0OOdpvqp3mK36b7Yc5weLr",
         "3xPXePgMv2qLgqvSLQTuUr",
         "56TJo0yqKRGBbATONMkkkS",
-        "4B9GSKJ8IK7En1341HaYsD",
         "5304Pm7GsEnrAq9NywTxAD",
         "7BOxrv0XHHbWdo8LzmQThJ",
         "3gyF5ZKSbcCOaMIRmY9X6f",
@@ -76,7 +75,6 @@
         "0omhFNAsOSPBpKZ4w5fNEt",
         "0MDyVsZKWauFFpf7GfKFnz",
         "2MnCZiiqKPJc7ndgqxHcep",
-        "76AjyGyAxCcyP2hG2UVPqe",
         "4t4251SDXBSmBQumNt7ttV",
         "7smuQedVmXWLCfor8mrA1t",
         "6tK3pYQ28cpGwdsUE1dltK",
@@ -92,7 +90,6 @@
         "4Fw0EDcwzYFnD8LKOFAuc8",
         "0F4Tsb8728sXCNxPdMd2hZ",
         "2vVGDZAlbg1F4zIPAhAL5G",
-        "22dNeXc5Y1S4qHzQquWoKB",
         "3238WOq6qlawpYJrmHCBiw",
         "2iWSTdVPDPv9llO9pSsZTp",
         "2o3SQAJ2l3ivZBSfa7HsXK",
@@ -109,7 +106,7 @@
         "0xjobaWI06pQTCLo3O7Pzb",
         "3P9aWditVtvzIMi1tSHBy6"
       ],
-      "appears": 103
+      "appears": 100
     },
     {
       "name": "Mahmood",
@@ -270,11 +267,8 @@
     },
     {
       "name": "Entics",
-      "ids": [
-        "4AjxqdzeYvdnMd1ZhProav",
-        "22dNeXc5Y1S4qHzQquWoKB"
-      ],
-      "appears": 2
+      "ids": ["4AjxqdzeYvdnMd1ZhProav"],
+      "appears": 1
     },
     {
       "name": "Simona Barbieri",
@@ -334,11 +328,8 @@
     },
     {
       "name": "Prezioso",
-      "ids": [
-        "56TJo0yqKRGBbATONMkkkS",
-        "4B9GSKJ8IK7En1341HaYsD"
-      ],
-      "appears": 2
+      "ids": ["56TJo0yqKRGBbATONMkkkS"],
+      "appears": 1
     },
     {
       "name": "Luca Carboni",
@@ -378,11 +369,8 @@
     },
     {
       "name": "Big Fish",
-      "ids": [
-        "2g1Wp2Ls1pK77bl5hMdoAr",
-        "76AjyGyAxCcyP2hG2UVPqe"
-      ],
-      "appears": 2
+      "ids": ["2g1Wp2Ls1pK77bl5hMdoAr"],
+      "appears": 1
     },
     {
       "name": "Jake La Furia",
@@ -644,7 +632,6 @@
         "Personaggi Di Passaggio",
         "Stavo Pensando A Te (feat. Tiziano Ferro)",
         "Alza il volume - Radio Edit",
-        "Alza il volume - Extended Mix",
         "Fisico & politico",
         "L'Italiano Balla",
         "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
@@ -681,7 +668,6 @@
         "Boom",
         "Fammi Fuori",
         "Vita Da Star",
-        "Ognuno ha ciò che si merita (Theron remix) (Fabri fibra)",
         "Ramadan",
         "Ong Bak",
         "Regalami un Dj (feat. Fabri Fibra, J-Ax, Alessandra Amoroso, Marracash)",
@@ -697,7 +683,6 @@
         "L'Italiano Balla (Fabri Fibra vs. Crookers) - Extended",
         "Le Leggende Non Muoiono Mai (Thori & Rocce Anthem)",
         "Top ten",
-        "Il mio mixtape (feat. Fabri Fibra)",
         "L'inquietudine di esistere",
         "La mia testa",
         "Nessuno parla più",
@@ -715,7 +700,7 @@
         "Il mio nome"
       ],
       "name": "Fabri Fibra",
-      "appears": 103
+      "appears": 100
     },
     {
       "songs": [
@@ -875,12 +860,9 @@
       "appears": 2
     },
     {
-      "songs": [
-        "Troppo Famoso",
-        "Il mio mixtape (feat. Fabri Fibra)"
-      ],
+      "songs": ["Troppo Famoso"],
       "name": "Entics",
-      "appears": 2
+      "appears": 1
     },
     {
       "songs": ["In Alto"],
@@ -939,12 +921,9 @@
       "appears": 1
     },
     {
-      "songs": [
-        "Alza il volume - Radio Edit",
-        "Alza il volume - Extended Mix"
-      ],
+      "songs": ["Alza il volume - Radio Edit"],
       "name": "Prezioso",
-      "appears": 2
+      "appears": 1
     },
     {
       "songs": ["Fisico & politico"],
@@ -983,12 +962,9 @@
       "appears": 1
     },
     {
-      "songs": [
-        "Torcida (feat. Jake La Furia, Fabri Fibra, Emis Killa & Chadia Rodriguez)",
-        "Ognuno ha ciò che si merita (Theron remix) (Fabri fibra)"
-      ],
+      "songs": ["Torcida (feat. Jake La Furia, Fabri Fibra, Emis Killa & Chadia Rodriguez)"],
       "name": "Big Fish",
-      "appears": 2
+      "appears": 1
     },
     {
       "songs": [

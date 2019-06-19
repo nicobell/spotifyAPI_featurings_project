@@ -64,16 +64,13 @@
         "0lJDyUi8CrxKTHfk4k2NK8",
         "2RCHZaVtGBahCAxc8ldMKc",
         "3G7rPNpAecub7Wq7mcbd8r",
-        "48O2jFLzLZ9C7JTIbcBgyh",
-        "2x2aoAJswqdQYkpJm6vkhM",
-        "5zrD01A6SPW7eAiTZMydHW",
         "5xAhDvr99RQWXQTpVtgdfT",
         "2493A7OGenXVtLT1hfels3",
         "2MHKlTH9j8nRa7YQ9LgAUO",
         "6i0fcYi9xLx5iJja2PfwFh",
         "42yTIvt1hRuxR95cWuNSgu"
       ],
-      "appears": 67
+      "appears": 64
     },
     {
       "name": "Francesco De Gregori",
@@ -479,33 +476,17 @@
       "name": "Mowo",
       "ids": [
         "3G7rPNpAecub7Wq7mcbd8r",
-        "48O2jFLzLZ9C7JTIbcBgyh",
-        "2x2aoAJswqdQYkpJm6vkhM",
-        "5zrD01A6SPW7eAiTZMydHW",
         "5xAhDvr99RQWXQTpVtgdfT"
       ],
-      "appears": 5
+      "appears": 2
     },
     {
       "name": "Star Funk",
       "ids": [
         "3G7rPNpAecub7Wq7mcbd8r",
-        "48O2jFLzLZ9C7JTIbcBgyh",
-        "2x2aoAJswqdQYkpJm6vkhM",
-        "5zrD01A6SPW7eAiTZMydHW",
         "5xAhDvr99RQWXQTpVtgdfT"
       ],
-      "appears": 5
-    },
-    {
-      "name": "Gambafreaks Vs. Just Addiction",
-      "ids": ["2x2aoAJswqdQYkpJm6vkhM"],
-      "appears": 1
-    },
-    {
-      "name": "Mattias G",
-      "ids": ["5zrD01A6SPW7eAiTZMydHW"],
-      "appears": 1
+      "appears": 2
     },
     {
       "name": "Matte Botteghi",
@@ -600,9 +581,6 @@
         "Slow Wine for me (feat. Elisa, BRS, TC)",
         "Più musica meno testo (feat. Elisa)",
         "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
         "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk",
         "Basta cosi' - With Elisa",
         "Vizi (feat. Ivan, Elisa)",
@@ -610,7 +588,7 @@
         "Bewildered"
       ],
       "name": "Elisa",
-      "appears": 67
+      "appears": 64
     },
     {
       "songs": ["Quelli Che Restano"],
@@ -1015,34 +993,18 @@
     {
       "songs": [
         "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
         "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"
       ],
       "name": "Mowo",
-      "appears": 5
+      "appears": 2
     },
     {
       "songs": [
         "You Want Take My Love (Radio Edit) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Extended Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk",
-        "You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk",
         "You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"
       ],
       "name": "Star Funk",
-      "appears": 5
-    },
-    {
-      "songs": ["You Want Take My Love (Gambafreaks vs. Just Addiction Mix) - Mowo Vs. Star Funk"],
-      "name": "Gambafreaks Vs. Just Addiction",
-      "appears": 1
-    },
-    {
-      "songs": ["You Want Take My Love (Mattias G 80'S Mix) - Mowo Vs. Star Funk"],
-      "name": "Mattias G",
-      "appears": 1
+      "appears": 2
     },
     {
       "songs": ["You Want Take My Love (Matte Botteghi Dub) - Mowo Vs. Star Funk"],
