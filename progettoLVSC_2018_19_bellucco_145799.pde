@@ -19,11 +19,11 @@ ArrayList<Artista> nascosti;
 ArrayList<Link> pallini = new ArrayList<Link>();
 
 //selezione artista
-int moving;
-int selected = -1;
-int prevSelected = -1;
-int collegato = -1;
-int linked = -1;
+int moving;             // artista in movimento
+int selected = -1;      // artista attualmente selezionato
+int prevSelected = -1;  // artista selezionato in precedenza
+int collegato = -1;     // artista di cui mostrare i dettagli
+int linked = -1; 
 int balet;
 
 //visualizzazione dettagli
@@ -53,7 +53,7 @@ void setup() {
   loadJSON(trap, 3);
   loadJSON(indie, 4);
 
-  loadDurations();
+  //loadDurations();
 
   println("Fine caricamento!");
 
@@ -103,7 +103,7 @@ void mousePressed() {
 
     if (selected==-1) toggleCollabs = false;
 
-    if (toggleCollabs) drawCollabs();
+    if (toggleCollabs) cantanti.get(selected).drawCollabs();
 
     prevSelected = selected;
   }

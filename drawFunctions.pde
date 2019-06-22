@@ -1,84 +1,3 @@
-void dettaglio(Artista a) {
-
-  float raggio = a.getAura() + a.getRadius();
-  PImage photo = loadImage(a.getProfile(), "jpg");
-
-  pushMatrix();
-
-  float scala = raggio*2/photo.width;
-  //println(scala);
-  scale(scala, scala);
-
-  PGraphics mask = createGraphics(photo.width, photo.height);
-  mask.beginDraw();
-
-  if (a.getNome().equals("Achille Lauro") || a.getNome().equals("Coez") || a.getNome().equals("Salmo") ) {
-    mask.ellipse(photo.width/2, photo.height/2, raggio*1.3*(1/scala), raggio*1.3*(1/scala));
-    mask.endDraw();
-    photo.mask(mask);
-
-    translate(a.getXPos()*(1/scala), a.getYPos()*(1/scala));
-    image(photo, -photo.width/2, -photo.height/2);
-  } else {
-    mask.ellipse(photo.width/2, photo.height*0.4, raggio*1.3*(1/scala), raggio*1.3*(1/scala));
-    mask.endDraw();
-    photo.mask(mask);
-
-    translate(a.getXPos()*(1/scala), a.getYPos()*(1/scala));
-    image(photo, -photo.width/2, -photo.height*0.4);
-  }
-  popMatrix();
-}
-
-void drawCollabs() {
-  if (selected != -1 && found) {
-
-    nascosti = new ArrayList<Artista>();
-
-    for (int i = 0; i < cantanti.get(selected).getFeats().size(); i++) {
-      Boolean valido = true;
-
-      for (int j = 0; j < cantanti.size(); j++) {
-        if (cantanti.get(selected).getFeats().getJSONObject(i).getString("name").equals(cantanti.get(j).getNome()) ) {
-          valido = false;
-        }
-      }
-
-      if (valido) {
-        Artista agg = new Artista(cantanti.get(selected).getFeats().getJSONObject(i).getString("name"), "");
-        agg.setAura(cantanti.get(selected).getFeats().getJSONObject(i).getInt("appears"));
-        nascosti.add(agg);
-      }
-    }
-
-    float angolo = nascosti.size();
-
-    Artista a = cantanti.get(selected);
-
-    float newR = ( 2*PI*(a.getRadius()+a.getAura()) / nascosti.size()) - 2 ;
-    if (newR > 20) newR = 20;
-
-
-    dettaglio(a);
-
-    for (int i = 0; i < nascosti.size(); i++) {
-
-      int newDist = a.getAura();
-      if (a.getAura() < 20) newDist = 20;
-
-      float newX = a.getXPos() + (a.getRadius()+newDist) * cos(radians(i*(360/angolo)));
-      float newY = a.getYPos() + (a.getRadius()+newDist) * sin(radians(i*(360/angolo)));
-
-      nascosti.get(i).setXPos(round(newX));
-      nascosti.get(i).setYPos(round(newY));
-
-      nascosti.get(i).setRadius(round(newR));
-
-      nascosti.get(i).drawArtist(i*(360/angolo));
-    }
-  }
-}
-
 void moveArtist(int moving, int index) {
   if (moving != -1) {
 
@@ -98,6 +17,7 @@ void moveArtist(int moving, int index) {
       cantanti.get(moving).setYPos(height - cantanti.get(moving).getRadius()/2 - 160);
 
 
+    //controllo sovrapposizione legenda
     if(mouseX < 120 && mouseY < 170) {
       cantanti.get(moving).setXPos(mouseX);
       cantanti.get(moving).setYPos(170);
@@ -109,8 +29,11 @@ void moveArtist(int moving, int index) {
 }
 
 void disegnaBarre(Link pall) {
-  dettaglio(pall.getA());
-  dettaglio(pall.getB());
+  
+  pall.getA().dettaglio();
+  pall.getB().dettaglio();
+  //dettaglio(pall.getA());
+  //dettaglio(pall.getB());
   JSONObject durations = loadJSONObject("data/"+pall.getA().getNome()+"_durations.json");
 
   fill(#1db054);
@@ -231,7 +154,9 @@ void legenda() {
     fill(255);
     textAlign(CENTER);
     textFont(createFont("Arial", 15));
-    text("Click to show featurings not in the graph", width/2, height-80);
+    text("Click "+ cantanti.get(selected).getNome() +" to show featurings not in the graph", width/2, height-80);
+    textFont(createFont("Arial", 13));
+    text("Select a collaboration link to discover songs", width/2, height-60);
   }
 
   if (selected != -1 && toggleCollabs) {
@@ -240,7 +165,9 @@ void legenda() {
     fill(255);
     textAlign(CENTER);
     textFont(createFont("Arial", 15));
-    text("Click to hide featurings not in the graph", width/2, height-80);
+    text("Click "+ cantanti.get(selected).getNome() +" to hide featurings not in the graph", width/2, height-80);
+    textFont(createFont("Arial", 13));
+    text("Select a collaboration link to discover songs", width/2, height-60);
   } else if (selected == -1 && linked==-1) {
     stroke(255);
     strokeWeight(2);
@@ -248,6 +175,8 @@ void legenda() {
     textAlign(CENTER);
     textFont(createFont("Arial", 15));
     text("Select an Artist for details and connections!", width/2, height-80);
+    textFont(createFont("Arial", 13));
+    text("Drag them as you prefer on the screen", width/2, height-60);
   }
 
   stroke(#1db054);
@@ -282,7 +211,7 @@ void legenda() {
 void livello0_wrapper() {
   noStroke();
   grafico();
-  if (toggleCollabs) drawCollabs();
+  if (toggleCollabs) cantanti.get(selected).drawCollabs();
   if (linked != -1)
     disegnaBarre(pallini.get(linked));
 }

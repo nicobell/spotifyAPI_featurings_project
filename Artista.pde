@@ -132,6 +132,89 @@ class Artista {
       this.Bcount++;
     }
   }
+  
+  void drawCollabs() {
+  if (selected != -1 && found) {
+
+    nascosti = new ArrayList<Artista>();
+
+    for (int i = 0; i < this.getFeats().size(); i++) {
+      Boolean valido = true;
+
+      for (int j = 0; j < cantanti.size(); j++) {
+        if (this.getFeats().getJSONObject(i).getString("name").equals(cantanti.get(j).getNome()) ) {
+          valido = false;
+        }
+      }
+
+      if (valido) {
+        Artista agg = new Artista(cantanti.get(selected).getFeats().getJSONObject(i).getString("name"), "");
+        agg.setAura(this.getFeats().getJSONObject(i).getInt("appears"));
+        nascosti.add(agg);
+      }
+    }
+
+    float angolo = nascosti.size();
+
+    Artista a = this;
+
+    float newR = ( 2*PI*(a.getRadius()+a.getAura()) / nascosti.size()) - 2 ;
+    if (newR > 20) newR = 20;
+
+
+    a.dettaglio();
+
+    for (int i = 0; i < nascosti.size(); i++) {
+
+      int newDist = a.getAura();
+      if (a.getAura() < 20) newDist = 20;
+
+      float newX = a.getXPos() + (a.getRadius()+newDist) * cos(radians(i*(360/angolo)));
+      float newY = a.getYPos() + (a.getRadius()+newDist) * sin(radians(i*(360/angolo)));
+
+      nascosti.get(i).setXPos(round(newX));
+      nascosti.get(i).setYPos(round(newY));
+
+      nascosti.get(i).setRadius(round(newR));
+
+      nascosti.get(i).drawArtist(i*(360/angolo));
+    }
+  }
+}
+  
+  void dettaglio() {
+
+   Artista a = this;
+    
+  float raggio = a.getAura() + a.getRadius();
+  PImage photo = loadImage(a.getProfile(), "jpg");
+
+  pushMatrix();
+
+  float scala = raggio*2/photo.width;
+  //println(scala);
+  scale(scala, scala);
+
+  PGraphics mask = createGraphics(photo.width, photo.height);
+  mask.beginDraw();
+
+  if (a.getNome().equals("Achille Lauro") || a.getNome().equals("Coez") || a.getNome().equals("Salmo") ) {
+    mask.ellipse(photo.width/2, photo.height/2, raggio*1.3*(1/scala), raggio*1.3*(1/scala));
+    mask.endDraw();
+    photo.mask(mask);
+
+    translate(a.getXPos()*(1/scala), a.getYPos()*(1/scala));
+    image(photo, -photo.width/2, -photo.height/2);
+  } else {
+    mask.ellipse(photo.width/2, photo.height*0.4, raggio*1.3*(1/scala), raggio*1.3*(1/scala));
+    mask.endDraw();
+    photo.mask(mask);
+
+    translate(a.getXPos()*(1/scala), a.getYPos()*(1/scala));
+    image(photo, -photo.width/2, -photo.height*0.4);
+  }
+  popMatrix();
+}
 
   int getXPos() { 
     return this.xPos;
